@@ -10,6 +10,14 @@
     <itunes:author>Tyler</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Data &amp; AI Daily — 2026-02-18</title>
+      <description>Good morning, Tyler. It&apos;s Tuesday, February 17th, and today we&apos;ve got a genuinely packed show — Anthropic is having one of those rare days where everything moves at once, Databricks dropped some serious platform depth, and there&apos;s a fascinating threa...</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="/episodes/AI-Briefing-2026-02-18.mp3" length="1689312" type="audio/mpeg"/>
+      <guid isPermaLink="true">/episodes/AI-Briefing-2026-02-18.mp3</guid>
+      <itunes:duration>106</itunes:duration>
+    </item>
     
     <item>
       <title>The Data &amp; AI Daily — 2026-02-18</title>
