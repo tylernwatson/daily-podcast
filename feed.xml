@@ -16,6 +16,14 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Data &amp; AI Daily — 2026-02-18</title>
+      <description>Good morning, Tyler. It&apos;s Wednesday, February 18th, and today we&apos;re covering a busy stretch of Databricks product news, a flurry of moves from Anthropic, and a couple of broader AI infrastructure stories worth your attention. It&apos;s looking like a pret...</description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="/episodes/AI-Briefing-2026-02-18.mp3" length="1704960" type="audio/mpeg"/>
+      <guid isPermaLink="true">/episodes/AI-Briefing-2026-02-18.mp3</guid>
+      <itunes:duration>107</itunes:duration>
+    </item>
     
     <item>
       <title>The Data &amp; AI Daily — 2026-02-18</title>
