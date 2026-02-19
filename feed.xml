@@ -16,6 +16,14 @@
     </itunes:owner>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>The Data &amp; AI Daily — 2026-02-19</title>
+      <description>Good morning, Tyler. It&apos;s Thursday, February 19th, and today we&apos;ve got a packed episode — Databricks is shipping fast across compute, agents, and pipelines, Anthropic is having a genuinely big week, and the entire AI world seems to be converging on I...</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-19.mp3" length="1741536" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-19.mp3</guid>
+      <itunes:duration>109</itunes:duration>
+    </item>
     
     <item>
       <title>The Data &amp; AI Daily — 2026-02-18</title>
