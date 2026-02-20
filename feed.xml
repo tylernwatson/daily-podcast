@@ -17,6 +17,18 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-02-20</title>
+      <description>[HOST]
+Good morning, Tyler! Happy Friday. Today we&apos;re covering Databricks going all-in on agents and self-optimizing infrastructure, plus a busy week from Anthropic and Google in the model wars.
+
+[COHOST]
+It&apos;s a great morning for it too — sixty-three...</description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-20.mp3" length="3447168" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-20.mp3</guid>
+      <itunes:duration>215</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-19</title>
       <description>Good morning, Tyler. It&apos;s Thursday, February 19th, and today we&apos;ve got a packed episode — Databricks is shipping fast across compute, agents, and pipelines, Anthropic is having a genuinely big week, and the entire AI world seems to be converging on I...</description>
       <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
