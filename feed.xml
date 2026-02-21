@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-02-21</title>
+      <description># Episode Summary
+
+This week brings major moves from Databricks on enterprise AI operationalization—including general availability of Custom Agents (Agent Bricks) and expanded capabilities like Genie OAuth and Flexible Node Types—while Google ships Gemini 3.1 Pro and Deep Think models, and Anthropic launches Claude Sonnet 4.6 alongside new cybersecurity tools and aggressive global expansion into regulated industries. The episode also covers significant ecosystem developments including Railway&apos;s $100M Series B, ggml.ai&apos;s integration with Hugging Face, and emerging concerns around LLM reasoning failures in production environments.</description>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-21.mp3" length="4572096" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-21.mp3</guid>
+      <itunes:duration>286</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-20</title>
       <description>[HOST]
 Good morning, Tyler! Happy Friday. Today we&apos;re covering Databricks going all-in on agents and self-optimizing infrastructure, plus a busy week from Anthropic and Google in the model wars.
