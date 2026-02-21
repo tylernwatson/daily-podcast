@@ -1,0 +1,9 @@
+{
+  "episodes": [
+    {
+      "date": "2026-02-21",
+      "summary": "# Episode Summary\n\nThis week brings major moves from Databricks on enterprise AI operationalization—including general availability of Custom Agents (Agent Bricks) and expanded capabilities like Genie OAuth and Flexible Node Types—while Google ships Gemini 3.1 Pro and Deep Think models, and Anthropic launches Claude Sonnet 4.6 alongside new cybersecurity tools and aggressive global expansion into regulated industries. The episode also covers significant ecosystem developments including Railway's $100M Series B, ggml.ai's integration with Hugging Face, and emerging concerns around LLM reasoning failures in production environments.",
+      "keyTopics": []
+    }
+  ]
+}
