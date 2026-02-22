@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-02-22</title>
+      <description># The Data and AI Daily: Big Moves from Google, Anthropic, and Databricks
+
+This week brought major model releases and enterprise AI infrastructure updates across the industry. Google shipped both Gemini 3.1 Pro—positioned as their workhorse for everyday complex tasks—and Gemini 3 Deep Think, a research-focused model for extended reasoning, while also adding music generation capabilities. Anthropic had an equally packed week, launching Claude Sonnet 4.6, announcing a cybersecurity initiative to empower defenders, and expanding globally with new offices and partnerships in India and Rwanda. Meanwhile, Databricks moved several key features to general availability—including Agent Bricks (their</description>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-22.mp3" length="4025664" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-22.mp3</guid>
+      <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-21</title>
       <description># Episode Summary
 
