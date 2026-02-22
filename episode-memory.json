@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-02-22",
+      "summary": "# The Data and AI Daily: Big Moves from Google, Anthropic, and Databricks\n\nThis week brought major model releases and enterprise AI infrastructure updates across the industry. Google shipped both Gemini 3.1 Pro—positioned as their workhorse for everyday complex tasks—and Gemini 3 Deep Think, a research-focused model for extended reasoning, while also adding music generation capabilities. Anthropic had an equally packed week, launching Claude Sonnet 4.6, announcing a cybersecurity initiative to empower defenders, and expanding globally with new offices and partnerships in India and Rwanda. Meanwhile, Databricks moved several key features to general availability—including Agent Bricks (their",
+      "keyTopics": []
+    },
+    {
       "date": "2026-02-21",
       "summary": "# Episode Summary\n\nThis week brings major moves from Databricks on enterprise AI operationalization—including general availability of Custom Agents (Agent Bricks) and expanded capabilities like Genie OAuth and Flexible Node Types—while Google ships Gemini 3.1 Pro and Deep Think models, and Anthropic launches Claude Sonnet 4.6 alongside new cybersecurity tools and aggressive global expansion into regulated industries. The episode also covers significant ecosystem developments including Railway's $100M Series B, ggml.ai's integration with Hugging Face, and emerging concerns around LLM reasoning failures in production environments.",
       "keyTopics": []
