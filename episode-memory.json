@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-02-23",
+      "summary": "# Data and AI Daily: Monday Briefing\n\nThis episode covers three major AI stories shaping the industry this week: India's four-day AI Impact Summit bringing together global AI leaders and heads of state to position the country as a serious player in the global AI race, Google's stark warning that AI startups built as simple \"wrappers\" around foundation models face an existential threat as capabilities commoditize, and Anthropic's aggressive international expansion—including new offices, government partnerships, and a cybersecurity initiative aimed at helping defenders rather than attackers. The episode also unpacks significant platform updates from Databricks and emerging research on fundamental reliability issues in large language models used in high-stakes environments.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-02-22",
       "summary": "# The Data and AI Daily: Big Moves from Google, Anthropic, and Databricks\n\nThis week brought major model releases and enterprise AI infrastructure updates across the industry. Google shipped both Gemini 3.1 Pro—positioned as their workhorse for everyday complex tasks—and Gemini 3 Deep Think, a research-focused model for extended reasoning, while also adding music generation capabilities. Anthropic had an equally packed week, launching Claude Sonnet 4.6, announcing a cybersecurity initiative to empower defenders, and expanding globally with new offices and partnerships in India and Rwanda. Meanwhile, Databricks moved several key features to general availability—including Agent Bricks (their",
       "keyTopics": []
