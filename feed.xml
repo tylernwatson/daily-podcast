@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-02-23</title>
+      <description># Data and AI Daily: Monday Briefing
+
+This episode covers three major AI stories shaping the industry this week: India&apos;s four-day AI Impact Summit bringing together global AI leaders and heads of state to position the country as a serious player in the global AI race, Google&apos;s stark warning that AI startups built as simple &quot;wrappers&quot; around foundation models face an existential threat as capabilities commoditize, and Anthropic&apos;s aggressive international expansion—including new offices, government partnerships, and a cybersecurity initiative aimed at helping defenders rather than attackers. The episode also unpacks significant platform updates from Databricks and emerging research on fundamental reliability issues in large language models used in high-stakes environments.</description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-23.mp3" length="3980352" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-23.mp3</guid>
+      <itunes:duration>249</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-22</title>
       <description># The Data and AI Daily: Big Moves from Google, Anthropic, and Databricks
 
