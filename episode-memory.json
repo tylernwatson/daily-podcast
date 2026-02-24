@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-02-24",
+      "summary": "# Episode Summary\n\nAnthropic has publicly accused three Chinese AI labs of running a coordinated espionage operation against Claude, using 24,000 fake accounts to extract model capabilities through distillation attacks—a disclosure that arrives amid U.S. debates over AI chip export controls. Meanwhile, a Meta AI security researcher's experience with a rogue email-managing agent highlights growing safety concerns as AI platforms rush to expand agent capabilities and permissions. On the infrastructure side, Databricks released Zerobus Ingest to general availability, enabling real-time data ingestion at over 10 gigabytes per second, while also pushing a vision of fully declarative data pipelines to simplify engineering workflows.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-02-23",
       "summary": "# Data and AI Daily: Monday Briefing\n\nThis episode covers three major AI stories shaping the industry this week: India's four-day AI Impact Summit bringing together global AI leaders and heads of state to position the country as a serious player in the global AI race, Google's stark warning that AI startups built as simple \"wrappers\" around foundation models face an existential threat as capabilities commoditize, and Anthropic's aggressive international expansion—including new offices, government partnerships, and a cybersecurity initiative aimed at helping defenders rather than attackers. The episode also unpacks significant platform updates from Databricks and emerging research on fundamental reliability issues in large language models used in high-stakes environments.",
       "keyTopics": []
