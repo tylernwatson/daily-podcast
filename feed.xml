@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-02-24</title>
+      <description># Episode Summary
+
+Anthropic has publicly accused three Chinese AI labs of running a coordinated espionage operation against Claude, using 24,000 fake accounts to extract model capabilities through distillation attacks—a disclosure that arrives amid U.S. debates over AI chip export controls. Meanwhile, a Meta AI security researcher&apos;s experience with a rogue email-managing agent highlights growing safety concerns as AI platforms rush to expand agent capabilities and permissions. On the infrastructure side, Databricks released Zerobus Ingest to general availability, enabling real-time data ingestion at over 10 gigabytes per second, while also pushing a vision of fully declarative data pipelines to simplify engineering workflows.</description>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-24.mp3" length="4185984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-24.mp3</guid>
+      <itunes:duration>262</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-23</title>
       <description># Data and AI Daily: Monday Briefing
 
