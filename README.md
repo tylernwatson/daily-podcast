@@ -154,7 +154,7 @@ daily-podcast/
 │   ├── costTracker.js         # Per-run cost tracking (Claude, TTS, Twitter)
 │   ├── ttsUsageTracker.js     # Monthly TTS usage persistence to gh-pages
 │   ├── weather.js             # Austin weather via wttr.in (standalone)
-│   └── uploader.js            # File upload utilities
+│   └── uploader.js            # Google Drive upload (optional)
 ├── artwork.jpg                # Podcast cover art (1400x1400 to 3000x3000 px)
 ├── .env                       # Local config (gitignored)
 ├── service-account.json       # GCP credentials (gitignored)

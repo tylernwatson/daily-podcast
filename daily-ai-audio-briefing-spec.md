@@ -11,7 +11,7 @@ Build an automated pipeline that runs weekdays, scrapes Databricks release notes
 ## Architecture
 
 ```
-Cron Job (daily via GitHub Actions)
+Cron Job (weekdays via GitHub Actions)
     │
     ▼
 1. Content Fetcher      — scrapes Databricks & AI news sources
@@ -473,8 +473,8 @@ async function run() {
     costTracker.trackTwitter(databricksData.twitterApiCalls);
   }
 
-  // 2. Synthesize script
-  const { script, usage: claudeUsage } = await synthesizeScript(contentBundle);
+  // 2. Synthesize script (returns script, summary, and combined usage from both Claude calls)
+  const { script, summary, usage: claudeUsage } = await synthesizeScript(contentBundle);
   costTracker.trackClaude(claudeUsage.inputTokens, claudeUsage.outputTokens);
 
   // 3. Convert to audio
@@ -499,7 +499,7 @@ async function run() {
     fileName: episodeFileName,
     fileSizeBytes,
     durationSeconds,
-    description: script.slice(0, 250) + '...'
+    description: summary,  // Haiku-generated episode summary
   }, BASE_URL, {
     title: process.env.PODCAST_TITLE,
     author: process.env.PODCAST_AUTHOR,
@@ -517,7 +517,9 @@ async function run() {
   await updateTTSUsage(characters);
 }
 
-run().catch(console.error);
+// Supports --dry-run flag and retries up to 2x on failure
+const dryRun = process.argv.includes('--dry-run');
+runWithRetry({ dryRun }).catch(() => process.exit(1));
 ```
 
 ---
@@ -692,7 +694,7 @@ daily-podcast/
 │   ├── costTracker.js           # Per-run cost tracking
 │   ├── ttsUsageTracker.js       # Monthly TTS usage tracking (persisted to gh-pages)
 │   ├── weather.js               # Austin weather via wttr.in (standalone)
-│   └── uploader.js              # File upload utilities
+│   └── uploader.js              # Google Drive upload (optional)
 ├── tests/
 │   ├── costTracker.test.js
 │   ├── publisher.test.js
@@ -872,4 +874,4 @@ Created by [Your Name] using Claude Code.
 
 **Inspiration**: Personal need for a daily AI/Databricks briefing delivered as a podcast during morning routine.
 
-**Tech choices**: Prioritized quality (Journey voices, Sonnet 4.6) over cost. Total ~$18/year thanks to Google TTS free tier — essentially just paying for Claude API.
+**Tech choices**: Prioritized quality (Studio voices, Sonnet 4.6) over cost. Total ~$18/year thanks to Google TTS free tier — essentially just paying for Claude API.
