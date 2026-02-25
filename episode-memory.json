@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-02-25",
+      "summary": "# Wednesday AI Briefing: Pentagon Pressure, Chip Competition, and EU Governance\n\nThis episode covers three major developments shaping the AI landscape: Anthropic faces a Pentagon deadline to loosen its AI safety guardrails—a high-stakes confrontation that could set precedent for how AI labs navigate government pressure—while the startup MatX's $500M funding round signals serious competition emerging in the chip market to challenge Nvidia's dominance on inference workloads. On the regulatory front, Databricks is positioning its lakehouse platform as adaptive governance infrastructure designed to help enterprises navigate Europe's rapidly evolving digital regulations, from the EU AI Act to the new Digital Package.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-02-24",
       "summary": "# Episode Summary\n\nAnthropic has publicly accused three Chinese AI labs of running a coordinated espionage operation against Claude, using 24,000 fake accounts to extract model capabilities through distillation attacks—a disclosure that arrives amid U.S. debates over AI chip export controls. Meanwhile, a Meta AI security researcher's experience with a rogue email-managing agent highlights growing safety concerns as AI platforms rush to expand agent capabilities and permissions. On the infrastructure side, Databricks released Zerobus Ingest to general availability, enabling real-time data ingestion at over 10 gigabytes per second, while also pushing a vision of fully declarative data pipelines to simplify engineering workflows.",
       "keyTopics": []
