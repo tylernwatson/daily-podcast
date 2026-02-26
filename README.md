@@ -1,4 +1,4 @@
-# The Data & AI Daily — Personal Podcast Automation
+# Daily Databricks & AI Podcast
 
 Automated daily two-host audio briefing covering Databricks releases and top AI/ML news, synthesized with Claude Sonnet 4.6 and delivered as a podcast RSS feed via GitHub Pages.
 
