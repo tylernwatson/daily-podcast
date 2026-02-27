@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-02-27</title>
+      <description># Data and AI Daily — Friday, February 27th
+
+This episode covers three major stories reshaping the AI and data landscape: Anthropic&apos;s public refusal to give the Pentagon unrestricted access to Claude, marking a rare stand on AI safety guardrails that could redefine how labs approach government relationships; Databricks&apos; launch of Lakebase, a transactional database built natively on the lakehouse architecture designed to eliminate the need for separate operational and analytical systems; and a broader ecosystem of moves including Anthropic&apos;s Vercept acquisition for computer-use agents, Databricks&apos; AI-first data engineering tools, and Accenture&apos;s multi-vendor AI partnerships reshaping enterprise adoption</description>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-27.mp3" length="3957696" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-02-27.mp3</guid>
+      <itunes:duration>247</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-26</title>
       <description># Thursday Briefing: Databricks Launches Lakebase, Anthropic Acquires Computer-Use Startup
 
