@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-02-27",
+      "summary": "# Data and AI Daily — Friday, February 27th\n\nThis episode covers three major stories reshaping the AI and data landscape: Anthropic's public refusal to give the Pentagon unrestricted access to Claude, marking a rare stand on AI safety guardrails that could redefine how labs approach government relationships; Databricks' launch of Lakebase, a transactional database built natively on the lakehouse architecture designed to eliminate the need for separate operational and analytical systems; and a broader ecosystem of moves including Anthropic's Vercept acquisition for computer-use agents, Databricks' AI-first data engineering tools, and Accenture's multi-vendor AI partnerships reshaping enterprise adoption",
+      "keyTopics": []
+    },
+    {
       "date": "2026-02-26",
       "summary": "# Thursday Briefing: Databricks Launches Lakebase, Anthropic Acquires Computer-Use Startup\n\nDatabricks released Lakebase, a new transactional database built natively on the lakehouse that aims to collapse the traditional separation between operational and analytical databases—a strategic move that puts pressure on legacy database providers and completes Databricks' full-stack data engineering vision. Anthropic acquired Vercept, a Seattle startup specializing in computer-use agents, signaling the acceleration of agentic AI capabilities and the intensifying competition to build autonomous systems that can operate applications like humans. Meanwhile, Nvidia posted record earnings fueled by exponential demand for AI inference,",
       "keyTopics": []
