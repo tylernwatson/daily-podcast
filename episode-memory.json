@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-02",
+      "summary": "# Episode Summary\n\nThis episode covers two major tech stories: Anthropic's escalating public standoff with the Pentagon over refusing to remove safety guardrails from Claude for military use—a stance that consumers appear to be rewarding with top App Store rankings—and Databricks' bold claim that a unified lakehouse architecture will eventually replace all existing databases. Together, these stories highlight competing tensions in AI: safety governance versus military capability, and the potential reorganization of enterprise data infrastructure around new architectural paradigms.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-02-27",
       "summary": "# Data and AI Daily — Friday, February 27th\n\nThis episode covers three major stories reshaping the AI and data landscape: Anthropic's public refusal to give the Pentagon unrestricted access to Claude, marking a rare stand on AI safety guardrails that could redefine how labs approach government relationships; Databricks' launch of Lakebase, a transactional database built natively on the lakehouse architecture designed to eliminate the need for separate operational and analytical systems; and a broader ecosystem of moves including Anthropic's Vercept acquisition for computer-use agents, Databricks' AI-first data engineering tools, and Accenture's multi-vendor AI partnerships reshaping enterprise adoption",
       "keyTopics": []
