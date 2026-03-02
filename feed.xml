@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-02</title>
+      <description># Episode Summary
+
+This episode covers two major tech stories: Anthropic&apos;s escalating public standoff with the Pentagon over refusing to remove safety guardrails from Claude for military use—a stance that consumers appear to be rewarding with top App Store rankings—and Databricks&apos; bold claim that a unified lakehouse architecture will eventually replace all existing databases. Together, these stories highlight competing tensions in AI: safety governance versus military capability, and the potential reorganization of enterprise data infrastructure around new architectural paradigms.</description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-02.mp3" length="3869184" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-02.mp3</guid>
+      <itunes:duration>242</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-02-27</title>
       <description># Data and AI Daily — Friday, February 27th
 
