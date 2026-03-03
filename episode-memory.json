@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-03",
+      "summary": "# Episode Summary\n\nConsumer backlash against OpenAI's Pentagon deal is accelerating, with ChatGPT uninstalls surging 295% while Claude downloads grow—signaling that users care deeply about their AI provider's values and military partnerships. Meanwhile, Databricks is making major waves with Real-Time Mode for Spark Structured Streaming (delivering millisecond latency without a separate engine), a new Cursor plugin for direct production data access, and continued explosive growth (now at $5.4B annualized run rate), positioning itself as the data infrastructure backbone powering the AI era.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-02",
       "summary": "# Episode Summary\n\nThis episode covers two major tech stories: Anthropic's escalating public standoff with the Pentagon over refusing to remove safety guardrails from Claude for military use—a stance that consumers appear to be rewarding with top App Store rankings—and Databricks' bold claim that a unified lakehouse architecture will eventually replace all existing databases. Together, these stories highlight competing tensions in AI: safety governance versus military capability, and the potential reorganization of enterprise data infrastructure around new architectural paradigms.",
       "keyTopics": []
