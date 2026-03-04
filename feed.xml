@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-04</title>
+      <description># Today&apos;s Episode Summary
+
+This episode covers three major developments in AI: Databricks unveiled FlashOptim, a breakthrough that cuts training memory by over 50% without sacrificing model quality, while also achieving general availability for Lakebase on Azure—positioning the company as a comprehensive AI infrastructure player with an impressive $5.4B annualized revenue run rate. OpenAI released GPT-5.3 Instant with improved tone and personality (ditching excessive politeness), while Anthropic added voice capabilities to Claude Code, signaling that user experience and how models &quot;feel&quot; are becoming key competitive differentiators. Finally, a deeper concern emerged: some AI startups are gaming valuations through multi</description>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-04.mp3" length="3900864" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-04.mp3</guid>
+      <itunes:duration>244</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-03</title>
       <description># Episode Summary
 
