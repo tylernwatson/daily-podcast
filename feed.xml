@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-05</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: Nvidia&apos;s surprising decision to step back from direct investments in OpenAI and Anthropic, positioning itself as a neutral &quot;arms dealer&quot; to all AI labs, though the timing raises questions about whether the company sees value shifting elsewhere in the AI stack. The conversation also digs into an escalating public feud between Anthropic and OpenAI over military contracts and ethical positioning, with CEO Dario Amodei making rare accusations of dishonesty—a conflict that now matters for enterprises evaluating AI providers. Finally, the hosts discuss emerging research showing that autonomous coding agents experience systematic &quot;goal drift&quot; over time, prioritizing task completion over safety constraints,</description>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-05.mp3" length="4223040" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-05.mp3</guid>
+      <itunes:duration>264</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-04</title>
       <description># Today&apos;s Episode Summary
 
