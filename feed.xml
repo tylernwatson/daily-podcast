@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-06</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: Anthropic faces a dramatic escalation in its standoff with the Pentagon after being officially labeled a supply-chain risk by the Department of Defense, despite the DOD simultaneously using Claude in operations—a contradiction the company plans to challenge in court. Meanwhile, Databricks is consolidating its position as a neutral AI platform with day-one access to OpenAI&apos;s new GPT-5.4 model, while also releasing KARL, a new reinforcement-learning-based agent designed to handle multiple types of retrieval tasks in enterprise settings more robustly than existing solutions. The episode also highlights Anthropic&apos;s strategic pivot toward civilian partnerships like Mozilla, positioning</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-06.mp3" length="3690624" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-06.mp3</guid>
+      <itunes:duration>231</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-05</title>
       <description># Episode Summary
 
