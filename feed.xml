@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-09</title>
+      <description># Episode Summary
+
+Databricks is pushing agent technology forward with a new architectural pattern that eliminates context window constraints, allowing AI agents to sustain long-running enterprise tasks—a shift from simply building bigger context windows. Meanwhile, Anthropic faces an ongoing Pentagon supply-chain risk designation that&apos;s becoming a broader cautionary tale for safety-conscious startups considering government contracts, while the company&apos;s quieter acquisition of Vercept for computer use capabilities signals a larger strategic push toward accessible AI automation tools.</description>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-09.mp3" length="3393984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-09.mp3</guid>
+      <itunes:duration>212</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-06</title>
       <description># Episode Summary
 
