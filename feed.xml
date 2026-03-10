@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-10</title>
+      <description># Episode Summary
+
+Anthropic officially sued the Department of Defense over its controversial &quot;supply-chain risk&quot; designation, with over 30 employees from OpenAI and Google DeepMind publicly backing the case—a significant moment that could define the cost of maintaining ethical principles in AI development. The episode also covers major product launches from Anthropic (Code Review for Claude Code) and Databricks (Kasal framework and billion-scale vector search), plus Yann LeCun&apos;s AMI Labs securing over $1 billion to pursue world models as an alternative to the current LLM paradigm.</description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-10.mp3" length="3995712" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-10.mp3</guid>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-09</title>
       <description># Episode Summary
 
