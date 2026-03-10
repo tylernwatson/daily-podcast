@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-10",
+      "summary": "# Episode Summary\n\nAnthropic officially sued the Department of Defense over its controversial \"supply-chain risk\" designation, with over 30 employees from OpenAI and Google DeepMind publicly backing the case—a significant moment that could define the cost of maintaining ethical principles in AI development. The episode also covers major product launches from Anthropic (Code Review for Claude Code) and Databricks (Kasal framework and billion-scale vector search), plus Yann LeCun's AMI Labs securing over $1 billion to pursue world models as an alternative to the current LLM paradigm.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-09",
       "summary": "# Episode Summary\n\nDatabricks is pushing agent technology forward with a new architectural pattern that eliminates context window constraints, allowing AI agents to sustain long-running enterprise tasks—a shift from simply building bigger context windows. Meanwhile, Anthropic faces an ongoing Pentagon supply-chain risk designation that's becoming a broader cautionary tale for safety-conscious startups considering government contracts, while the company's quieter acquisition of Vercept for computer use capabilities signals a larger strategic push toward accessible AI automation tools.",
       "keyTopics": []
