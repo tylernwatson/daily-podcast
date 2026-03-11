@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-11</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI: Anthropic&apos;s strategic response to Pentagon pressure through launching a new safety-focused Institute and expanding to Sydney, directly contrasted with Google&apos;s announcement that it will provide AI agents to the Department of Defense. The conversation also explores Amazon&apos;s launch of a healthcare AI assistant on its consumer platforms and warns that AI-powered apps are struggling with long-term user retention, suggesting that novelty alone won&apos;t sustain products without solving genuinely recurring problems.</description>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-11.mp3" length="3338688" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-11.mp3</guid>
+      <itunes:duration>209</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-10</title>
       <description># Episode Summary
 
