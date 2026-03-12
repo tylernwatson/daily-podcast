@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-12</title>
+      <description># Episode Summary
+
+Databricks launched Genie Code, an AI agent platform that combines natural language querying with autonomous multi-step analysis and data discovery—backed by semantic understanding of how your organization actually uses its data. The company also acquired Quotient AI to fill a critical gap in agent evaluation and reliability, creating a complete pipeline for building, testing, and deploying production agents safely. In broader AI news, Google published research using LLMs to convert decades of news reports into structured flood prediction data, demonstrating how AI can solve real-world problems in data-scarce regions while Anthropic and Google chart opposing paths on government AI partnerships.</description>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-12.mp3" length="3910464" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-12.mp3</guid>
+      <itunes:duration>244</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-11</title>
       <description># Episode Summary
 
