@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-12",
+      "summary": "# Episode Summary\n\nDatabricks launched Genie Code, an AI agent platform that combines natural language querying with autonomous multi-step analysis and data discovery—backed by semantic understanding of how your organization actually uses its data. The company also acquired Quotient AI to fill a critical gap in agent evaluation and reliability, creating a complete pipeline for building, testing, and deploying production agents safely. In broader AI news, Google published research using LLMs to convert decades of news reports into structured flood prediction data, demonstrating how AI can solve real-world problems in data-scarce regions while Anthropic and Google chart opposing paths on government AI partnerships.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-11",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI: Anthropic's strategic response to Pentagon pressure through launching a new safety-focused Institute and expanding to Sydney, directly contrasted with Google's announcement that it will provide AI agents to the Department of Defense. The conversation also explores Amazon's launch of a healthcare AI assistant on its consumer platforms and warns that AI-powered apps are struggling with long-term user retention, suggesting that novelty alone won't sustain products without solving genuinely recurring problems.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-02-23",
       "summary": "# Data and AI Daily: Monday Briefing\n\nThis episode covers three major AI stories shaping the industry this week: India's four-day AI Impact Summit bringing together global AI leaders and heads of state to position the country as a serious player in the global AI race, Google's stark warning that AI startups built as simple \"wrappers\" around foundation models face an existential threat as capabilities commoditize, and Anthropic's aggressive international expansion—including new offices, government partnerships, and a cybersecurity initiative aimed at helping defenders rather than attackers. The episode also unpacks significant platform updates from Databricks and emerging research on fundamental reliability issues in large language models used in high-stakes environments.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-02-22",
-      "summary": "# The Data and AI Daily: Big Moves from Google, Anthropic, and Databricks\n\nThis week brought major model releases and enterprise AI infrastructure updates across the industry. Google shipped both Gemini 3.1 Pro—positioned as their workhorse for everyday complex tasks—and Gemini 3 Deep Think, a research-focused model for extended reasoning, while also adding music generation capabilities. Anthropic had an equally packed week, launching Claude Sonnet 4.6, announcing a cybersecurity initiative to empower defenders, and expanding globally with new offices and partnerships in India and Rwanda. Meanwhile, Databricks moved several key features to general availability—including Agent Bricks (their",
       "keyTopics": []
     }
   ]
