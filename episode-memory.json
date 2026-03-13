@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-13",
+      "summary": "# This Week in AI Infrastructure and Enterprise Adoption\n\nAnthropic is making a major strategic shift with a $100 million investment in a Claude Partner Network, positioning itself as an enterprise alternative to OpenAI by building an ecosystem of integrations and support—while simultaneously navigating government scrutiny and regulatory challenges. Meanwhile, Databricks is laying out the foundation for production AI with new frameworks around governance and serverless compute, and the industry is increasingly grappling with critical security challenges like prompt injection attacks in autonomous AI agents. All of this unfolds as Nvidia's Jensen Huang delivers his GTC keynote, with announcements expected to shape enterprise AI infrastructure decisions for the next 18 months.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-12",
       "summary": "# Episode Summary\n\nDatabricks launched Genie Code, an AI agent platform that combines natural language querying with autonomous multi-step analysis and data discovery—backed by semantic understanding of how your organization actually uses its data. The company also acquired Quotient AI to fill a critical gap in agent evaluation and reliability, creating a complete pipeline for building, testing, and deploying production agents safely. In broader AI news, Google published research using LLMs to convert decades of news reports into structured flood prediction data, demonstrating how AI can solve real-world problems in data-scarce regions while Anthropic and Google chart opposing paths on government AI partnerships.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-02-24",
       "summary": "# Episode Summary\n\nAnthropic has publicly accused three Chinese AI labs of running a coordinated espionage operation against Claude, using 24,000 fake accounts to extract model capabilities through distillation attacks—a disclosure that arrives amid U.S. debates over AI chip export controls. Meanwhile, a Meta AI security researcher's experience with a rogue email-managing agent highlights growing safety concerns as AI platforms rush to expand agent capabilities and permissions. On the infrastructure side, Databricks released Zerobus Ingest to general availability, enabling real-time data ingestion at over 10 gigabytes per second, while also pushing a vision of fully declarative data pipelines to simplify engineering workflows.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-02-23",
-      "summary": "# Data and AI Daily: Monday Briefing\n\nThis episode covers three major AI stories shaping the industry this week: India's four-day AI Impact Summit bringing together global AI leaders and heads of state to position the country as a serious player in the global AI race, Google's stark warning that AI startups built as simple \"wrappers\" around foundation models face an existential threat as capabilities commoditize, and Anthropic's aggressive international expansion—including new offices, government partnerships, and a cybersecurity initiative aimed at helping defenders rather than attackers. The episode also unpacks significant platform updates from Databricks and emerging research on fundamental reliability issues in large language models used in high-stakes environments.",
       "keyTopics": []
     }
   ]
