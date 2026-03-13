@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-13</title>
+      <description># This Week in AI Infrastructure and Enterprise Adoption
+
+Anthropic is making a major strategic shift with a $100 million investment in a Claude Partner Network, positioning itself as an enterprise alternative to OpenAI by building an ecosystem of integrations and support—while simultaneously navigating government scrutiny and regulatory challenges. Meanwhile, Databricks is laying out the foundation for production AI with new frameworks around governance and serverless compute, and the industry is increasingly grappling with critical security challenges like prompt injection attacks in autonomous AI agents. All of this unfolds as Nvidia&apos;s Jensen Huang delivers his GTC keynote, with announcements expected to shape enterprise AI infrastructure decisions for the next 18 months.</description>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-13.mp3" length="3802944" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-13.mp3</guid>
+      <itunes:duration>238</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-12</title>
       <description># Episode Summary
 
