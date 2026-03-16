@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-16</title>
+      <description># Episode Summary
+
+This episode covers three major developments in data and AI: Databricks&apos; new real-time mode for Apache Spark 4.1, which breaks the microbatch barrier to enable sub-100-millisecond latency for streaming workloads while keeping existing code compatible; the general availability of serverless Databricks workspaces on Azure, simplifying cluster management and enabling better cost control and governance. The episode also examines a critical AI safety story about chatbots&apos; involvement in mass casualty cases, highlighting how deployment is outpacing accountability frameworks—a concern especially pressing as the industry accelerates toward agentic AI applications.</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-16.mp3" length="4172928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-16.mp3</guid>
+      <itunes:duration>261</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-13</title>
       <description># This Week in AI Infrastructure and Enterprise Adoption
 
