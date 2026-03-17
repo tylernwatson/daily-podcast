@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-17</title>
+      <description># Episode Summary
+
+This episode covers three major tech stories reshaping enterprise infrastructure: Databricks&apos; new Zerobus Ingest technology promises to dramatically simplify data streaming by eliminating middleware and pushing 10GB/second directly into lakehouses, positioning the lakehouse as a real-time analytics platform rather than just batch processing. Nvidia&apos;s Jensen Huang projected $1 trillion in orders for Blackwell and Vera Rubin chips, signaling an unprecedented scale of AI infrastructure investment that puts pressure on all vendors to deliver reliable, governed AI workloads. A political controversy also emerged as Senator Elizabeth Warren pressed the Pentagon over granting xAI classified network access, reflecting growing congressional scrutiny of AI deployment</description>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-17.mp3" length="3791424" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-17.mp3</guid>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-16</title>
       <description># Episode Summary
 
