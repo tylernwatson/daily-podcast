@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-17",
+      "summary": "# Episode Summary\n\nThis episode covers three major tech stories reshaping enterprise infrastructure: Databricks' new Zerobus Ingest technology promises to dramatically simplify data streaming by eliminating middleware and pushing 10GB/second directly into lakehouses, positioning the lakehouse as a real-time analytics platform rather than just batch processing. Nvidia's Jensen Huang projected $1 trillion in orders for Blackwell and Vera Rubin chips, signaling an unprecedented scale of AI infrastructure investment that puts pressure on all vendors to deliver reliable, governed AI workloads. A political controversy also emerged as Senator Elizabeth Warren pressed the Pentagon over granting xAI classified network access, reflecting growing congressional scrutiny of AI deployment",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-16",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in data and AI: Databricks' new real-time mode for Apache Spark 4.1, which breaks the microbatch barrier to enable sub-100-millisecond latency for streaming workloads while keeping existing code compatible; the general availability of serverless Databricks workspaces on Azure, simplifying cluster management and enabling better cost control and governance. The episode also examines a critical AI safety story about chatbots' involvement in mass casualty cases, highlighting how deployment is outpacing accountability frameworks—a concern especially pressing as the industry accelerates toward agentic AI applications.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-02-26",
       "summary": "# Thursday Briefing: Databricks Launches Lakebase, Anthropic Acquires Computer-Use Startup\n\nDatabricks released Lakebase, a new transactional database built natively on the lakehouse that aims to collapse the traditional separation between operational and analytical databases—a strategic move that puts pressure on legacy database providers and completes Databricks' full-stack data engineering vision. Anthropic acquired Vercept, a Seattle startup specializing in computer-use agents, signaling the acceleration of agentic AI capabilities and the intensifying competition to build autonomous systems that can operate applications like humans. Meanwhile, Nvidia posted record earnings fueled by exponential demand for AI inference,",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-02-25",
-      "summary": "# Wednesday AI Briefing: Pentagon Pressure, Chip Competition, and EU Governance\n\nThis episode covers three major developments shaping the AI landscape: Anthropic faces a Pentagon deadline to loosen its AI safety guardrails—a high-stakes confrontation that could set precedent for how AI labs navigate government pressure—while the startup MatX's $500M funding round signals serious competition emerging in the chip market to challenge Nvidia's dominance on inference workloads. On the regulatory front, Databricks is positioning its lakehouse platform as adaptive governance infrastructure designed to help enterprises navigate Europe's rapidly evolving digital regulations, from the EU AI Act to the new Digital Package.",
       "keyTopics": []
     }
   ]
