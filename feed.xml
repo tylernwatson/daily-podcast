@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-18</title>
+      <description># Data and AI Daily — March 18th
+
+Databricks launches a specialized embedding model built for agentic AI workflows, signaling their broader push to become the production platform for enterprise agents, while Mistral takes a bold opposite approach with Forge, enabling companies to train custom foundation models from scratch on their own data. Meanwhile, the Anthropic-Pentagon relationship continues deteriorating as the Department of Defense actively develops alternatives, and Google rolls out its Personal Intelligence feature to all US users, embedding AI deeply into consumer data across Gmail, Photos, and beyond.</description>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-18.mp3" length="3791232" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-18.mp3</guid>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-17</title>
       <description># Episode Summary
 
