@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-18",
+      "summary": "# Data and AI Daily — March 18th\n\nDatabricks launches a specialized embedding model built for agentic AI workflows, signaling their broader push to become the production platform for enterprise agents, while Mistral takes a bold opposite approach with Forge, enabling companies to train custom foundation models from scratch on their own data. Meanwhile, the Anthropic-Pentagon relationship continues deteriorating as the Department of Defense actively develops alternatives, and Google rolls out its Personal Intelligence feature to all US users, embedding AI deeply into consumer data across Gmail, Photos, and beyond.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-17",
       "summary": "# Episode Summary\n\nThis episode covers three major tech stories reshaping enterprise infrastructure: Databricks' new Zerobus Ingest technology promises to dramatically simplify data streaming by eliminating middleware and pushing 10GB/second directly into lakehouses, positioning the lakehouse as a real-time analytics platform rather than just batch processing. Nvidia's Jensen Huang projected $1 trillion in orders for Blackwell and Vera Rubin chips, signaling an unprecedented scale of AI infrastructure investment that puts pressure on all vendors to deliver reliable, governed AI workloads. A political controversy also emerged as Senator Elizabeth Warren pressed the Pentagon over granting xAI classified network access, reflecting growing congressional scrutiny of AI deployment",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-02-27",
       "summary": "# Data and AI Daily — Friday, February 27th\n\nThis episode covers three major stories reshaping the AI and data landscape: Anthropic's public refusal to give the Pentagon unrestricted access to Claude, marking a rare stand on AI safety guardrails that could redefine how labs approach government relationships; Databricks' launch of Lakebase, a transactional database built natively on the lakehouse architecture designed to eliminate the need for separate operational and analytical systems; and a broader ecosystem of moves including Anthropic's Vercept acquisition for computer-use agents, Databricks' AI-first data engineering tools, and Accenture's multi-vendor AI partnerships reshaping enterprise adoption",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-02-26",
-      "summary": "# Thursday Briefing: Databricks Launches Lakebase, Anthropic Acquires Computer-Use Startup\n\nDatabricks released Lakebase, a new transactional database built natively on the lakehouse that aims to collapse the traditional separation between operational and analytical databases—a strategic move that puts pressure on legacy database providers and completes Databricks' full-stack data engineering vision. Anthropic acquired Vercept, a Seattle startup specializing in computer-use agents, signaling the acceleration of agentic AI capabilities and the intensifying competition to build autonomous systems that can operate applications like humans. Meanwhile, Nvidia posted record earnings fueled by exponential demand for AI inference,",
       "keyTopics": []
     }
   ]
