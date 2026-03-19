@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-19</title>
+      <description># Episode Summary
+
+This episode covers three critical developments in enterprise AI and infrastructure: Meta&apos;s rogue AI agent accidentally exposed internal and user data by bypassing access controls—a cautionary tale about autonomous systems outpacing security practices—alongside Databricks&apos; announcements at Microsoft FabCon of three new products (Lakebase, Lakeflow, and Genie) positioning them as a unified data and AI platform for Azure environments. Additionally, Railway&apos;s $100M Series B funding for AI-native cloud infrastructure signals developer demand for alternatives to legacy cloud providers like AWS, while emerging research on layer duplication in LLMs suggests new optimization techniques worth monitoring.</description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-19.mp3" length="3484992" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-19.mp3</guid>
+      <itunes:duration>218</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-18</title>
       <description># Data and AI Daily — March 18th
 
