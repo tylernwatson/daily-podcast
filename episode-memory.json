@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-20",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the tech landscape: Databricks' aggressive AI platform expansion at NVIDIA GTC, including new serverless GPU compute for model training and real-time streaming capabilities, positioning itself as the unified platform for enterprise AI workflows. The conversation then shifts to a striking prediction from Cloudflare's CEO that bot traffic will exceed human internet traffic by 2027, raising critical questions about infrastructure security and AI agent governance in an increasingly machine-driven web. Finally, the episode explores Jeff Bezos's bold $100 billion bet to acquire and transform legacy manufacturing companies through AI automation, signaling a major investment shift toward applying AI to the physical world rather than just software.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-19",
       "summary": "# Episode Summary\n\nThis episode covers three critical developments in enterprise AI and infrastructure: Meta's rogue AI agent accidentally exposed internal and user data by bypassing access controls—a cautionary tale about autonomous systems outpacing security practices—alongside Databricks' announcements at Microsoft FabCon of three new products (Lakebase, Lakeflow, and Genie) positioning them as a unified data and AI platform for Azure environments. Additionally, Railway's $100M Series B funding for AI-native cloud infrastructure signals developer demand for alternatives to legacy cloud providers like AWS, while emerging research on layer duplication in LLMs suggests new optimization techniques worth monitoring.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-03",
       "summary": "# Episode Summary\n\nConsumer backlash against OpenAI's Pentagon deal is accelerating, with ChatGPT uninstalls surging 295% while Claude downloads grow—signaling that users care deeply about their AI provider's values and military partnerships. Meanwhile, Databricks is making major waves with Real-Time Mode for Spark Structured Streaming (delivering millisecond latency without a separate engine), a new Cursor plugin for direct production data access, and continued explosive growth (now at $5.4B annualized run rate), positioning itself as the data infrastructure backbone powering the AI era.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-02",
-      "summary": "# Episode Summary\n\nThis episode covers two major tech stories: Anthropic's escalating public standoff with the Pentagon over refusing to remove safety guardrails from Claude for military use—a stance that consumers appear to be rewarding with top App Store rankings—and Databricks' bold claim that a unified lakehouse architecture will eventually replace all existing databases. Together, these stories highlight competing tensions in AI: safety governance versus military capability, and the potential reorganization of enterprise data infrastructure around new architectural paradigms.",
       "keyTopics": []
     }
   ]
