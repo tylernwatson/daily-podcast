@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-20</title>
+      <description># Episode Summary
+
+This episode covers three major stories shaping the tech landscape: Databricks&apos; aggressive AI platform expansion at NVIDIA GTC, including new serverless GPU compute for model training and real-time streaming capabilities, positioning itself as the unified platform for enterprise AI workflows. The conversation then shifts to a striking prediction from Cloudflare&apos;s CEO that bot traffic will exceed human internet traffic by 2027, raising critical questions about infrastructure security and AI agent governance in an increasingly machine-driven web. Finally, the episode explores Jeff Bezos&apos;s bold $100 billion bet to acquire and transform legacy manufacturing companies through AI automation, signaling a major investment shift toward applying AI to the physical world rather than just software.</description>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-20.mp3" length="3829440" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-20.mp3</guid>
+      <itunes:duration>239</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-19</title>
       <description># Episode Summary
 
