@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-23</title>
+      <description># Today&apos;s Episode Summary
+
+Databricks is making a serious push to become the trusted platform for production AI agents with their new coSTAR framework and updated security standards—addressing real-world risks like prompt injection and unauthorized escalation that are no longer theoretical. Meanwhile, two cautionary tales emerged: Cursor&apos;s revelation that its coding model built on a Chinese AI foundation sparked transparency concerns in the developer tool space, and Walmart&apos;s data showing AI-powered checkout performed three times worse than their standard site, a sobering reminder that AI doesn&apos;t automatically improve every user experience.</description>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-23.mp3" length="3851328" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-23.mp3</guid>
+      <itunes:duration>241</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-20</title>
       <description># Episode Summary
 
