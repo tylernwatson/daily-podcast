@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-23",
+      "summary": "# Today's Episode Summary\n\nDatabricks is making a serious push to become the trusted platform for production AI agents with their new coSTAR framework and updated security standards—addressing real-world risks like prompt injection and unauthorized escalation that are no longer theoretical. Meanwhile, two cautionary tales emerged: Cursor's revelation that its coding model built on a Chinese AI foundation sparked transparency concerns in the developer tool space, and Walmart's data showing AI-powered checkout performed three times worse than their standard site, a sobering reminder that AI doesn't automatically improve every user experience.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-20",
       "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the tech landscape: Databricks' aggressive AI platform expansion at NVIDIA GTC, including new serverless GPU compute for model training and real-time streaming capabilities, positioning itself as the unified platform for enterprise AI workflows. The conversation then shifts to a striking prediction from Cloudflare's CEO that bot traffic will exceed human internet traffic by 2027, raising critical questions about infrastructure security and AI agent governance in an increasingly machine-driven web. Finally, the episode explores Jeff Bezos's bold $100 billion bet to acquire and transform legacy manufacturing companies through AI automation, signaling a major investment shift toward applying AI to the physical world rather than just software.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-04",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major developments in AI: Databricks unveiled FlashOptim, a breakthrough that cuts training memory by over 50% without sacrificing model quality, while also achieving general availability for Lakebase on Azure—positioning the company as a comprehensive AI infrastructure player with an impressive $5.4B annualized revenue run rate. OpenAI released GPT-5.3 Instant with improved tone and personality (ditching excessive politeness), while Anthropic added voice capabilities to Claude Code, signaling that user experience and how models \"feel\" are becoming key competitive differentiators. Finally, a deeper concern emerged: some AI startups are gaming valuations through multi",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-03",
-      "summary": "# Episode Summary\n\nConsumer backlash against OpenAI's Pentagon deal is accelerating, with ChatGPT uninstalls surging 295% while Claude downloads grow—signaling that users care deeply about their AI provider's values and military partnerships. Meanwhile, Databricks is making major waves with Real-Time Mode for Spark Structured Streaming (delivering millisecond latency without a separate engine), a new Cursor plugin for direct production data access, and continued explosive growth (now at $5.4B annualized run rate), positioning itself as the data infrastructure backbone powering the AI era.",
       "keyTopics": []
     }
   ]
