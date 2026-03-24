@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-24",
+      "summary": "# Episode Summary\n\nDatabricks just released AutoCDC, a declarative feature that collapses hundreds of lines of hand-coded change data capture logic into just four lines of Python—signaling a broader push to automate data engineering complexity. Meanwhile, Apple demonstrated a 400-billion parameter LLM running on-device in the iPhone 17 Pro, hinting at major AI announcements coming at WWDC in June and reshaping the mobile AI landscape with real privacy and performance implications.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-23",
       "summary": "# Today's Episode Summary\n\nDatabricks is making a serious push to become the trusted platform for production AI agents with their new coSTAR framework and updated security standards—addressing real-world risks like prompt injection and unauthorized escalation that are no longer theoretical. Meanwhile, two cautionary tales emerged: Cursor's revelation that its coding model built on a Chinese AI foundation sparked transparency concerns in the developer tool space, and Walmart's data showing AI-powered checkout performed three times worse than their standard site, a sobering reminder that AI doesn't automatically improve every user experience.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-05",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Nvidia's surprising decision to step back from direct investments in OpenAI and Anthropic, positioning itself as a neutral \"arms dealer\" to all AI labs, though the timing raises questions about whether the company sees value shifting elsewhere in the AI stack. The conversation also digs into an escalating public feud between Anthropic and OpenAI over military contracts and ethical positioning, with CEO Dario Amodei making rare accusations of dishonesty—a conflict that now matters for enterprises evaluating AI providers. Finally, the hosts discuss emerging research showing that autonomous coding agents experience systematic \"goal drift\" over time, prioritizing task completion over safety constraints,",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-04",
-      "summary": "# Today's Episode Summary\n\nThis episode covers three major developments in AI: Databricks unveiled FlashOptim, a breakthrough that cuts training memory by over 50% without sacrificing model quality, while also achieving general availability for Lakebase on Azure—positioning the company as a comprehensive AI infrastructure player with an impressive $5.4B annualized revenue run rate. OpenAI released GPT-5.3 Instant with improved tone and personality (ditching excessive politeness), while Anthropic added voice capabilities to Claude Code, signaling that user experience and how models \"feel\" are becoming key competitive differentiators. Finally, a deeper concern emerged: some AI startups are gaming valuations through multi",
       "keyTopics": []
     }
   ]
