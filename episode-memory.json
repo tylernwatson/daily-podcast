@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-26",
+      "summary": "# Episode Summary\n\nThis episode digs into three major AI developments: Anthropic's research revealing a widening skills gap between power users and everyone else—creating structural inequality in how people can leverage AI tools—and what that means for workforce dynamics and company productivity. The show also explores surprising data showing 90% of Claude-generated code ends up in obscure repositories, raising questions about whether AI coding output translates to real shipped value. Finally, Google's TurboQuant memory compression breakthrough could dramatically reduce AI inference costs if it makes it to production, sparking both serious infrastructure implications and plenty of Silicon Valley memes.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-25",
       "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping enterprise tech: Databricks' aggressive push into security with its new Lakewatch SIEM platform, positioning itself as a unified data and security hub; a reality check on AI coding tools like Anthropic's Claude Code, where pricing and open-source alternatives like Goose are creating a tiered adoption landscape; and major venture funding signals—including Kleiner Perkins' new $3.5B AI-focused fund and investments in physical AI applications—revealing where institutional capital believes the next decade of value creation lies.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-09",
       "summary": "# Episode Summary\n\nDatabricks is pushing agent technology forward with a new architectural pattern that eliminates context window constraints, allowing AI agents to sustain long-running enterprise tasks—a shift from simply building bigger context windows. Meanwhile, Anthropic faces an ongoing Pentagon supply-chain risk designation that's becoming a broader cautionary tale for safety-conscious startups considering government contracts, while the company's quieter acquisition of Vercept for computer use capabilities signals a larger strategic push toward accessible AI automation tools.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-06",
-      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic faces a dramatic escalation in its standoff with the Pentagon after being officially labeled a supply-chain risk by the Department of Defense, despite the DOD simultaneously using Claude in operations—a contradiction the company plans to challenge in court. Meanwhile, Databricks is consolidating its position as a neutral AI platform with day-one access to OpenAI's new GPT-5.4 model, while also releasing KARL, a new reinforcement-learning-based agent designed to handle multiple types of retrieval tasks in enterprise settings more robustly than existing solutions. The episode also highlights Anthropic's strategic pivot toward civilian partnerships like Mozilla, positioning",
       "keyTopics": []
     }
   ]
