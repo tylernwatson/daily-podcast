@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-27",
+      "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping the AI landscape: Anthropic's federal court victory against Trump administration restrictions on Department of Defense contracts, setting a precedent for how AI companies will legally defend their business interests; the rapid commoditization of coding AI, where $500 consumer GPUs now match expensive API models on benchmarks, forcing enterprises to reconsider their cost structures; a concrete $500K annual savings win from an engineering team that used AI to optimize their JSONata implementation in a single day; and a bipartisan Senate push for mandatory data center power consumption reporting, signaling incoming regulatory compliance requirements for large-scale AI infrastructure operators.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-26",
       "summary": "# Episode Summary\n\nThis episode digs into three major AI developments: Anthropic's research revealing a widening skills gap between power users and everyone else—creating structural inequality in how people can leverage AI tools—and what that means for workforce dynamics and company productivity. The show also explores surprising data showing 90% of Claude-generated code ends up in obscure repositories, raising questions about whether AI coding output translates to real shipped value. Finally, Google's TurboQuant memory compression breakthrough could dramatically reduce AI inference costs if it makes it to production, sparking both serious infrastructure implications and plenty of Silicon Valley memes.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-10",
       "summary": "# Episode Summary\n\nAnthropic officially sued the Department of Defense over its controversial \"supply-chain risk\" designation, with over 30 employees from OpenAI and Google DeepMind publicly backing the case—a significant moment that could define the cost of maintaining ethical principles in AI development. The episode also covers major product launches from Anthropic (Code Review for Claude Code) and Databricks (Kasal framework and billion-scale vector search), plus Yann LeCun's AMI Labs securing over $1 billion to pursue world models as an alternative to the current LLM paradigm.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-09",
-      "summary": "# Episode Summary\n\nDatabricks is pushing agent technology forward with a new architectural pattern that eliminates context window constraints, allowing AI agents to sustain long-running enterprise tasks—a shift from simply building bigger context windows. Meanwhile, Anthropic faces an ongoing Pentagon supply-chain risk designation that's becoming a broader cautionary tale for safety-conscious startups considering government contracts, while the company's quieter acquisition of Vercept for computer use capabilities signals a larger strategic push toward accessible AI automation tools.",
       "keyTopics": []
     }
   ]
