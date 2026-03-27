@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-27</title>
+      <description># Episode Summary
+
+This episode covers four major stories reshaping the AI landscape: Anthropic&apos;s federal court victory against Trump administration restrictions on Department of Defense contracts, setting a precedent for how AI companies will legally defend their business interests; the rapid commoditization of coding AI, where $500 consumer GPUs now match expensive API models on benchmarks, forcing enterprises to reconsider their cost structures; a concrete $500K annual savings win from an engineering team that used AI to optimize their JSONata implementation in a single day; and a bipartisan Senate push for mandatory data center power consumption reporting, signaling incoming regulatory compliance requirements for large-scale AI infrastructure operators.</description>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-27.mp3" length="3881280" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-27.mp3</guid>
+      <itunes:duration>243</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-26</title>
       <description># Episode Summary
 
