@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-30</title>
+      <description># Episode Summary
+
+OpenAI&apos;s abrupt shutdown of Sora after just six months signals a reality check for AI video generation—the technology remains far harder to monetize than hype suggested, raising questions about whether the entire category will face a pullback. In a striking contrast, space-based data center startup Starcloud just became Y Combinator&apos;s fastest unicorn ever with a $170 million Series A, betting that orbital infrastructure can solve Earth-bound AI compute bottlenecks. The episode also covers a Stanford study on AI chatbot sycophancy, Databricks&apos; latest platform consolidations, and how coding agents could revitalize open source software maintenance.</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-30.mp3" length="4116096" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-30.mp3</guid>
+      <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-27</title>
       <description># Episode Summary
 
