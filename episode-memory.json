@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-03-30",
+      "summary": "# Episode Summary\n\nOpenAI's abrupt shutdown of Sora after just six months signals a reality check for AI video generation—the technology remains far harder to monetize than hype suggested, raising questions about whether the entire category will face a pullback. In a striking contrast, space-based data center startup Starcloud just became Y Combinator's fastest unicorn ever with a $170 million Series A, betting that orbital infrastructure can solve Earth-bound AI compute bottlenecks. The episode also covers a Stanford study on AI chatbot sycophancy, Databricks' latest platform consolidations, and how coding agents could revitalize open source software maintenance.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-27",
       "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping the AI landscape: Anthropic's federal court victory against Trump administration restrictions on Department of Defense contracts, setting a precedent for how AI companies will legally defend their business interests; the rapid commoditization of coding AI, where $500 consumer GPUs now match expensive API models on benchmarks, forcing enterprises to reconsider their cost structures; a concrete $500K annual savings win from an engineering team that used AI to optimize their JSONata implementation in a single day; and a bipartisan Senate push for mandatory data center power consumption reporting, signaling incoming regulatory compliance requirements for large-scale AI infrastructure operators.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-11",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI: Anthropic's strategic response to Pentagon pressure through launching a new safety-focused Institute and expanding to Sydney, directly contrasted with Google's announcement that it will provide AI agents to the Department of Defense. The conversation also explores Amazon's launch of a healthcare AI assistant on its consumer platforms and warns that AI-powered apps are struggling with long-term user retention, suggesting that novelty alone won't sustain products without solving genuinely recurring problems.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-10",
-      "summary": "# Episode Summary\n\nAnthropic officially sued the Department of Defense over its controversial \"supply-chain risk\" designation, with over 30 employees from OpenAI and Google DeepMind publicly backing the case—a significant moment that could define the cost of maintaining ethical principles in AI development. The episode also covers major product launches from Anthropic (Code Review for Claude Code) and Databricks (Kasal framework and billion-scale vector search), plus Yann LeCun's AMI Labs securing over $1 billion to pursue world models as an alternative to the current LLM paradigm.",
       "keyTopics": []
     }
   ]
