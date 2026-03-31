@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-03-31</title>
+      <description># Episode Summary
+
+This episode covers three major AI and infrastructure stories: Databricks&apos; strategic push into agentic databases with Lakebase, positioning their architecture for a world where AI agents—not humans—are the primary developers interacting with databases, plus the launch of Default Warehouse for cost governance. A new Quinnipiac poll reveals a trust gap in AI adoption—while more Americans are using AI tools, confidence in their accuracy and transparency is declining, creating a potential barrier to deeper product adoption. Finally, ScaleOps&apos; $130 million funding round signals that GPU and cloud compute waste has become a critical business problem, with infrastructure cost optimization emerging as its own category as AI workloads proliferate.</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-31.mp3" length="4034304" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-03-31.mp3</guid>
+      <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-30</title>
       <description># Episode Summary
 
