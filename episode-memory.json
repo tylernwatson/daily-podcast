@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-01",
+      "summary": "# Episode Summary\n\nThis episode covers OpenAI's massive $122 billion funding round that values the company at $852 billion—setting record-breaking stakes for AI monetization—alongside Anthropic's rough week marked by operational incidents and a Claude Code source leak revealing internal design choices like \"frustration regexes.\" The show also dives into Slack's AI overhaul with 30 new features, emerging 1-bit LLM compression technology, and a supply chain security threat tied to the compromised LiteLLM open-source project.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-03-31",
       "summary": "# Episode Summary\n\nThis episode covers three major AI and infrastructure stories: Databricks' strategic push into agentic databases with Lakebase, positioning their architecture for a world where AI agents—not humans—are the primary developers interacting with databases, plus the launch of Default Warehouse for cost governance. A new Quinnipiac poll reveals a trust gap in AI adoption—while more Americans are using AI tools, confidence in their accuracy and transparency is declining, creating a potential barrier to deeper product adoption. Finally, ScaleOps' $130 million funding round signals that GPU and cloud compute waste has become a critical business problem, with infrastructure cost optimization emerging as its own category as AI workloads proliferate.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-13",
       "summary": "# This Week in AI Infrastructure and Enterprise Adoption\n\nAnthropic is making a major strategic shift with a $100 million investment in a Claude Partner Network, positioning itself as an enterprise alternative to OpenAI by building an ecosystem of integrations and support—while simultaneously navigating government scrutiny and regulatory challenges. Meanwhile, Databricks is laying out the foundation for production AI with new frameworks around governance and serverless compute, and the industry is increasingly grappling with critical security challenges like prompt injection attacks in autonomous AI agents. All of this unfolds as Nvidia's Jensen Huang delivers his GTC keynote, with announcements expected to shape enterprise AI infrastructure decisions for the next 18 months.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-12",
-      "summary": "# Episode Summary\n\nDatabricks launched Genie Code, an AI agent platform that combines natural language querying with autonomous multi-step analysis and data discovery—backed by semantic understanding of how your organization actually uses its data. The company also acquired Quotient AI to fill a critical gap in agent evaluation and reliability, creating a complete pipeline for building, testing, and deploying production agents safely. In broader AI news, Google published research using LLMs to convert decades of news reports into structured flood prediction data, demonstrating how AI can solve real-world problems in data-scarce regions while Anthropic and Google chart opposing paths on government AI partnerships.",
       "keyTopics": []
     }
   ]
