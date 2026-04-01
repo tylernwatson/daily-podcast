@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-01</title>
+      <description># Episode Summary
+
+This episode covers OpenAI&apos;s massive $122 billion funding round that values the company at $852 billion—setting record-breaking stakes for AI monetization—alongside Anthropic&apos;s rough week marked by operational incidents and a Claude Code source leak revealing internal design choices like &quot;frustration regexes.&quot; The show also dives into Slack&apos;s AI overhaul with 30 new features, emerging 1-bit LLM compression technology, and a supply chain security threat tied to the compromised LiteLLM open-source project.</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-01.mp3" length="4084608" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-01.mp3</guid>
+      <itunes:duration>255</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-03-31</title>
       <description># Episode Summary
 
