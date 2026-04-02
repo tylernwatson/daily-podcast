@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-02</title>
+      <description># Data and AI Daily Summary
+
+This episode covers three major developments reshaping AI infrastructure: Cognichip&apos;s $60M fundraise to use AI for chip design (potentially cutting costs and timelines dramatically), Meta&apos;s plan to power its Hyperion data center with ten natural gas plants rather than renewables, and an active security threat where the widely-used LiteLLM library was compromised, leading to a confirmed cyberattack on AI recruiting startup Mercor. The show also flags Anthropic&apos;s misstep with an overly broad GitHub takedown of leaked source code and their new partnership with Australia on AI safety research, plus Databricks&apos; growing ecosystem play through startup challenges and real-world financial</description>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-02.mp3" length="4244928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-02.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-01</title>
       <description># Episode Summary
 
