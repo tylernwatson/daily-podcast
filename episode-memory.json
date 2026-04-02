@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-02",
+      "summary": "# Data and AI Daily Summary\n\nThis episode covers three major developments reshaping AI infrastructure: Cognichip's $60M fundraise to use AI for chip design (potentially cutting costs and timelines dramatically), Meta's plan to power its Hyperion data center with ten natural gas plants rather than renewables, and an active security threat where the widely-used LiteLLM library was compromised, leading to a confirmed cyberattack on AI recruiting startup Mercor. The show also flags Anthropic's misstep with an overly broad GitHub takedown of leaked source code and their new partnership with Australia on AI safety research, plus Databricks' growing ecosystem play through startup challenges and real-world financial",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-01",
       "summary": "# Episode Summary\n\nThis episode covers OpenAI's massive $122 billion funding round that values the company at $852 billion—setting record-breaking stakes for AI monetization—alongside Anthropic's rough week marked by operational incidents and a Claude Code source leak revealing internal design choices like \"frustration regexes.\" The show also dives into Slack's AI overhaul with 30 new features, emerging 1-bit LLM compression technology, and a supply chain security threat tied to the compromised LiteLLM open-source project.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-16",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in data and AI: Databricks' new real-time mode for Apache Spark 4.1, which breaks the microbatch barrier to enable sub-100-millisecond latency for streaming workloads while keeping existing code compatible; the general availability of serverless Databricks workspaces on Azure, simplifying cluster management and enabling better cost control and governance. The episode also examines a critical AI safety story about chatbots' involvement in mass casualty cases, highlighting how deployment is outpacing accountability frameworks—a concern especially pressing as the industry accelerates toward agentic AI applications.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-13",
-      "summary": "# This Week in AI Infrastructure and Enterprise Adoption\n\nAnthropic is making a major strategic shift with a $100 million investment in a Claude Partner Network, positioning itself as an enterprise alternative to OpenAI by building an ecosystem of integrations and support—while simultaneously navigating government scrutiny and regulatory challenges. Meanwhile, Databricks is laying out the foundation for production AI with new frameworks around governance and serverless compute, and the industry is increasingly grappling with critical security challenges like prompt injection attacks in autonomous AI agents. All of this unfolds as Nvidia's Jensen Huang delivers his GTC keynote, with announcements expected to shape enterprise AI infrastructure decisions for the next 18 months.",
       "keyTopics": []
     }
   ]
