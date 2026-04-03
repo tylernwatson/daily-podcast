@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-03",
+      "summary": "# This Week in AI: Model Competition Heats Up Across the Stack\n\nThis episode covers a transformative week in AI infrastructure and strategy: Google's new Gemma 4 open models claim best-in-class efficiency, Microsoft quietly launches its own foundational model group signaling independence from OpenAI, and OpenAI acquires the influential tech podcast The Business. Beyond individual releases, the conversation examines how competition is now playing out simultaneously across technical layers—models, infrastructure, distribution, and narrative control—with Databricks' open-source semantics layer and real enterprise deployments becoming critical proof points for the emerging era of AI agents handling business workflows.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-02",
       "summary": "# Data and AI Daily Summary\n\nThis episode covers three major developments reshaping AI infrastructure: Cognichip's $60M fundraise to use AI for chip design (potentially cutting costs and timelines dramatically), Meta's plan to power its Hyperion data center with ten natural gas plants rather than renewables, and an active security threat where the widely-used LiteLLM library was compromised, leading to a confirmed cyberattack on AI recruiting startup Mercor. The show also flags Anthropic's misstep with an overly broad GitHub takedown of leaked source code and their new partnership with Australia on AI safety research, plus Databricks' growing ecosystem play through startup challenges and real-world financial",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-17",
       "summary": "# Episode Summary\n\nThis episode covers three major tech stories reshaping enterprise infrastructure: Databricks' new Zerobus Ingest technology promises to dramatically simplify data streaming by eliminating middleware and pushing 10GB/second directly into lakehouses, positioning the lakehouse as a real-time analytics platform rather than just batch processing. Nvidia's Jensen Huang projected $1 trillion in orders for Blackwell and Vera Rubin chips, signaling an unprecedented scale of AI infrastructure investment that puts pressure on all vendors to deliver reliable, governed AI workloads. A political controversy also emerged as Senator Elizabeth Warren pressed the Pentagon over granting xAI classified network access, reflecting growing congressional scrutiny of AI deployment",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-16",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in data and AI: Databricks' new real-time mode for Apache Spark 4.1, which breaks the microbatch barrier to enable sub-100-millisecond latency for streaming workloads while keeping existing code compatible; the general availability of serverless Databricks workspaces on Azure, simplifying cluster management and enabling better cost control and governance. The episode also examines a critical AI safety story about chatbots' involvement in mass casualty cases, highlighting how deployment is outpacing accountability frameworks—a concern especially pressing as the industry accelerates toward agentic AI applications.",
       "keyTopics": []
     }
   ]
