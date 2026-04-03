@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-03</title>
+      <description># This Week in AI: Model Competition Heats Up Across the Stack
+
+This episode covers a transformative week in AI infrastructure and strategy: Google&apos;s new Gemma 4 open models claim best-in-class efficiency, Microsoft quietly launches its own foundational model group signaling independence from OpenAI, and OpenAI acquires the influential tech podcast The Business. Beyond individual releases, the conversation examines how competition is now playing out simultaneously across technical layers—models, infrastructure, distribution, and narrative control—with Databricks&apos; open-source semantics layer and real enterprise deployments becoming critical proof points for the emerging era of AI agents handling business workflows.</description>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-03.mp3" length="3789504" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-03.mp3</guid>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-02</title>
       <description># Data and AI Daily Summary
 
