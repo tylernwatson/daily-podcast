@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-06",
+      "summary": "# Episode Summary\n\nThis episode breaks down three major developments in enterprise AI and open-source models: Databricks' strategic open-sourcing of its Unity Catalog semantics layer and free data ingestion tier, positioning itself as the infrastructure backbone for reliable AI agents; Anthropic's pricing increase for Claude Code's third-party integrations, which could push developers toward free open-source alternatives like Goose; and Microsoft's terms of service describing Copilot as \"for entertainment purposes only,\" exposing the liability gap between confident enterprise marketing and cautious legal disclaimers. The episode also covers Google's Gemma 4 model already running locally on consumer devices, shifting the competitive dynamics between open and closed AI",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-03",
       "summary": "# This Week in AI: Model Competition Heats Up Across the Stack\n\nThis episode covers a transformative week in AI infrastructure and strategy: Google's new Gemma 4 open models claim best-in-class efficiency, Microsoft quietly launches its own foundational model group signaling independence from OpenAI, and OpenAI acquires the influential tech podcast The Business. Beyond individual releases, the conversation examines how competition is now playing out simultaneously across technical layers—models, infrastructure, distribution, and narrative control—with Databricks' open-source semantics layer and real enterprise deployments becoming critical proof points for the emerging era of AI agents handling business workflows.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-18",
       "summary": "# Data and AI Daily — March 18th\n\nDatabricks launches a specialized embedding model built for agentic AI workflows, signaling their broader push to become the production platform for enterprise agents, while Mistral takes a bold opposite approach with Forge, enabling companies to train custom foundation models from scratch on their own data. Meanwhile, the Anthropic-Pentagon relationship continues deteriorating as the Department of Defense actively develops alternatives, and Google rolls out its Personal Intelligence feature to all US users, embedding AI deeply into consumer data across Gmail, Photos, and beyond.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-17",
-      "summary": "# Episode Summary\n\nThis episode covers three major tech stories reshaping enterprise infrastructure: Databricks' new Zerobus Ingest technology promises to dramatically simplify data streaming by eliminating middleware and pushing 10GB/second directly into lakehouses, positioning the lakehouse as a real-time analytics platform rather than just batch processing. Nvidia's Jensen Huang projected $1 trillion in orders for Blackwell and Vera Rubin chips, signaling an unprecedented scale of AI infrastructure investment that puts pressure on all vendors to deliver reliable, governed AI workloads. A political controversy also emerged as Senator Elizabeth Warren pressed the Pentagon over granting xAI classified network access, reflecting growing congressional scrutiny of AI deployment",
       "keyTopics": []
     }
   ]
