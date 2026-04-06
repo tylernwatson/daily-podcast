@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-06</title>
+      <description># Episode Summary
+
+This episode breaks down three major developments in enterprise AI and open-source models: Databricks&apos; strategic open-sourcing of its Unity Catalog semantics layer and free data ingestion tier, positioning itself as the infrastructure backbone for reliable AI agents; Anthropic&apos;s pricing increase for Claude Code&apos;s third-party integrations, which could push developers toward free open-source alternatives like Goose; and Microsoft&apos;s terms of service describing Copilot as &quot;for entertainment purposes only,&quot; exposing the liability gap between confident enterprise marketing and cautious legal disclaimers. The episode also covers Google&apos;s Gemma 4 model already running locally on consumer devices, shifting the competitive dynamics between open and closed AI</description>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-06.mp3" length="4488576" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-06.mp3</guid>
+      <itunes:duration>281</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-03</title>
       <description># This Week in AI: Model Competition Heats Up Across the Stack
 
