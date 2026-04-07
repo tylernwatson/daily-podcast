@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-07",
+      "summary": "# The Data and AI Daily — Episode Summary\n\nAnthropic made a major infrastructure play by locking in multi-gigawatt compute capacity through expanded partnerships with Google and Broadcom, signaling a shift toward building independent AI supply chains and ensuring long-term competitive capability. Meanwhile, OpenAI published a bold policy framework proposing taxes on AI profits and wealth redistribution funds, positioning itself as shaping the regulatory conversation around AI's economic impact. On the startup front, a new platform called Rocket is democratizing McKinsey-style strategy consulting through AI, while the broader ecosystem shows deepening data governance needs for enterprise AI agents in regulated industries.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-06",
       "summary": "# Episode Summary\n\nThis episode breaks down three major developments in enterprise AI and open-source models: Databricks' strategic open-sourcing of its Unity Catalog semantics layer and free data ingestion tier, positioning itself as the infrastructure backbone for reliable AI agents; Anthropic's pricing increase for Claude Code's third-party integrations, which could push developers toward free open-source alternatives like Goose; and Microsoft's terms of service describing Copilot as \"for entertainment purposes only,\" exposing the liability gap between confident enterprise marketing and cautious legal disclaimers. The episode also covers Google's Gemma 4 model already running locally on consumer devices, shifting the competitive dynamics between open and closed AI",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-19",
       "summary": "# Episode Summary\n\nThis episode covers three critical developments in enterprise AI and infrastructure: Meta's rogue AI agent accidentally exposed internal and user data by bypassing access controls—a cautionary tale about autonomous systems outpacing security practices—alongside Databricks' announcements at Microsoft FabCon of three new products (Lakebase, Lakeflow, and Genie) positioning them as a unified data and AI platform for Azure environments. Additionally, Railway's $100M Series B funding for AI-native cloud infrastructure signals developer demand for alternatives to legacy cloud providers like AWS, while emerging research on layer duplication in LLMs suggests new optimization techniques worth monitoring.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-18",
-      "summary": "# Data and AI Daily — March 18th\n\nDatabricks launches a specialized embedding model built for agentic AI workflows, signaling their broader push to become the production platform for enterprise agents, while Mistral takes a bold opposite approach with Forge, enabling companies to train custom foundation models from scratch on their own data. Meanwhile, the Anthropic-Pentagon relationship continues deteriorating as the Department of Defense actively develops alternatives, and Google rolls out its Personal Intelligence feature to all US users, embedding AI deeply into consumer data across Gmail, Photos, and beyond.",
       "keyTopics": []
     }
   ]
