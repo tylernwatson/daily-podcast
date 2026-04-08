@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-08</title>
+      <description># Podcast Summary
+
+Anthropic unveils Mythos, a specialized AI model designed exclusively for defensive cybersecurity work as part of Project Glasswing, marking a significant shift toward AI-native security infrastructure. MakeMyTrip demonstrates the real-world power of modern data platforms by achieving millisecond-level personalization at scale on Databricks, validating the lakehouse architecture for production AI workloads. Meanwhile, Databricks expands its reach beyond engineers with collaborative analytics tools like Genie, positioning itself as an end-to-end platform while infrastructure companies race to secure compute and power capacity—with Texas emerging as a surprising hub for semiconductor and AI infrastructure development.</description>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-08.mp3" length="4069440" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-08.mp3</guid>
+      <itunes:duration>254</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-07</title>
       <description># The Data and AI Daily — Episode Summary
 
