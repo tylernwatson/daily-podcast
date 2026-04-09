@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-09",
+      "summary": "# Episode Summary\n\nThis episode examines three major developments in AI: Claude's attribution errors in conversations, which highlight a growing reliability gap between marketing promises and real-world performance; MegaTrain, a research breakthrough claiming full-precision training of 100+ billion parameter models on a single GPU, potentially democratizing access to frontier-scale AI research; and Poke, a startup simplifying AI agents to the familiar interface of text messaging. Throughout, the discussion emphasizes how reliability and accessibility remain the critical bottlenecks in AI adoption—from enterprise users needing trustworthy tools to mainstream consumers wanting simple interfaces.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-08",
       "summary": "# Podcast Summary\n\nAnthropic unveils Mythos, a specialized AI model designed exclusively for defensive cybersecurity work as part of Project Glasswing, marking a significant shift toward AI-native security infrastructure. MakeMyTrip demonstrates the real-world power of modern data platforms by achieving millisecond-level personalization at scale on Databricks, validating the lakehouse architecture for production AI workloads. Meanwhile, Databricks expands its reach beyond engineers with collaborative analytics tools like Genie, positioning itself as an end-to-end platform while infrastructure companies race to secure compute and power capacity—with Texas emerging as a surprising hub for semiconductor and AI infrastructure development.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-23",
       "summary": "# Today's Episode Summary\n\nDatabricks is making a serious push to become the trusted platform for production AI agents with their new coSTAR framework and updated security standards—addressing real-world risks like prompt injection and unauthorized escalation that are no longer theoretical. Meanwhile, two cautionary tales emerged: Cursor's revelation that its coding model built on a Chinese AI foundation sparked transparency concerns in the developer tool space, and Walmart's data showing AI-powered checkout performed three times worse than their standard site, a sobering reminder that AI doesn't automatically improve every user experience.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-20",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the tech landscape: Databricks' aggressive AI platform expansion at NVIDIA GTC, including new serverless GPU compute for model training and real-time streaming capabilities, positioning itself as the unified platform for enterprise AI workflows. The conversation then shifts to a striking prediction from Cloudflare's CEO that bot traffic will exceed human internet traffic by 2027, raising critical questions about infrastructure security and AI agent governance in an increasingly machine-driven web. Finally, the episode explores Jeff Bezos's bold $100 billion bet to acquire and transform legacy manufacturing companies through AI automation, signaling a major investment shift toward applying AI to the physical world rather than just software.",
       "keyTopics": []
     }
   ]
