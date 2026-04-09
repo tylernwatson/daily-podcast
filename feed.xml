@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-09</title>
+      <description># Episode Summary
+
+This episode examines three major developments in AI: Claude&apos;s attribution errors in conversations, which highlight a growing reliability gap between marketing promises and real-world performance; MegaTrain, a research breakthrough claiming full-precision training of 100+ billion parameter models on a single GPU, potentially democratizing access to frontier-scale AI research; and Poke, a startup simplifying AI agents to the familiar interface of text messaging. Throughout, the discussion emphasizes how reliability and accessibility remain the critical bottlenecks in AI adoption—from enterprise users needing trustworthy tools to mainstream consumers wanting simple interfaces.</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-09.mp3" length="4299456" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-09.mp3</guid>
+      <itunes:duration>269</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-08</title>
       <description># Podcast Summary
 
