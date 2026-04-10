@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-10</title>
+      <description># The Data and AI Daily: Friday Edition
+
+This week explores three major developments reshaping data infrastructure and AI: Apache Iceberg v3&apos;s public preview on Databricks promises seamless data interoperability across different engines—a genuine quality-of-life win for data engineers managing multi-tool environments. On the AI front, OpenAI introduced a $100/month pricing tier to capture power users caught between affordable and premium plans, while a more sobering story emerges from Florida&apos;s investigation into OpenAI over an alleged shooting where ChatGPT was used in planning—raising unprecedented legal questions about AI product liability. The episode rounds out with Meta AI&apos;s meteoric rise in app rankings, signaling that distribution and</description>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-10.mp3" length="3274368" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-10.mp3</guid>
+      <itunes:duration>205</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-09</title>
       <description># Episode Summary
 
