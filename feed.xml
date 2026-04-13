@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-13</title>
+      <description># Episode Summary
+
+This episode covers three major developments reshaping AI and data infrastructure: Databricks&apos; new Lakebase product bringing git-style branching to Postgres databases, eliminating the traditional fear around schema migrations; Kepler Communications launching GPUs into orbit for real-time satellite data processing, making orbital compute an actual commercial service; and the complex Anthropic story, where the Pentagon flags them as a supply-chain risk while Trump administration officials simultaneously encourage banks to test their Mythos cybersecurity model. The hosts also highlight how rapidly the baseline for solo developer productivity is rising, with AI-powered tools enabling production-quality software builds in weeks rather than months.</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-13.mp3" length="3805824" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-13.mp3</guid>
+      <itunes:duration>238</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-10</title>
       <description># The Data and AI Daily: Friday Edition
 
