@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-14</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: OpenAI&apos;s acquisition of personal finance startup Hiro, signaling a strategic shift toward deep vertical capabilities in ChatGPT; Google DeepMind&apos;s release of Gemma 4, an open model that prioritizes efficiency and accessibility for developers without massive compute budgets; and a Stanford AI Index report revealing a widening trust gap between optimistic industry insiders and anxious consumers. The conversation also touches on Databricks&apos; push to democratize data access, memory scaling challenges for AI agents, and Vercel&apos;s IPO readiness driven by surging demand from AI-generated applications.</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-14.mp3" length="3526848" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-14.mp3</guid>
+      <itunes:duration>220</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-13</title>
       <description># Episode Summary
 
