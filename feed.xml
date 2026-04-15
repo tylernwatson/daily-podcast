@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-15</title>
+      <description># Episode Summary
+
+This episode covers three major AI developments reshaping the industry: Databricks launches Agent Bricks, a governed enterprise platform that combines AI agents with built-in audit trails and data access controls, positioning itself as the infrastructure backbone for production AI; Anthropic makes strategic moves toward institutional legitimacy—briefing the Trump administration on its cybersecurity model, appointing the Novartis CEO to its safety board, and securing compute partnerships—while its valuation becomes increasingly competitive with OpenAI. Finally, Google&apos;s Gemma 4 achieves a breakthrough by running full AI inference natively on iPhones offline, opening new use cases for privacy-sensitive and connectivity-limited applications while intensifying</description>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-15.mp3" length="4161024" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-15.mp3</guid>
+      <itunes:duration>260</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-14</title>
       <description># Episode Summary
 
