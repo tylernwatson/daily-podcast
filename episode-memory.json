@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-16",
+      "summary": "# Today's Episode Summary\n\nThis episode covers three major AI developments reshaping the enterprise landscape: Databricks' new AI Gateway for governed agent infrastructure, which integrates model and tool management through a centralized control layer similar to their data governance approach—putting competitive pressure on OpenAI's parallel agent expansion. A significant federal court ruling determined that AI chat conversations lack attorney-client privilege, with serious implications for how enterprises should configure their AI tools and data policies. Finally, Hightouch's achievement of $100 million ARR validates the \"verticalization\" strategy, showing that the real value lies in AI agents deeply integrated with domain-specific data and workflows rather than generalist assistants.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-15",
       "summary": "# Episode Summary\n\nThis episode covers three major AI developments reshaping the industry: Databricks launches Agent Bricks, a governed enterprise platform that combines AI agents with built-in audit trails and data access controls, positioning itself as the infrastructure backbone for production AI; Anthropic makes strategic moves toward institutional legitimacy—briefing the Trump administration on its cybersecurity model, appointing the Novartis CEO to its safety board, and securing compute partnerships—while its valuation becomes increasingly competitive with OpenAI. Finally, Google's Gemma 4 achieves a breakthrough by running full AI inference natively on iPhones offline, opening new use cases for privacy-sensitive and connectivity-limited applications while intensifying",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-03-30",
       "summary": "# Episode Summary\n\nOpenAI's abrupt shutdown of Sora after just six months signals a reality check for AI video generation—the technology remains far harder to monetize than hype suggested, raising questions about whether the entire category will face a pullback. In a striking contrast, space-based data center startup Starcloud just became Y Combinator's fastest unicorn ever with a $170 million Series A, betting that orbital infrastructure can solve Earth-bound AI compute bottlenecks. The episode also covers a Stanford study on AI chatbot sycophancy, Databricks' latest platform consolidations, and how coding agents could revitalize open source software maintenance.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-27",
-      "summary": "# Episode Summary\n\nThis episode covers four major stories reshaping the AI landscape: Anthropic's federal court victory against Trump administration restrictions on Department of Defense contracts, setting a precedent for how AI companies will legally defend their business interests; the rapid commoditization of coding AI, where $500 consumer GPUs now match expensive API models on benchmarks, forcing enterprises to reconsider their cost structures; a concrete $500K annual savings win from an engineering team that used AI to optimize their JSONata implementation in a single day; and a bipartisan Senate push for mandatory data center power consumption reporting, signaling incoming regulatory compliance requirements for large-scale AI infrastructure operators.",
       "keyTopics": []
     }
   ]
