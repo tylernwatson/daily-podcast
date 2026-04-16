@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-16</title>
+      <description># Today&apos;s Episode Summary
+
+This episode covers three major AI developments reshaping the enterprise landscape: Databricks&apos; new AI Gateway for governed agent infrastructure, which integrates model and tool management through a centralized control layer similar to their data governance approach—putting competitive pressure on OpenAI&apos;s parallel agent expansion. A significant federal court ruling determined that AI chat conversations lack attorney-client privilege, with serious implications for how enterprises should configure their AI tools and data policies. Finally, Hightouch&apos;s achievement of $100 million ARR validates the &quot;verticalization&quot; strategy, showing that the real value lies in AI agents deeply integrated with domain-specific data and workflows rather than generalist assistants.</description>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-16.mp3" length="3648768" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-16.mp3</guid>
+      <itunes:duration>228</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-15</title>
       <description># Episode Summary
 
