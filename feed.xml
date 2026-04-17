@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-17</title>
+      <description># Podcast Summary
+
+This episode covers three major developments in enterprise AI: Anthropic&apos;s release of Claude Opus 4.7, positioning itself as a serious enterprise alternative to OpenAI amid competitive model drops; a funding surge in enterprise AI coding tools, with Factory raising $150M and Upscale AI approaching a $2B valuation, signaling that specialized, governance-focused coding infrastructure is becoming a real business category. The main story centers on Databricks&apos; push into document intelligence, addressing a critical gap—that 80% of enterprise knowledge lives in unstructured documents like contracts and PDFs—with new integrations including Gemini models and Google Sheets connectors to make that data accessible across</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-17.mp3" length="4583808" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-17.mp3</guid>
+      <itunes:duration>286</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-16</title>
       <description># Today&apos;s Episode Summary
 
