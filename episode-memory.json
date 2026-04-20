@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-20",
+      "summary": "# Episode Summary\n\nDatabricks is making aggressive moves in AI governance, launching Agent Mode for its Genie analytics product and introducing controls for coding agent sprawl through Unity AI Gateway—positioning itself as the enterprise control layer as AI agents proliferate. Meanwhile, Anthropic is expanding rapidly across multiple fronts: Claude Design is challenging Figma's design tool dominance, the NSA is reportedly using the company's Mythos model despite government blacklist complications, and new compute partnerships signal ambitions to scale across modalities and enterprise applications.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-17",
       "summary": "# Podcast Summary\n\nThis episode covers three major developments in enterprise AI: Anthropic's release of Claude Opus 4.7, positioning itself as a serious enterprise alternative to OpenAI amid competitive model drops; a funding surge in enterprise AI coding tools, with Factory raising $150M and Upscale AI approaching a $2B valuation, signaling that specialized, governance-focused coding infrastructure is becoming a real business category. The main story centers on Databricks' push into document intelligence, addressing a critical gap—that 80% of enterprise knowledge lives in unstructured documents like contracts and PDFs—with new integrations including Gemini models and Google Sheets connectors to make that data accessible across",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-01",
       "summary": "# Episode Summary\n\nThis episode covers OpenAI's massive $122 billion funding round that values the company at $852 billion—setting record-breaking stakes for AI monetization—alongside Anthropic's rough week marked by operational incidents and a Claude Code source leak revealing internal design choices like \"frustration regexes.\" The show also dives into Slack's AI overhaul with 30 new features, emerging 1-bit LLM compression technology, and a supply chain security threat tied to the compromised LiteLLM open-source project.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-03-31",
-      "summary": "# Episode Summary\n\nThis episode covers three major AI and infrastructure stories: Databricks' strategic push into agentic databases with Lakebase, positioning their architecture for a world where AI agents—not humans—are the primary developers interacting with databases, plus the launch of Default Warehouse for cost governance. A new Quinnipiac poll reveals a trust gap in AI adoption—while more Americans are using AI tools, confidence in their accuracy and transparency is declining, creating a potential barrier to deeper product adoption. Finally, ScaleOps' $130 million funding round signals that GPU and cloud compute waste has become a critical business problem, with infrastructure cost optimization emerging as its own category as AI workloads proliferate.",
       "keyTopics": []
     }
   ]
