@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-20</title>
+      <description># Episode Summary
+
+Databricks is making aggressive moves in AI governance, launching Agent Mode for its Genie analytics product and introducing controls for coding agent sprawl through Unity AI Gateway—positioning itself as the enterprise control layer as AI agents proliferate. Meanwhile, Anthropic is expanding rapidly across multiple fronts: Claude Design is challenging Figma&apos;s design tool dominance, the NSA is reportedly using the company&apos;s Mythos model despite government blacklist complications, and new compute partnerships signal ambitions to scale across modalities and enterprise applications.</description>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-20.mp3" length="4259712" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-20.mp3</guid>
+      <itunes:duration>266</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-17</title>
       <description># Podcast Summary
 
