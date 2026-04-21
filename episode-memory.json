@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-21",
+      "summary": "# Episode Summary\n\nAmazon's historic $5 billion investment in Anthropic comes with a massive commitment: Anthropic will spend $100 billion on AWS infrastructure, escalating the enterprise AI cloud wars and positioning Amazon as a major player against Microsoft-OpenAI. Beyond the headline deal, Databricks continues solidifying itself as critical infrastructure through Delta Sharing integrations with Adobe and customer-managed encryption keys for Lakebase, while a Vercel platform outage caused by AI-generated traffic highlights emerging reliability risks in shared cloud infrastructure as AI workloads scale unpredictably.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-20",
       "summary": "# Episode Summary\n\nDatabricks is making aggressive moves in AI governance, launching Agent Mode for its Genie analytics product and introducing controls for coding agent sprawl through Unity AI Gateway—positioning itself as the enterprise control layer as AI agents proliferate. Meanwhile, Anthropic is expanding rapidly across multiple fronts: Claude Design is challenging Figma's design tool dominance, the NSA is reportedly using the company's Mythos model despite government blacklist complications, and new compute partnerships signal ambitions to scale across modalities and enterprise applications.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-02",
       "summary": "# Data and AI Daily Summary\n\nThis episode covers three major developments reshaping AI infrastructure: Cognichip's $60M fundraise to use AI for chip design (potentially cutting costs and timelines dramatically), Meta's plan to power its Hyperion data center with ten natural gas plants rather than renewables, and an active security threat where the widely-used LiteLLM library was compromised, leading to a confirmed cyberattack on AI recruiting startup Mercor. The show also flags Anthropic's misstep with an overly broad GitHub takedown of leaked source code and their new partnership with Australia on AI safety research, plus Databricks' growing ecosystem play through startup challenges and real-world financial",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-01",
-      "summary": "# Episode Summary\n\nThis episode covers OpenAI's massive $122 billion funding round that values the company at $852 billion—setting record-breaking stakes for AI monetization—alongside Anthropic's rough week marked by operational incidents and a Claude Code source leak revealing internal design choices like \"frustration regexes.\" The show also dives into Slack's AI overhaul with 30 new features, emerging 1-bit LLM compression technology, and a supply chain security threat tied to the compromised LiteLLM open-source project.",
       "keyTopics": []
     }
   ]
