@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-21</title>
+      <description># Episode Summary
+
+Amazon&apos;s historic $5 billion investment in Anthropic comes with a massive commitment: Anthropic will spend $100 billion on AWS infrastructure, escalating the enterprise AI cloud wars and positioning Amazon as a major player against Microsoft-OpenAI. Beyond the headline deal, Databricks continues solidifying itself as critical infrastructure through Delta Sharing integrations with Adobe and customer-managed encryption keys for Lakebase, while a Vercel platform outage caused by AI-generated traffic highlights emerging reliability risks in shared cloud infrastructure as AI workloads scale unpredictably.</description>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-21.mp3" length="4063296" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-21.mp3</guid>
+      <itunes:duration>254</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-20</title>
       <description># Episode Summary
 
