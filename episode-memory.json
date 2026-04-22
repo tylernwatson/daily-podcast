@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-22",
+      "summary": "# Episode Summary\n\nThis episode covers Databricks' strategic expansion into business user workflows through new Excel integrations and simplified data pipeline tools, signaling a shift from engineering-only to enterprise-wide adoption. Also featured: Meta's controversial use of employee keystroke monitoring to train AI models, raising significant privacy and labor concerns; and SpaceX's reported $60 billion option to acquire Cursor, a popular AI coding assistant, marking potential consolidation in the developer tools space. Additional stories include a security incident at Anthropic and a major funding round for continuous-learning AI agents.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-21",
       "summary": "# Episode Summary\n\nAmazon's historic $5 billion investment in Anthropic comes with a massive commitment: Anthropic will spend $100 billion on AWS infrastructure, escalating the enterprise AI cloud wars and positioning Amazon as a major player against Microsoft-OpenAI. Beyond the headline deal, Databricks continues solidifying itself as critical infrastructure through Delta Sharing integrations with Adobe and customer-managed encryption keys for Lakebase, while a Vercel platform outage caused by AI-generated traffic highlights emerging reliability risks in shared cloud infrastructure as AI workloads scale unpredictably.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-03",
       "summary": "# This Week in AI: Model Competition Heats Up Across the Stack\n\nThis episode covers a transformative week in AI infrastructure and strategy: Google's new Gemma 4 open models claim best-in-class efficiency, Microsoft quietly launches its own foundational model group signaling independence from OpenAI, and OpenAI acquires the influential tech podcast The Business. Beyond individual releases, the conversation examines how competition is now playing out simultaneously across technical layers—models, infrastructure, distribution, and narrative control—with Databricks' open-source semantics layer and real enterprise deployments becoming critical proof points for the emerging era of AI agents handling business workflows.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-02",
-      "summary": "# Data and AI Daily Summary\n\nThis episode covers three major developments reshaping AI infrastructure: Cognichip's $60M fundraise to use AI for chip design (potentially cutting costs and timelines dramatically), Meta's plan to power its Hyperion data center with ten natural gas plants rather than renewables, and an active security threat where the widely-used LiteLLM library was compromised, leading to a confirmed cyberattack on AI recruiting startup Mercor. The show also flags Anthropic's misstep with an overly broad GitHub takedown of leaked source code and their new partnership with Australia on AI safety research, plus Databricks' growing ecosystem play through startup challenges and real-world financial",
       "keyTopics": []
     }
   ]
