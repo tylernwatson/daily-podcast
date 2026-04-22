@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-22</title>
+      <description># Episode Summary
+
+This episode covers Databricks&apos; strategic expansion into business user workflows through new Excel integrations and simplified data pipeline tools, signaling a shift from engineering-only to enterprise-wide adoption. Also featured: Meta&apos;s controversial use of employee keystroke monitoring to train AI models, raising significant privacy and labor concerns; and SpaceX&apos;s reported $60 billion option to acquire Cursor, a popular AI coding assistant, marking potential consolidation in the developer tools space. Additional stories include a security incident at Anthropic and a major funding round for continuous-learning AI agents.</description>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-22.mp3" length="3892032" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-22.mp3</guid>
+      <itunes:duration>243</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-21</title>
       <description># Episode Summary
 
