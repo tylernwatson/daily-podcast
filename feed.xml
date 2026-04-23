@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-23</title>
+      <description># Episode Summary
+
+Databricks is making a strategic pivot to become the AI brain of the enterprise by packaging its platform for business users and finance leaders—not just data engineers—through conversational analytics, document intelligence, and vertical-specific solutions. SpaceX&apos;s reported $60 billion acquisition offer for Cursor has halted the coding assistant&apos;s $2 billion funding round, signaling major consolidation in the AI developer tools space. Meanwhile, Google is flooding the market with new releases across DeepMind, including open models like Gemma 4 and AI-powered Workspace Intelligence, while research surfaces important questions about LLM tool overuse that builders need to address.</description>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-23.mp3" length="3964992" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-23.mp3</guid>
+      <itunes:duration>248</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-22</title>
       <description># Episode Summary
 
