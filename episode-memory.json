@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-24",
+      "summary": "# Episode Summary\n\nThis week's big story is the partnership between Databricks and OpenAI on GPT-5.5, signaling Databricks' strategy to be the neutral enterprise platform where teams can access any frontier model while keeping their data governance centralized. The show also highlights Lakeflow Designer moving into public preview—a visual, low-code pipeline builder that democratizes production data engineering to analysts and SQL-comfortable teams who aren't comfortable with Python. Rounding out the episode are the pressures mounting on AI coding tools like Claude Code (facing competition from open-source alternatives and quality concerns) and Anthropic's aggressive international expansion through a major partnership with NEC in Japan.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-23",
       "summary": "# Episode Summary\n\nDatabricks is making a strategic pivot to become the AI brain of the enterprise by packaging its platform for business users and finance leaders—not just data engineers—through conversational analytics, document intelligence, and vertical-specific solutions. SpaceX's reported $60 billion acquisition offer for Cursor has halted the coding assistant's $2 billion funding round, signaling major consolidation in the AI developer tools space. Meanwhile, Google is flooding the market with new releases across DeepMind, including open models like Gemma 4 and AI-powered Workspace Intelligence, while research surfaces important questions about LLM tool overuse that builders need to address.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-07",
       "summary": "# The Data and AI Daily — Episode Summary\n\nAnthropic made a major infrastructure play by locking in multi-gigawatt compute capacity through expanded partnerships with Google and Broadcom, signaling a shift toward building independent AI supply chains and ensuring long-term competitive capability. Meanwhile, OpenAI published a bold policy framework proposing taxes on AI profits and wealth redistribution funds, positioning itself as shaping the regulatory conversation around AI's economic impact. On the startup front, a new platform called Rocket is democratizing McKinsey-style strategy consulting through AI, while the broader ecosystem shows deepening data governance needs for enterprise AI agents in regulated industries.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-06",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major developments in enterprise AI and open-source models: Databricks' strategic open-sourcing of its Unity Catalog semantics layer and free data ingestion tier, positioning itself as the infrastructure backbone for reliable AI agents; Anthropic's pricing increase for Claude Code's third-party integrations, which could push developers toward free open-source alternatives like Goose; and Microsoft's terms of service describing Copilot as \"for entertainment purposes only,\" exposing the liability gap between confident enterprise marketing and cautious legal disclaimers. The episode also covers Google's Gemma 4 model already running locally on consumer devices, shifting the competitive dynamics between open and closed AI",
       "keyTopics": []
     }
   ]
