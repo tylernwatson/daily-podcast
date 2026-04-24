@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-24</title>
+      <description># Episode Summary
+
+This week&apos;s big story is the partnership between Databricks and OpenAI on GPT-5.5, signaling Databricks&apos; strategy to be the neutral enterprise platform where teams can access any frontier model while keeping their data governance centralized. The show also highlights Lakeflow Designer moving into public preview—a visual, low-code pipeline builder that democratizes production data engineering to analysts and SQL-comfortable teams who aren&apos;t comfortable with Python. Rounding out the episode are the pressures mounting on AI coding tools like Claude Code (facing competition from open-source alternatives and quality concerns) and Anthropic&apos;s aggressive international expansion through a major partnership with NEC in Japan.</description>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-24.mp3" length="3792000" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-24.mp3</guid>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-23</title>
       <description># Episode Summary
 
