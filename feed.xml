@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-27</title>
+      <description># Episode Summary
+
+This episode explores the rise of AI agents moving from experimental to production systems, highlighting Databricks&apos; Lakebase deployment with LangGuard&apos;s governance platform and Anthropic&apos;s groundbreaking agent-to-agent marketplace experiment where AI systems autonomously negotiate and transact. The conversation also covers Anthropic and Amazon&apos;s expansion to five gigawatts of compute capacity, new Federal Reserve guidance on AI model risk management for financial institutions, and the broader industry shift toward making AI systems trustworthy and auditable rather than simply more autonomous.</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-27.mp3" length="4149312" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-27.mp3</guid>
+      <itunes:duration>259</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-24</title>
       <description># Episode Summary
 
