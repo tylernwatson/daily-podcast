@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-27",
+      "summary": "# Episode Summary\n\nThis episode explores the rise of AI agents moving from experimental to production systems, highlighting Databricks' Lakebase deployment with LangGuard's governance platform and Anthropic's groundbreaking agent-to-agent marketplace experiment where AI systems autonomously negotiate and transact. The conversation also covers Anthropic and Amazon's expansion to five gigawatts of compute capacity, new Federal Reserve guidance on AI model risk management for financial institutions, and the broader industry shift toward making AI systems trustworthy and auditable rather than simply more autonomous.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-24",
       "summary": "# Episode Summary\n\nThis week's big story is the partnership between Databricks and OpenAI on GPT-5.5, signaling Databricks' strategy to be the neutral enterprise platform where teams can access any frontier model while keeping their data governance centralized. The show also highlights Lakeflow Designer moving into public preview—a visual, low-code pipeline builder that democratizes production data engineering to analysts and SQL-comfortable teams who aren't comfortable with Python. Rounding out the episode are the pressures mounting on AI coding tools like Claude Code (facing competition from open-source alternatives and quality concerns) and Anthropic's aggressive international expansion through a major partnership with NEC in Japan.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-08",
       "summary": "# Podcast Summary\n\nAnthropic unveils Mythos, a specialized AI model designed exclusively for defensive cybersecurity work as part of Project Glasswing, marking a significant shift toward AI-native security infrastructure. MakeMyTrip demonstrates the real-world power of modern data platforms by achieving millisecond-level personalization at scale on Databricks, validating the lakehouse architecture for production AI workloads. Meanwhile, Databricks expands its reach beyond engineers with collaborative analytics tools like Genie, positioning itself as an end-to-end platform while infrastructure companies race to secure compute and power capacity—with Texas emerging as a surprising hub for semiconductor and AI infrastructure development.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-07",
-      "summary": "# The Data and AI Daily — Episode Summary\n\nAnthropic made a major infrastructure play by locking in multi-gigawatt compute capacity through expanded partnerships with Google and Broadcom, signaling a shift toward building independent AI supply chains and ensuring long-term competitive capability. Meanwhile, OpenAI published a bold policy framework proposing taxes on AI profits and wealth redistribution funds, positioning itself as shaping the regulatory conversation around AI's economic impact. On the startup front, a new platform called Rocket is democratizing McKinsey-style strategy consulting through AI, while the broader ecosystem shows deepening data governance needs for enterprise AI agents in regulated industries.",
       "keyTopics": []
     }
   ]
