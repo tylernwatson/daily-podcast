@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-28",
+      "summary": "# Episode Summary\n\nThis episode covers three major shifts reshaping the AI industry: OpenAI's restructured relationship with Microsoft that allows the company to operate independently across cloud platforms (AWS, Azure, Google Cloud), a major product release from Databricks featuring next-generation Genie—a conversational analytics tool that democratizes data access beyond technical teams—and David Silver's new lab Ineffable Intelligence, which raised $1.1 billion to pursue a paradigm shift in AI training through self-play learning without human-labeled data. The episode also touches on Anthropic's aggressive international expansion and critical security vulnerabilities in AI training data supply chains.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-27",
       "summary": "# Episode Summary\n\nThis episode explores the rise of AI agents moving from experimental to production systems, highlighting Databricks' Lakebase deployment with LangGuard's governance platform and Anthropic's groundbreaking agent-to-agent marketplace experiment where AI systems autonomously negotiate and transact. The conversation also covers Anthropic and Amazon's expansion to five gigawatts of compute capacity, new Federal Reserve guidance on AI model risk management for financial institutions, and the broader industry shift toward making AI systems trustworthy and auditable rather than simply more autonomous.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-09",
       "summary": "# Episode Summary\n\nThis episode examines three major developments in AI: Claude's attribution errors in conversations, which highlight a growing reliability gap between marketing promises and real-world performance; MegaTrain, a research breakthrough claiming full-precision training of 100+ billion parameter models on a single GPU, potentially democratizing access to frontier-scale AI research; and Poke, a startup simplifying AI agents to the familiar interface of text messaging. Throughout, the discussion emphasizes how reliability and accessibility remain the critical bottlenecks in AI adoption—from enterprise users needing trustworthy tools to mainstream consumers wanting simple interfaces.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-08",
-      "summary": "# Podcast Summary\n\nAnthropic unveils Mythos, a specialized AI model designed exclusively for defensive cybersecurity work as part of Project Glasswing, marking a significant shift toward AI-native security infrastructure. MakeMyTrip demonstrates the real-world power of modern data platforms by achieving millisecond-level personalization at scale on Databricks, validating the lakehouse architecture for production AI workloads. Meanwhile, Databricks expands its reach beyond engineers with collaborative analytics tools like Genie, positioning itself as an end-to-end platform while infrastructure companies race to secure compute and power capacity—with Texas emerging as a surprising hub for semiconductor and AI infrastructure development.",
       "keyTopics": []
     }
   ]
