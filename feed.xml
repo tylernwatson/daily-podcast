@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-28</title>
+      <description># Episode Summary
+
+This episode covers three major shifts reshaping the AI industry: OpenAI&apos;s restructured relationship with Microsoft that allows the company to operate independently across cloud platforms (AWS, Azure, Google Cloud), a major product release from Databricks featuring next-generation Genie—a conversational analytics tool that democratizes data access beyond technical teams—and David Silver&apos;s new lab Ineffable Intelligence, which raised $1.1 billion to pursue a paradigm shift in AI training through self-play learning without human-labeled data. The episode also touches on Anthropic&apos;s aggressive international expansion and critical security vulnerabilities in AI training data supply chains.</description>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-28.mp3" length="4088448" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-28.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-27</title>
       <description># Episode Summary
 
