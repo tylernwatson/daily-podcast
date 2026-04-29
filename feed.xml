@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-29</title>
+      <description># Episode Summary
+
+OpenAI&apos;s exclusive partnership with Microsoft is officially loosening, with AWS now offering OpenAI models directly through its Bedrock service—marking the beginning of a real multi-cloud competition for enterprise AI workloads. Meanwhile, Databricks is pushing agentic data engineering into production with Genie Code and Lakeflow, letting data engineers generate production-ready pipeline code from natural language descriptions. The episode also highlights a significant industry split: Anthropic declined a Pentagon contract for domestic surveillance and autonomous weapons systems, while Google accepted it—a principled stance that signals diverging philosophies on AI safety among leading labs.</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-29.mp3" length="3801984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-29.mp3</guid>
+      <itunes:duration>238</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-28</title>
       <description># Episode Summary
 
