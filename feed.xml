@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-04-30</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI and cloud infrastructure: Anthropic&apos;s reported $50 billion fundraising round at a near-$900 billion valuation, which signals investor confidence in safety-focused AI positioning; AWS&apos;s accelerating cloud spending and its direct connection to powering Anthropic&apos;s compute infrastructure; and Databricks&apos; practical updates for data teams, including native Stripe integration, sketch functions for faster analytics, and SQL-first ETL workflows. The hosts also discuss the Zig programming language&apos;s decision to reject AI-generated code contributions and recent research on safety vulnerabilities in fine-tuned models.</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-30.mp3" length="4600704" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-04-30.mp3</guid>
+      <itunes:duration>288</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-04-29</title>
       <description># Episode Summary
 
