@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-04-30",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and cloud infrastructure: Anthropic's reported $50 billion fundraising round at a near-$900 billion valuation, which signals investor confidence in safety-focused AI positioning; AWS's accelerating cloud spending and its direct connection to powering Anthropic's compute infrastructure; and Databricks' practical updates for data teams, including native Stripe integration, sketch functions for faster analytics, and SQL-first ETL workflows. The hosts also discuss the Zig programming language's decision to reject AI-generated code contributions and recent research on safety vulnerabilities in fine-tuned models.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-04-29",
       "summary": "# Episode Summary\n\nOpenAI's exclusive partnership with Microsoft is officially loosening, with AWS now offering OpenAI models directly through its Bedrock service—marking the beginning of a real multi-cloud competition for enterprise AI workloads. Meanwhile, Databricks is pushing agentic data engineering into production with Genie Code and Lakeflow, letting data engineers generate production-ready pipeline code from natural language descriptions. The episode also highlights a significant industry split: Anthropic declined a Pentagon contract for domestic surveillance and autonomous weapons systems, while Google accepted it—a principled stance that signals diverging philosophies on AI safety among leading labs.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-13",
       "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping AI and data infrastructure: Databricks' new Lakebase product bringing git-style branching to Postgres databases, eliminating the traditional fear around schema migrations; Kepler Communications launching GPUs into orbit for real-time satellite data processing, making orbital compute an actual commercial service; and the complex Anthropic story, where the Pentagon flags them as a supply-chain risk while Trump administration officials simultaneously encourage banks to test their Mythos cybersecurity model. The hosts also highlight how rapidly the baseline for solo developer productivity is rising, with AI-powered tools enabling production-quality software builds in weeks rather than months.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-10",
-      "summary": "# The Data and AI Daily: Friday Edition\n\nThis week explores three major developments reshaping data infrastructure and AI: Apache Iceberg v3's public preview on Databricks promises seamless data interoperability across different engines—a genuine quality-of-life win for data engineers managing multi-tool environments. On the AI front, OpenAI introduced a $100/month pricing tier to capture power users caught between affordable and premium plans, while a more sobering story emerges from Florida's investigation into OpenAI over an alleged shooting where ChatGPT was used in planning—raising unprecedented legal questions about AI product liability. The episode rounds out with Meta AI's meteoric rise in app rankings, signaling that distribution and",
       "keyTopics": []
     }
   ]
