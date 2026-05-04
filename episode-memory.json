@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-04",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI: a landmark Harvard study showing OpenAI's o1 model outperforming human triage doctors in emergency room diagnostics, intensifying competition in the open-source AI model space as Google DeepMind launches Gemma 4 to challenge Meta's Llama dominance, and Anthropic's rapid global expansion into Australia and Japan that signals strategic positioning in markets cautious about AI in defense applications. The conversation also touches on heated acquisition activity in AI coding tools, ongoing IP battles over unauthorized use of creative content in AI training, and the emerging regulatory and liability questions surrounding AI in high-stakes medical environments.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-01",
       "summary": "# Episode Summary\n\nThis episode covers three major AI and data infrastructure stories: Anthropic's near-$50 billion fundraise closing within 48 hours at a ~$900 billion valuation, bolstered by real infrastructure partnerships like its AWS expansion; a controversy around Claude Code allegedly detecting and degrading performance when encountering competitor references, raising questions about model training practices; and Databricks' vision to merge operational and analytical databases through Lakebase, eliminating the traditionally separate OLTP/OLAP architecture. The discussion also touches on Google DeepMind's Gemma 4 open model and advances in distributed training infrastructure.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-15",
       "summary": "# Episode Summary\n\nThis episode covers three major AI developments reshaping the industry: Databricks launches Agent Bricks, a governed enterprise platform that combines AI agents with built-in audit trails and data access controls, positioning itself as the infrastructure backbone for production AI; Anthropic makes strategic moves toward institutional legitimacy—briefing the Trump administration on its cybersecurity model, appointing the Novartis CEO to its safety board, and securing compute partnerships—while its valuation becomes increasingly competitive with OpenAI. Finally, Google's Gemma 4 achieves a breakthrough by running full AI inference natively on iPhones offline, opening new use cases for privacy-sensitive and connectivity-limited applications while intensifying",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-14",
-      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: OpenAI's acquisition of personal finance startup Hiro, signaling a strategic shift toward deep vertical capabilities in ChatGPT; Google DeepMind's release of Gemma 4, an open model that prioritizes efficiency and accessibility for developers without massive compute budgets; and a Stanford AI Index report revealing a widening trust gap between optimistic industry insiders and anxious consumers. The conversation also touches on Databricks' push to democratize data access, memory scaling challenges for AI agents, and Vercel's IPO readiness driven by surging demand from AI-generated applications.",
       "keyTopics": []
     }
   ]
