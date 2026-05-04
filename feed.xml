@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-04</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI: a landmark Harvard study showing OpenAI&apos;s o1 model outperforming human triage doctors in emergency room diagnostics, intensifying competition in the open-source AI model space as Google DeepMind launches Gemma 4 to challenge Meta&apos;s Llama dominance, and Anthropic&apos;s rapid global expansion into Australia and Japan that signals strategic positioning in markets cautious about AI in defense applications. The conversation also touches on heated acquisition activity in AI coding tools, ongoing IP battles over unauthorized use of creative content in AI training, and the emerging regulatory and liability questions surrounding AI in high-stakes medical environments.</description>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-04.mp3" length="4397376" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-04.mp3</guid>
+      <itunes:duration>275</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-01</title>
       <description># Episode Summary
 
