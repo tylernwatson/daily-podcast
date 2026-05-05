@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-05</title>
+      <description># The Data and AI Daily — May 5th
+
+This episode dives into three major developments reshaping enterprise AI: Anthropic&apos;s bold billion-dollar pivot into enterprise services (backed by Blackstone, Hellman &amp; Friedman, and Goldman Sachs) signals the company is moving beyond model-building into full-scale deployment and consulting—potentially disrupting traditional consulting firms. We also examine Google Chrome&apos;s silent installation of a four-gigabyte AI model on user devices without consent, raising serious privacy and transparency concerns even as it showcases impressive advances in model compression. Finally, we tackle a provocative question: why are companies full of AI-augmented employees still organizationally less intelligent, and what</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-05.mp3" length="4127424" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-05.mp3</guid>
+      <itunes:duration>258</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-04</title>
       <description># Episode Summary
 
