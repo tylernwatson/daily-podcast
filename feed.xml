@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-06</title>
+      <description># Episode Summary
+
+Anthropic is making a major push into financial services with purpose-built AI agents designed for tasks like portfolio analysis and compliance workflows—signaling a broader vertical-focused strategy across enterprise markets. Meanwhile, Apple is reportedly planning to let iOS users choose which third-party AI model (Claude, GPT, Gemini) powers different tasks, a surprising shift toward openness that could reshape how AI gets distributed at consumer scale and create new engineering challenges for developers. Additionally, Databricks shared insights from monitoring ten trillion data points daily, revealing the infrastructure innovations required to operate at massive scale—a case study with lessons for anyone building large-scale data platforms.</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-06.mp3" length="4012608" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-06.mp3</guid>
+      <itunes:duration>251</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-05</title>
       <description># The Data and AI Daily — May 5th
 
