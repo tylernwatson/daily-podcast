@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-07</title>
+      <description># Thursday AI Briefing: Infrastructure Bets and Organizational Gaps
+
+Anthropic is making aggressive moves across multiple fronts this week—launching a compute partnership with SpaceX, raising usage limits for Claude, and deploying specialized agents for financial services—signaling a shift toward vertical integration and enterprise dominance. Meanwhile, Databricks argues that most companies&apos; real AI bottleneck isn&apos;t technical infrastructure but organizational talent and data quality, a philosophy that echoes broader industry skepticism about whether pure model improvements can solve enterprise adoption challenges.</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-07.mp3" length="3936384" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-07.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-06</title>
       <description># Episode Summary
 
