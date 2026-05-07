@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-07",
+      "summary": "# Thursday AI Briefing: Infrastructure Bets and Organizational Gaps\n\nAnthropic is making aggressive moves across multiple fronts this week—launching a compute partnership with SpaceX, raising usage limits for Claude, and deploying specialized agents for financial services—signaling a shift toward vertical integration and enterprise dominance. Meanwhile, Databricks argues that most companies' real AI bottleneck isn't technical infrastructure but organizational talent and data quality, a philosophy that echoes broader industry skepticism about whether pure model improvements can solve enterprise adoption challenges.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-06",
       "summary": "# Episode Summary\n\nAnthropic is making a major push into financial services with purpose-built AI agents designed for tasks like portfolio analysis and compliance workflows—signaling a broader vertical-focused strategy across enterprise markets. Meanwhile, Apple is reportedly planning to let iOS users choose which third-party AI model (Claude, GPT, Gemini) powers different tasks, a surprising shift toward openness that could reshape how AI gets distributed at consumer scale and create new engineering challenges for developers. Additionally, Databricks shared insights from monitoring ten trillion data points daily, revealing the infrastructure innovations required to operate at massive scale—a case study with lessons for anyone building large-scale data platforms.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-20",
       "summary": "# Episode Summary\n\nDatabricks is making aggressive moves in AI governance, launching Agent Mode for its Genie analytics product and introducing controls for coding agent sprawl through Unity AI Gateway—positioning itself as the enterprise control layer as AI agents proliferate. Meanwhile, Anthropic is expanding rapidly across multiple fronts: Claude Design is challenging Figma's design tool dominance, the NSA is reportedly using the company's Mythos model despite government blacklist complications, and new compute partnerships signal ambitions to scale across modalities and enterprise applications.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-17",
-      "summary": "# Podcast Summary\n\nThis episode covers three major developments in enterprise AI: Anthropic's release of Claude Opus 4.7, positioning itself as a serious enterprise alternative to OpenAI amid competitive model drops; a funding surge in enterprise AI coding tools, with Factory raising $150M and Upscale AI approaching a $2B valuation, signaling that specialized, governance-focused coding infrastructure is becoming a real business category. The main story centers on Databricks' push into document intelligence, addressing a critical gap—that 80% of enterprise knowledge lives in unstructured documents like contracts and PDFs—with new integrations including Gemini models and Google Sheets connectors to make that data accessible across",
       "keyTopics": []
     }
   ]
