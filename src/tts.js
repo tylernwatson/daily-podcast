@@ -70,15 +70,21 @@ function chunkScript(script, maxBytes = 4500) {
  * Synthesize a single chunk
  */
 async function synthesizeChunk(client, text, voiceConfig) {
-  const [response] = await client.synthesizeSpeech({
-    input: { text },
-    voice: voiceConfig,
-    audioConfig: {
-      audioEncoding: 'MP3',
-      pitch: 0,
-      effectsProfileId: ['large-home-entertainment-class-device']
-    },
-  });
+  const timeout = new Promise((_, reject) =>
+    setTimeout(() => reject(new Error('TTS synthesis timed out after 30s')), 30000)
+  );
+  const [response] = await Promise.race([
+    client.synthesizeSpeech({
+      input: { text },
+      voice: voiceConfig,
+      audioConfig: {
+        audioEncoding: 'MP3',
+        pitch: 0,
+        effectsProfileId: ['large-home-entertainment-class-device']
+      },
+    }),
+    timeout,
+  ]);
 
   return response.audioContent;
 }

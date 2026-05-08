@@ -64,11 +64,11 @@ async function run({ dryRun = false } = {}) {
   console.log('='.repeat(60));
   console.log();
 
-  if (!dryRun) {
-    const required = ['PAGES_BASE_URL', 'GITHUB_REPOSITORY', 'GITHUB_TOKEN'];
-    const missing = required.filter(k => !process.env[k]);
-    if (missing.length) throw new Error(`Missing required env vars: ${missing.join(', ')}`);
-  }
+  const alwaysRequired = ['ANTHROPIC_API_KEY'];
+  const publishRequired = ['PAGES_BASE_URL', 'GITHUB_REPOSITORY', 'GITHUB_TOKEN', 'GOOGLE_APPLICATION_CREDENTIALS'];
+  const required = dryRun ? alwaysRequired : [...alwaysRequired, ...publishRequired];
+  const missing = required.filter(k => !process.env[k]);
+  if (missing.length) throw new Error(`Missing required env vars: ${missing.join(', ')}`);
 
   const startTime = Date.now();
   const costTracker = new CostTracker();
