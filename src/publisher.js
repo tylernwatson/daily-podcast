@@ -25,8 +25,8 @@ function escapeXml(str) {
  */
 function buildUpdatedFeed(existingFeedXml, episode, baseUrl, podcastInfo) {
   const episodeUrl = `${baseUrl}/episodes/${episode.fileName}`;
-  // Convert Central Time date to midnight UTC for pubDate
-  const pubDate = new Date(episode.date).toUTCString();
+  // Use noon CDT (17:00 UTC) so the episode date is unambiguous for listeners in any timezone
+  const pubDate = new Date(`${episode.date}T17:00:00Z`).toUTCString();
 
   const newItem = `
     <item>

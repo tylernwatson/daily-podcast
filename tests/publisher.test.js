@@ -87,6 +87,13 @@ describe('buildUpdatedFeed — first run (empty existingFeedXml)', () => {
     const fromNull = buildUpdatedFeed(null, baseEpisode, baseUrl, podcastInfo);
     expect(fromNull).toMatch(/^<\?xml/);
   });
+
+  test('pubDate uses noon UTC (17:00Z) so the date is unambiguous for CDT listeners', () => {
+    // Midnight UTC on a date string like "2026-02-18" appears as the previous evening
+    // in CDT (UTC-5). The feed must use a mid-day time to stay on the correct calendar day.
+    expect(result).toContain('17:00:00 GMT');
+    expect(result).not.toContain('00:00:00 GMT');
+  });
 });
 
 // ─────────────────────────────────────────────
