@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-08",
+      "summary": "# Episode Summary\n\nThis episode dives into three major shifts reshaping AI infrastructure and enterprise adoption: the emerging pricing wars around coding agents like Claude Code, where open-source alternatives are forcing a reckoning with developer costs; Google DeepMind's AlphaEvolve, an autonomous algorithm-optimization agent that represents a leap from code assistance to actual research capability; and Databricks' strategic vertical positioning through industry-specific use cases in healthcare, finance, and telecom—signaling a shift from platform-speak to business-buyer language. The broader narrative: AI tooling is maturing rapidly, cost pressures are mounting for smaller teams, and competitive advantage increasingly depends on owning specific industry workflows rather than just general",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-07",
       "summary": "# Thursday AI Briefing: Infrastructure Bets and Organizational Gaps\n\nAnthropic is making aggressive moves across multiple fronts this week—launching a compute partnership with SpaceX, raising usage limits for Claude, and deploying specialized agents for financial services—signaling a shift toward vertical integration and enterprise dominance. Meanwhile, Databricks argues that most companies' real AI bottleneck isn't technical infrastructure but organizational talent and data quality, a philosophy that echoes broader industry skepticism about whether pure model improvements can solve enterprise adoption challenges.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-21",
       "summary": "# Episode Summary\n\nAmazon's historic $5 billion investment in Anthropic comes with a massive commitment: Anthropic will spend $100 billion on AWS infrastructure, escalating the enterprise AI cloud wars and positioning Amazon as a major player against Microsoft-OpenAI. Beyond the headline deal, Databricks continues solidifying itself as critical infrastructure through Delta Sharing integrations with Adobe and customer-managed encryption keys for Lakebase, while a Vercel platform outage caused by AI-generated traffic highlights emerging reliability risks in shared cloud infrastructure as AI workloads scale unpredictably.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-20",
-      "summary": "# Episode Summary\n\nDatabricks is making aggressive moves in AI governance, launching Agent Mode for its Genie analytics product and introducing controls for coding agent sprawl through Unity AI Gateway—positioning itself as the enterprise control layer as AI agents proliferate. Meanwhile, Anthropic is expanding rapidly across multiple fronts: Claude Design is challenging Figma's design tool dominance, the NSA is reportedly using the company's Mythos model despite government blacklist complications, and new compute partnerships signal ambitions to scale across modalities and enterprise applications.",
       "keyTopics": []
     }
   ]
