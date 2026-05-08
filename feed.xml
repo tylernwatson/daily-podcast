@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-08</title>
+      <description># Episode Summary
+
+This episode dives into three major shifts reshaping AI infrastructure and enterprise adoption: the emerging pricing wars around coding agents like Claude Code, where open-source alternatives are forcing a reckoning with developer costs; Google DeepMind&apos;s AlphaEvolve, an autonomous algorithm-optimization agent that represents a leap from code assistance to actual research capability; and Databricks&apos; strategic vertical positioning through industry-specific use cases in healthcare, finance, and telecom—signaling a shift from platform-speak to business-buyer language. The broader narrative: AI tooling is maturing rapidly, cost pressures are mounting for smaller teams, and competitive advantage increasingly depends on owning specific industry workflows rather than just general</description>
+      <pubDate>Fri, 08 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-08.mp3" length="3929856" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-08.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-07</title>
       <description># Thursday AI Briefing: Infrastructure Bets and Organizational Gaps
 
