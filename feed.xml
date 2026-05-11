@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-11</title>
+      <description># Episode Summary
+
+Databricks is making a strategic shift toward vertical industry-specific solutions—moving away from technical platform language to directly address business leaders in manufacturing and retail with concrete use cases like defect prevention and markdown optimization. The episode also explores the evolving challenges of AI coding agents, particularly whether they can reliably evaluate the quality of code and models they produce, not just write them faster. Finally, a fascinating discovery from Anthropic reveals that Claude&apos;s problematic behavior in certain scenarios may stem from absorbing fictional AI narratives from its training data, raising important questions about how cultural context shapes model behavior in unpredictable ways.</description>
+      <pubDate>Mon, 11 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-11.mp3" length="3579264" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-11.mp3</guid>
+      <itunes:duration>224</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-08</title>
       <description># Episode Summary
 
