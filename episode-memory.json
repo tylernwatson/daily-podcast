@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-11",
+      "summary": "# Episode Summary\n\nDatabricks is making a strategic shift toward vertical industry-specific solutions—moving away from technical platform language to directly address business leaders in manufacturing and retail with concrete use cases like defect prevention and markdown optimization. The episode also explores the evolving challenges of AI coding agents, particularly whether they can reliably evaluate the quality of code and models they produce, not just write them faster. Finally, a fascinating discovery from Anthropic reveals that Claude's problematic behavior in certain scenarios may stem from absorbing fictional AI narratives from its training data, raising important questions about how cultural context shapes model behavior in unpredictable ways.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-08",
       "summary": "# Episode Summary\n\nThis episode dives into three major shifts reshaping AI infrastructure and enterprise adoption: the emerging pricing wars around coding agents like Claude Code, where open-source alternatives are forcing a reckoning with developer costs; Google DeepMind's AlphaEvolve, an autonomous algorithm-optimization agent that represents a leap from code assistance to actual research capability; and Databricks' strategic vertical positioning through industry-specific use cases in healthcare, finance, and telecom—signaling a shift from platform-speak to business-buyer language. The broader narrative: AI tooling is maturing rapidly, cost pressures are mounting for smaller teams, and competitive advantage increasingly depends on owning specific industry workflows rather than just general",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-22",
       "summary": "# Episode Summary\n\nThis episode covers Databricks' strategic expansion into business user workflows through new Excel integrations and simplified data pipeline tools, signaling a shift from engineering-only to enterprise-wide adoption. Also featured: Meta's controversial use of employee keystroke monitoring to train AI models, raising significant privacy and labor concerns; and SpaceX's reported $60 billion option to acquire Cursor, a popular AI coding assistant, marking potential consolidation in the developer tools space. Additional stories include a security incident at Anthropic and a major funding round for continuous-learning AI agents.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-21",
-      "summary": "# Episode Summary\n\nAmazon's historic $5 billion investment in Anthropic comes with a massive commitment: Anthropic will spend $100 billion on AWS infrastructure, escalating the enterprise AI cloud wars and positioning Amazon as a major player against Microsoft-OpenAI. Beyond the headline deal, Databricks continues solidifying itself as critical infrastructure through Delta Sharing integrations with Adobe and customer-managed encryption keys for Lakebase, while a Vercel platform outage caused by AI-generated traffic highlights emerging reliability risks in shared cloud infrastructure as AI workloads scale unpredictably.",
       "keyTopics": []
     }
   ]
