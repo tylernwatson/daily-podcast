@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-12",
+      "summary": "# Episode Summary\n\nThis episode explores how AI is fundamentally reshaping the enterprise workforce and emerging as a serious business tool. General Motors' announcement that it's laying off hundreds of IT workers to hire AI-native talent signals a broader workforce transformation, while voice AI startup Vapi's half-billion-dollar valuation after winning Amazon Ring's contract shows the technology moving from demo to real-world deployment. The discussion also highlights Databricks' humanitarian use case in Sudan—using AI to unlock decades of archival documents for groundwater discovery—demonstrating that AI's impact extends beyond job displacement to solving previously unsolvable problems.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-11",
       "summary": "# Episode Summary\n\nDatabricks is making a strategic shift toward vertical industry-specific solutions—moving away from technical platform language to directly address business leaders in manufacturing and retail with concrete use cases like defect prevention and markdown optimization. The episode also explores the evolving challenges of AI coding agents, particularly whether they can reliably evaluate the quality of code and models they produce, not just write them faster. Finally, a fascinating discovery from Anthropic reveals that Claude's problematic behavior in certain scenarios may stem from absorbing fictional AI narratives from its training data, raising important questions about how cultural context shapes model behavior in unpredictable ways.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-23",
       "summary": "# Episode Summary\n\nDatabricks is making a strategic pivot to become the AI brain of the enterprise by packaging its platform for business users and finance leaders—not just data engineers—through conversational analytics, document intelligence, and vertical-specific solutions. SpaceX's reported $60 billion acquisition offer for Cursor has halted the coding assistant's $2 billion funding round, signaling major consolidation in the AI developer tools space. Meanwhile, Google is flooding the market with new releases across DeepMind, including open models like Gemma 4 and AI-powered Workspace Intelligence, while research surfaces important questions about LLM tool overuse that builders need to address.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-22",
-      "summary": "# Episode Summary\n\nThis episode covers Databricks' strategic expansion into business user workflows through new Excel integrations and simplified data pipeline tools, signaling a shift from engineering-only to enterprise-wide adoption. Also featured: Meta's controversial use of employee keystroke monitoring to train AI models, raising significant privacy and labor concerns; and SpaceX's reported $60 billion option to acquire Cursor, a popular AI coding assistant, marking potential consolidation in the developer tools space. Additional stories include a security incident at Anthropic and a major funding round for continuous-learning AI agents.",
       "keyTopics": []
     }
   ]
