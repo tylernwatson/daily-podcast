@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-12</title>
+      <description># Episode Summary
+
+This episode explores how AI is fundamentally reshaping the enterprise workforce and emerging as a serious business tool. General Motors&apos; announcement that it&apos;s laying off hundreds of IT workers to hire AI-native talent signals a broader workforce transformation, while voice AI startup Vapi&apos;s half-billion-dollar valuation after winning Amazon Ring&apos;s contract shows the technology moving from demo to real-world deployment. The discussion also highlights Databricks&apos; humanitarian use case in Sudan—using AI to unlock decades of archival documents for groundwater discovery—demonstrating that AI&apos;s impact extends beyond job displacement to solving previously unsolvable problems.</description>
+      <pubDate>Tue, 12 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-12.mp3" length="3657024" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-12.mp3</guid>
+      <itunes:duration>229</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-11</title>
       <description># Episode Summary
 
