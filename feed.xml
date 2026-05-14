@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-14</title>
+      <description># Episode Summary
+
+This episode covers three major developments in enterprise AI: Anthropic&apos;s launch of Claude for Small Business, signaling a shift toward verticalized products across different industries; Databricks&apos; healthcare-focused announcements emphasizing that data quality—not storage—is the real bottleneck to AI adoption, bolstered by new governance features in Unity Catalog; and the infrastructure reality behind AI&apos;s explosive growth, highlighted by a lawsuit against xAI&apos;s Mississippi data center for operating gas turbines without proper permits. The overarching theme: AI&apos;s real competitive advantage lies not in flashy model capabilities but in practical workflow automation, data governance, and reliable power infrastructure.</description>
+      <pubDate>Thu, 14 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-14.mp3" length="3927168" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-14.mp3</guid>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-12</title>
       <description># Episode Summary
 
