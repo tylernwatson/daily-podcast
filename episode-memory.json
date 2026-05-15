@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-15",
+      "summary": "# Episode Summary\n\nThis week in AI brings major moves from Anthropic, which is simultaneously expanding into small business and securing a $200M Gates Foundation partnership for global health applications—signaling a strategy to establish Claude as a trusted layer across diverse markets. Meanwhile, Databricks is opening up its Unity Catalog APIs to eliminate vendor lock-in while rolling out enterprise-grade governance features like attribute-based access control, positioning data quality and governance as essential prerequisites for AI success. The episode also covers OpenAI's legal friction with Apple and Elon Musk, plus a striking new startup pitch: You.ai's $650M funding to build AI systems capable of indefinitely improving themselves.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-14",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Anthropic's launch of Claude for Small Business, signaling a shift toward verticalized products across different industries; Databricks' healthcare-focused announcements emphasizing that data quality—not storage—is the real bottleneck to AI adoption, bolstered by new governance features in Unity Catalog; and the infrastructure reality behind AI's explosive growth, highlighted by a lawsuit against xAI's Mississippi data center for operating gas turbines without proper permits. The overarching theme: AI's real competitive advantage lies not in flashy model capabilities but in practical workflow automation, data governance, and reliable power infrastructure.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-27",
       "summary": "# Episode Summary\n\nThis episode explores the rise of AI agents moving from experimental to production systems, highlighting Databricks' Lakebase deployment with LangGuard's governance platform and Anthropic's groundbreaking agent-to-agent marketplace experiment where AI systems autonomously negotiate and transact. The conversation also covers Anthropic and Amazon's expansion to five gigawatts of compute capacity, new Federal Reserve guidance on AI model risk management for financial institutions, and the broader industry shift toward making AI systems trustworthy and auditable rather than simply more autonomous.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-24",
-      "summary": "# Episode Summary\n\nThis week's big story is the partnership between Databricks and OpenAI on GPT-5.5, signaling Databricks' strategy to be the neutral enterprise platform where teams can access any frontier model while keeping their data governance centralized. The show also highlights Lakeflow Designer moving into public preview—a visual, low-code pipeline builder that democratizes production data engineering to analysts and SQL-comfortable teams who aren't comfortable with Python. Rounding out the episode are the pressures mounting on AI coding tools like Claude Code (facing competition from open-source alternatives and quality concerns) and Anthropic's aggressive international expansion through a major partnership with NEC in Japan.",
       "keyTopics": []
     }
   ]
