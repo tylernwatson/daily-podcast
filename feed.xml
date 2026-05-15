@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-15</title>
+      <description># Episode Summary
+
+This week in AI brings major moves from Anthropic, which is simultaneously expanding into small business and securing a $200M Gates Foundation partnership for global health applications—signaling a strategy to establish Claude as a trusted layer across diverse markets. Meanwhile, Databricks is opening up its Unity Catalog APIs to eliminate vendor lock-in while rolling out enterprise-grade governance features like attribute-based access control, positioning data quality and governance as essential prerequisites for AI success. The episode also covers OpenAI&apos;s legal friction with Apple and Elon Musk, plus a striking new startup pitch: You.ai&apos;s $650M funding to build AI systems capable of indefinitely improving themselves.</description>
+      <pubDate>Fri, 15 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-15.mp3" length="4404288" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-15.mp3</guid>
+      <itunes:duration>275</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-14</title>
       <description># Episode Summary
 
