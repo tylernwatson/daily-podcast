@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-18",
+      "summary": "# Episode Summary\n\nThis episode digs into enterprise AI's expanding footprint, from Anthropic's partnership with PwC to deploy Claude as the actual delivery mechanism for client work—positioning AI as a trusted layer rather than just a productivity tool—to Databricks' vertical-specific push into pharma and sales intelligence. The conversation also covers the cultural and regulatory complexity around AI adoption, highlighted by the OpenAI-Musk trial's focus on trust, commencement speech backlash, and Railway's bold bet on AI-native cloud infrastructure designed to replace legacy cloud assumptions. Throughout, the hosts emphasize that the real competitive advantage in enterprise AI isn't raw capability—it's becoming the trusted, reliable layer that",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-15",
       "summary": "# Episode Summary\n\nThis week in AI brings major moves from Anthropic, which is simultaneously expanding into small business and securing a $200M Gates Foundation partnership for global health applications—signaling a strategy to establish Claude as a trusted layer across diverse markets. Meanwhile, Databricks is opening up its Unity Catalog APIs to eliminate vendor lock-in while rolling out enterprise-grade governance features like attribute-based access control, positioning data quality and governance as essential prerequisites for AI success. The episode also covers OpenAI's legal friction with Apple and Elon Musk, plus a striking new startup pitch: You.ai's $650M funding to build AI systems capable of indefinitely improving themselves.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-28",
       "summary": "# Episode Summary\n\nThis episode covers three major shifts reshaping the AI industry: OpenAI's restructured relationship with Microsoft that allows the company to operate independently across cloud platforms (AWS, Azure, Google Cloud), a major product release from Databricks featuring next-generation Genie—a conversational analytics tool that democratizes data access beyond technical teams—and David Silver's new lab Ineffable Intelligence, which raised $1.1 billion to pursue a paradigm shift in AI training through self-play learning without human-labeled data. The episode also touches on Anthropic's aggressive international expansion and critical security vulnerabilities in AI training data supply chains.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-27",
-      "summary": "# Episode Summary\n\nThis episode explores the rise of AI agents moving from experimental to production systems, highlighting Databricks' Lakebase deployment with LangGuard's governance platform and Anthropic's groundbreaking agent-to-agent marketplace experiment where AI systems autonomously negotiate and transact. The conversation also covers Anthropic and Amazon's expansion to five gigawatts of compute capacity, new Federal Reserve guidance on AI model risk management for financial institutions, and the broader industry shift toward making AI systems trustworthy and auditable rather than simply more autonomous.",
       "keyTopics": []
     }
   ]
