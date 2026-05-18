@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-18</title>
+      <description># Episode Summary
+
+This episode digs into enterprise AI&apos;s expanding footprint, from Anthropic&apos;s partnership with PwC to deploy Claude as the actual delivery mechanism for client work—positioning AI as a trusted layer rather than just a productivity tool—to Databricks&apos; vertical-specific push into pharma and sales intelligence. The conversation also covers the cultural and regulatory complexity around AI adoption, highlighted by the OpenAI-Musk trial&apos;s focus on trust, commencement speech backlash, and Railway&apos;s bold bet on AI-native cloud infrastructure designed to replace legacy cloud assumptions. Throughout, the hosts emphasize that the real competitive advantage in enterprise AI isn&apos;t raw capability—it&apos;s becoming the trusted, reliable layer that</description>
+      <pubDate>Mon, 18 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-18.mp3" length="4525056" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-18.mp3</guid>
+      <itunes:duration>283</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-15</title>
       <description># Episode Summary
 
