@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-19</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: Anthropic&apos;s acquisition of Stainless, an SDK infrastructure startup used by competitors, as part of a broader strategy to lock in developer loyalty across the entire product stack; the conclusion of Elon Musk&apos;s lawsuit against OpenAI on statute of limitations grounds, leaving unresolved the fundamental tension between OpenAI&apos;s nonprofit mission and commercial ambitions; and emerging safety frameworks like AgentWall that address the growing risks of autonomous AI agents executing real-world actions. The show also highlights Databricks&apos; enterprise moves—including a generative AI migration tool for legacy notebooks and a new analytics engineering learning pathway—and identifies a growing trend of AI being</description>
+      <pubDate>Tue, 19 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-19.mp3" length="3941952" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-19.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-18</title>
       <description># Episode Summary
 
