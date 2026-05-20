@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-20</title>
+      <description># Episode Summary
+
+This week&apos;s biggest headlines center on Google&apos;s fundamental reimagining of search — retiring the traditional search box in favor of an AI-native interface powered by Gemini 3.5, complete with action-taking capabilities, conversational voice search, and proactive &quot;information agents&quot; that monitor topics in the background. Meanwhile, Anthropic is rapidly embedding itself into enterprise infrastructure, with KPMG joining PwC in deploying Claude across entire organizations, signaling a major shift in how Fortune 500 companies deliver professional services. The episode also highlights Databricks&apos; pivot toward real-time operational AI use cases — from fraud detection to supply chain visibility — and explores the emerging importance of guardrails</description>
+      <pubDate>Wed, 20 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-20.mp3" length="4154688" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-20.mp3</guid>
+      <itunes:duration>260</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-19</title>
       <description># Episode Summary
 
