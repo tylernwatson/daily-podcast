@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-20",
+      "summary": "# Episode Summary\n\nThis week's biggest headlines center on Google's fundamental reimagining of search — retiring the traditional search box in favor of an AI-native interface powered by Gemini 3.5, complete with action-taking capabilities, conversational voice search, and proactive \"information agents\" that monitor topics in the background. Meanwhile, Anthropic is rapidly embedding itself into enterprise infrastructure, with KPMG joining PwC in deploying Claude across entire organizations, signaling a major shift in how Fortune 500 companies deliver professional services. The episode also highlights Databricks' pivot toward real-time operational AI use cases — from fraud detection to supply chain visibility — and explores the emerging importance of guardrails",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-19",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's acquisition of Stainless, an SDK infrastructure startup used by competitors, as part of a broader strategy to lock in developer loyalty across the entire product stack; the conclusion of Elon Musk's lawsuit against OpenAI on statute of limitations grounds, leaving unresolved the fundamental tension between OpenAI's nonprofit mission and commercial ambitions; and emerging safety frameworks like AgentWall that address the growing risks of autonomous AI agents executing real-world actions. The show also highlights Databricks' enterprise moves—including a generative AI migration tool for legacy notebooks and a new analytics engineering learning pathway—and identifies a growing trend of AI being",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-04-30",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and cloud infrastructure: Anthropic's reported $50 billion fundraising round at a near-$900 billion valuation, which signals investor confidence in safety-focused AI positioning; AWS's accelerating cloud spending and its direct connection to powering Anthropic's compute infrastructure; and Databricks' practical updates for data teams, including native Stripe integration, sketch functions for faster analytics, and SQL-first ETL workflows. The hosts also discuss the Zig programming language's decision to reject AI-generated code contributions and recent research on safety vulnerabilities in fine-tuned models.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-29",
-      "summary": "# Episode Summary\n\nOpenAI's exclusive partnership with Microsoft is officially loosening, with AWS now offering OpenAI models directly through its Bedrock service—marking the beginning of a real multi-cloud competition for enterprise AI workloads. Meanwhile, Databricks is pushing agentic data engineering into production with Genie Code and Lakeflow, letting data engineers generate production-ready pipeline code from natural language descriptions. The episode also highlights a significant industry split: Anthropic declined a Pentagon contract for domestic surveillance and autonomous weapons systems, while Google accepted it—a principled stance that signals diverging philosophies on AI safety among leading labs.",
       "keyTopics": []
     }
   ]
