@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-21</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: **Anthropic has achieved profitability while nearly doubling quarterly revenue to $10.9 billion**, driven by enterprise adoption from firms like PwC and KPMG that are integrating Claude into core business operations rather than using it as a chatbot. **Nvidia announced a new $200 billion CPU market opportunity designed specifically for AI agents**, signaling a major strategic pivot beyond GPUs as companies build orchestration layers for agentic workloads. The episode also tracks Google&apos;s aggressive push into agentic AI with Gemini 3.5, the emergence of governance frameworks for managing scaling agent deployments, and OpenAI&apos;s</description>
+      <pubDate>Thu, 21 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-21.mp3" length="4433856" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-21.mp3</guid>
+      <itunes:duration>277</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-20</title>
       <description># Episode Summary
 
