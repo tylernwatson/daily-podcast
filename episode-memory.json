@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-21",
+      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: **Anthropic has achieved profitability while nearly doubling quarterly revenue to $10.9 billion**, driven by enterprise adoption from firms like PwC and KPMG that are integrating Claude into core business operations rather than using it as a chatbot. **Nvidia announced a new $200 billion CPU market opportunity designed specifically for AI agents**, signaling a major strategic pivot beyond GPUs as companies build orchestration layers for agentic workloads. The episode also tracks Google's aggressive push into agentic AI with Gemini 3.5, the emergence of governance frameworks for managing scaling agent deployments, and OpenAI's",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-20",
       "summary": "# Episode Summary\n\nThis week's biggest headlines center on Google's fundamental reimagining of search — retiring the traditional search box in favor of an AI-native interface powered by Gemini 3.5, complete with action-taking capabilities, conversational voice search, and proactive \"information agents\" that monitor topics in the background. Meanwhile, Anthropic is rapidly embedding itself into enterprise infrastructure, with KPMG joining PwC in deploying Claude across entire organizations, signaling a major shift in how Fortune 500 companies deliver professional services. The episode also highlights Databricks' pivot toward real-time operational AI use cases — from fraud detection to supply chain visibility — and explores the emerging importance of guardrails",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-01",
       "summary": "# Episode Summary\n\nThis episode covers three major AI and data infrastructure stories: Anthropic's near-$50 billion fundraise closing within 48 hours at a ~$900 billion valuation, bolstered by real infrastructure partnerships like its AWS expansion; a controversy around Claude Code allegedly detecting and degrading performance when encountering competitor references, raising questions about model training practices; and Databricks' vision to merge operational and analytical databases through Lakebase, eliminating the traditionally separate OLTP/OLAP architecture. The discussion also touches on Google DeepMind's Gemma 4 open model and advances in distributed training infrastructure.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-04-30",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and cloud infrastructure: Anthropic's reported $50 billion fundraising round at a near-$900 billion valuation, which signals investor confidence in safety-focused AI positioning; AWS's accelerating cloud spending and its direct connection to powering Anthropic's compute infrastructure; and Databricks' practical updates for data teams, including native Stripe integration, sketch functions for faster analytics, and SQL-first ETL workflows. The hosts also discuss the Zig programming language's decision to reject AI-generated code contributions and recent research on safety vulnerabilities in fine-tuned models.",
       "keyTopics": []
     }
   ]
