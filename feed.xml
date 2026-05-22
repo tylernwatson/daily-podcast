@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-22</title>
+      <description># Episode Summary
+
+This episode covers Databricks&apos; latest push to democratize data access through AI—from Genie&apos;s expansion into financial services to using observability data for proactive incident prevention—showing how the company is moving beyond demos into production-ready, regulated environments. The conversation also explores a delayed White House executive order on pre-release AI model security reviews, the tension between national security oversight and competitive innovation, and the SOLAR research project tackling how AI models degrade over time in real-world deployments. Finally, Spotify&apos;s new partnerships—enabling AI-generated music covers with artist revenue sharing and launching AI podcast briefs—signal a broader shift where AI capabilities are embedding directly into existing consumer platforms rather than living</description>
+      <pubDate>Fri, 22 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-22.mp3" length="3978624" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-22.mp3</guid>
+      <itunes:duration>249</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-21</title>
       <description># Episode Summary
 
