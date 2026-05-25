@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-25",
+      "summary": "# Episode Summary\n\nThis episode explores three major developments reshaping AI: Anthropic's Project Glasswing, an ambitious research initiative focused on understanding how AI models develop capabilities through mechanistic interpretability, which signals a foundational science commitment alongside enterprise deployments. The infrastructure landscape is being reframed by a striking data point—memory now represents two-thirds of AI chip component costs—driving a shift toward inference efficiency, exemplified by Databricks' prompt caching work for open-source models. Finally, the episode surveys emerging governance and safety challenges in AI deployment, from constraint decay in LLM agents to the need for better attribution methods in compound AI systems, while highlighting real-world applications across energy, pharma,",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-22",
       "summary": "# Episode Summary\n\nThis episode covers Databricks' latest push to democratize data access through AI—from Genie's expansion into financial services to using observability data for proactive incident prevention—showing how the company is moving beyond demos into production-ready, regulated environments. The conversation also explores a delayed White House executive order on pre-release AI model security reviews, the tension between national security oversight and competitive innovation, and the SOLAR research project tackling how AI models degrade over time in real-world deployments. Finally, Spotify's new partnerships—enabling AI-generated music covers with artist revenue sharing and launching AI podcast briefs—signal a broader shift where AI capabilities are embedding directly into existing consumer platforms rather than living",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-05",
       "summary": "# The Data and AI Daily — May 5th\n\nThis episode dives into three major developments reshaping enterprise AI: Anthropic's bold billion-dollar pivot into enterprise services (backed by Blackstone, Hellman & Friedman, and Goldman Sachs) signals the company is moving beyond model-building into full-scale deployment and consulting—potentially disrupting traditional consulting firms. We also examine Google Chrome's silent installation of a four-gigabyte AI model on user devices without consent, raising serious privacy and transparency concerns even as it showcases impressive advances in model compression. Finally, we tackle a provocative question: why are companies full of AI-augmented employees still organizationally less intelligent, and what",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-04",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI: a landmark Harvard study showing OpenAI's o1 model outperforming human triage doctors in emergency room diagnostics, intensifying competition in the open-source AI model space as Google DeepMind launches Gemma 4 to challenge Meta's Llama dominance, and Anthropic's rapid global expansion into Australia and Japan that signals strategic positioning in markets cautious about AI in defense applications. The conversation also touches on heated acquisition activity in AI coding tools, ongoing IP battles over unauthorized use of creative content in AI training, and the emerging regulatory and liability questions surrounding AI in high-stakes medical environments.",
       "keyTopics": []
     }
   ]
