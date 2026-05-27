@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-27",
+      "summary": "# Episode Summary\n\nUsers are rejecting Google's AI-powered search overhaul in favor of traditional link-based results, with DuckDuckGo installs surging 30% as consumers push back against being \"force-fed\" AI summaries. Meanwhile, agentic AI is entering high-stakes territory: Robinhood is letting retail investors hand autonomous trading decisions to AI agents, raising urgent questions about accountability and risk management as these systems operate over long time horizons. The infrastructure layer is also shifting, with OpenRouter's $113M funding round signaling a multi-model future where developers prioritize flexibility over single-provider lock-in, while Databricks is building deep, vertical-specific tool",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-25",
       "summary": "# Episode Summary\n\nThis episode explores three major developments reshaping AI: Anthropic's Project Glasswing, an ambitious research initiative focused on understanding how AI models develop capabilities through mechanistic interpretability, which signals a foundational science commitment alongside enterprise deployments. The infrastructure landscape is being reframed by a striking data point—memory now represents two-thirds of AI chip component costs—driving a shift toward inference efficiency, exemplified by Databricks' prompt caching work for open-source models. Finally, the episode surveys emerging governance and safety challenges in AI deployment, from constraint decay in LLM agents to the need for better attribution methods in compound AI systems, while highlighting real-world applications across energy, pharma,",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-06",
       "summary": "# Episode Summary\n\nAnthropic is making a major push into financial services with purpose-built AI agents designed for tasks like portfolio analysis and compliance workflows—signaling a broader vertical-focused strategy across enterprise markets. Meanwhile, Apple is reportedly planning to let iOS users choose which third-party AI model (Claude, GPT, Gemini) powers different tasks, a surprising shift toward openness that could reshape how AI gets distributed at consumer scale and create new engineering challenges for developers. Additionally, Databricks shared insights from monitoring ten trillion data points daily, revealing the infrastructure innovations required to operate at massive scale—a case study with lessons for anyone building large-scale data platforms.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-05",
-      "summary": "# The Data and AI Daily — May 5th\n\nThis episode dives into three major developments reshaping enterprise AI: Anthropic's bold billion-dollar pivot into enterprise services (backed by Blackstone, Hellman & Friedman, and Goldman Sachs) signals the company is moving beyond model-building into full-scale deployment and consulting—potentially disrupting traditional consulting firms. We also examine Google Chrome's silent installation of a four-gigabyte AI model on user devices without consent, raising serious privacy and transparency concerns even as it showcases impressive advances in model compression. Finally, we tackle a provocative question: why are companies full of AI-augmented employees still organizationally less intelligent, and what",
       "keyTopics": []
     }
   ]
