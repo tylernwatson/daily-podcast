@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-27</title>
+      <description># Episode Summary
+
+Users are rejecting Google&apos;s AI-powered search overhaul in favor of traditional link-based results, with DuckDuckGo installs surging 30% as consumers push back against being &quot;force-fed&quot; AI summaries. Meanwhile, agentic AI is entering high-stakes territory: Robinhood is letting retail investors hand autonomous trading decisions to AI agents, raising urgent questions about accountability and risk management as these systems operate over long time horizons. The infrastructure layer is also shifting, with OpenRouter&apos;s $113M funding round signaling a multi-model future where developers prioritize flexibility over single-provider lock-in, while Databricks is building deep, vertical-specific tool</description>
+      <pubDate>Wed, 27 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-27.mp3" length="4382592" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-27.mp3</guid>
+      <itunes:duration>274</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-25</title>
       <description># Episode Summary
 
