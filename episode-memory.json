@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-28",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping enterprise AI infrastructure: Databricks released multiple updates to its Lakebase platform—including automatic cost optimization and native change data capture—positioning itself as a key player in operational databases for agentic workloads. Snowflake made a $6 billion, five-year bet on AWS AI chips, signaling confidence in CPU-based inference alongside GPU acceleration. Finally, new research revealing that five frontier LLMs disagreed on 67% of verified factual claims raises serious questions for teams building production AI systems and highlights why enterprise AI adoption is splitting between intentional, workflow-focused implementations and costly, unfocused tool adoption.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-27",
       "summary": "# Episode Summary\n\nUsers are rejecting Google's AI-powered search overhaul in favor of traditional link-based results, with DuckDuckGo installs surging 30% as consumers push back against being \"force-fed\" AI summaries. Meanwhile, agentic AI is entering high-stakes territory: Robinhood is letting retail investors hand autonomous trading decisions to AI agents, raising urgent questions about accountability and risk management as these systems operate over long time horizons. The infrastructure layer is also shifting, with OpenRouter's $113M funding round signaling a multi-model future where developers prioritize flexibility over single-provider lock-in, while Databricks is building deep, vertical-specific tool",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-07",
       "summary": "# Thursday AI Briefing: Infrastructure Bets and Organizational Gaps\n\nAnthropic is making aggressive moves across multiple fronts this week—launching a compute partnership with SpaceX, raising usage limits for Claude, and deploying specialized agents for financial services—signaling a shift toward vertical integration and enterprise dominance. Meanwhile, Databricks argues that most companies' real AI bottleneck isn't technical infrastructure but organizational talent and data quality, a philosophy that echoes broader industry skepticism about whether pure model improvements can solve enterprise adoption challenges.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-06",
-      "summary": "# Episode Summary\n\nAnthropic is making a major push into financial services with purpose-built AI agents designed for tasks like portfolio analysis and compliance workflows—signaling a broader vertical-focused strategy across enterprise markets. Meanwhile, Apple is reportedly planning to let iOS users choose which third-party AI model (Claude, GPT, Gemini) powers different tasks, a surprising shift toward openness that could reshape how AI gets distributed at consumer scale and create new engineering challenges for developers. Additionally, Databricks shared insights from monitoring ten trillion data points daily, revealing the infrastructure innovations required to operate at massive scale—a case study with lessons for anyone building large-scale data platforms.",
       "keyTopics": []
     }
   ]
