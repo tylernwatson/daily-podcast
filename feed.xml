@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-28</title>
+      <description># Episode Summary
+
+This episode covers three major developments reshaping enterprise AI infrastructure: Databricks released multiple updates to its Lakebase platform—including automatic cost optimization and native change data capture—positioning itself as a key player in operational databases for agentic workloads. Snowflake made a $6 billion, five-year bet on AWS AI chips, signaling confidence in CPU-based inference alongside GPU acceleration. Finally, new research revealing that five frontier LLMs disagreed on 67% of verified factual claims raises serious questions for teams building production AI systems and highlights why enterprise AI adoption is splitting between intentional, workflow-focused implementations and costly, unfocused tool adoption.</description>
+      <pubDate>Thu, 28 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-28.mp3" length="4358016" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-28.mp3</guid>
+      <itunes:duration>272</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-27</title>
       <description># Episode Summary
 
