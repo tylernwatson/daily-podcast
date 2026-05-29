@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-05-29</title>
+      <description># Data and AI Daily Summary
+
+This episode covers Anthropic&apos;s landmark $65 billion Series H funding round and trillion-dollar valuation alongside their new Claude Opus 4.8 model, signaling a potential IPO on the horizon and reinforcing the winner-take-most narrative in AI. Google makes major moves with Gemini 3.5 positioned as an &quot;agentic&quot; model and launches Gemini for Science, while Databricks releases Apache Iceberg v3 and open data-sharing infrastructure for the modern lakehouse. The broader theme: the internet infrastructure itself is being quietly redesigned for machine-to-machine communication, with AI agents becoming the primary &quot;users&quot; driving architectural</description>
+      <pubDate>Fri, 29 May 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-29.mp3" length="4342272" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-05-29.mp3</guid>
+      <itunes:duration>271</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-28</title>
       <description># Episode Summary
 
