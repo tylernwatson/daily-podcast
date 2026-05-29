@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-05-29",
+      "summary": "# Data and AI Daily Summary\n\nThis episode covers Anthropic's landmark $65 billion Series H funding round and trillion-dollar valuation alongside their new Claude Opus 4.8 model, signaling a potential IPO on the horizon and reinforcing the winner-take-most narrative in AI. Google makes major moves with Gemini 3.5 positioned as an \"agentic\" model and launches Gemini for Science, while Databricks releases Apache Iceberg v3 and open data-sharing infrastructure for the modern lakehouse. The broader theme: the internet infrastructure itself is being quietly redesigned for machine-to-machine communication, with AI agents becoming the primary \"users\" driving architectural",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-28",
       "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping enterprise AI infrastructure: Databricks released multiple updates to its Lakebase platform—including automatic cost optimization and native change data capture—positioning itself as a key player in operational databases for agentic workloads. Snowflake made a $6 billion, five-year bet on AWS AI chips, signaling confidence in CPU-based inference alongside GPU acceleration. Finally, new research revealing that five frontier LLMs disagreed on 67% of verified factual claims raises serious questions for teams building production AI systems and highlights why enterprise AI adoption is splitting between intentional, workflow-focused implementations and costly, unfocused tool adoption.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-08",
       "summary": "# Episode Summary\n\nThis episode dives into three major shifts reshaping AI infrastructure and enterprise adoption: the emerging pricing wars around coding agents like Claude Code, where open-source alternatives are forcing a reckoning with developer costs; Google DeepMind's AlphaEvolve, an autonomous algorithm-optimization agent that represents a leap from code assistance to actual research capability; and Databricks' strategic vertical positioning through industry-specific use cases in healthcare, finance, and telecom—signaling a shift from platform-speak to business-buyer language. The broader narrative: AI tooling is maturing rapidly, cost pressures are mounting for smaller teams, and competitive advantage increasingly depends on owning specific industry workflows rather than just general",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-07",
-      "summary": "# Thursday AI Briefing: Infrastructure Bets and Organizational Gaps\n\nAnthropic is making aggressive moves across multiple fronts this week—launching a compute partnership with SpaceX, raising usage limits for Claude, and deploying specialized agents for financial services—signaling a shift toward vertical integration and enterprise dominance. Meanwhile, Databricks argues that most companies' real AI bottleneck isn't technical infrastructure but organizational talent and data quality, a philosophy that echoes broader industry skepticism about whether pure model improvements can solve enterprise adoption challenges.",
       "keyTopics": []
     }
   ]
