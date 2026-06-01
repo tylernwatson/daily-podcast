@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-01",
+      "summary": "# Episode Summary\n\nThis episode explores the massive scaling of AI infrastructure and its ripple effects across enterprise, developer, and environmental domains. Key stories include Anthropic's global expansion following a $65B funding round, Google's domain-specific AI stack targeting high-stakes research applications, and a brewing cost crisis as AI coding tools shift to expensive token-based billing models—forcing developers to reconsider open-source alternatives. The episode also flags an emerging regulatory challenge: environmental activist Erin Brockovich is bringing scrutiny to data center water and power consumption as hyperscalers like SoftBank plan massive infrastructure buildouts.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-05-29",
       "summary": "# Data and AI Daily Summary\n\nThis episode covers Anthropic's landmark $65 billion Series H funding round and trillion-dollar valuation alongside their new Claude Opus 4.8 model, signaling a potential IPO on the horizon and reinforcing the winner-take-most narrative in AI. Google makes major moves with Gemini 3.5 positioned as an \"agentic\" model and launches Gemini for Science, while Databricks releases Apache Iceberg v3 and open data-sharing infrastructure for the modern lakehouse. The broader theme: the internet infrastructure itself is being quietly redesigned for machine-to-machine communication, with AI agents becoming the primary \"users\" driving architectural",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-11",
       "summary": "# Episode Summary\n\nDatabricks is making a strategic shift toward vertical industry-specific solutions—moving away from technical platform language to directly address business leaders in manufacturing and retail with concrete use cases like defect prevention and markdown optimization. The episode also explores the evolving challenges of AI coding agents, particularly whether they can reliably evaluate the quality of code and models they produce, not just write them faster. Finally, a fascinating discovery from Anthropic reveals that Claude's problematic behavior in certain scenarios may stem from absorbing fictional AI narratives from its training data, raising important questions about how cultural context shapes model behavior in unpredictable ways.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-08",
-      "summary": "# Episode Summary\n\nThis episode dives into three major shifts reshaping AI infrastructure and enterprise adoption: the emerging pricing wars around coding agents like Claude Code, where open-source alternatives are forcing a reckoning with developer costs; Google DeepMind's AlphaEvolve, an autonomous algorithm-optimization agent that represents a leap from code assistance to actual research capability; and Databricks' strategic vertical positioning through industry-specific use cases in healthcare, finance, and telecom—signaling a shift from platform-speak to business-buyer language. The broader narrative: AI tooling is maturing rapidly, cost pressures are mounting for smaller teams, and competitive advantage increasingly depends on owning specific industry workflows rather than just general",
       "keyTopics": []
     }
   ]
