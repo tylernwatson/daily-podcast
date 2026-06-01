@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-01</title>
+      <description># Episode Summary
+
+This episode explores the massive scaling of AI infrastructure and its ripple effects across enterprise, developer, and environmental domains. Key stories include Anthropic&apos;s global expansion following a $65B funding round, Google&apos;s domain-specific AI stack targeting high-stakes research applications, and a brewing cost crisis as AI coding tools shift to expensive token-based billing models—forcing developers to reconsider open-source alternatives. The episode also flags an emerging regulatory challenge: environmental activist Erin Brockovich is bringing scrutiny to data center water and power consumption as hyperscalers like SoftBank plan massive infrastructure buildouts.</description>
+      <pubDate>Mon, 01 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-01.mp3" length="4765248" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-01.mp3</guid>
+      <itunes:duration>298</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-05-29</title>
       <description># Data and AI Daily Summary
 
