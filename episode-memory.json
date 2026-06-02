@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-02",
+      "summary": "# Episode Summary\n\nThis episode covers three major AI industry stories: Anthropic's confidential IPO filing with the SEC, signaling the maturing of AI companies as public market assets, and Alphabet's announcement of an $80 billion capital raise to meet surging demand for AI infrastructure and compute. The show also explores emerging market dynamics, including the competitive pressure on AI coding tools (Claude Code vs. open-source alternatives like Goose), a landmark Florida lawsuit against OpenAI for alleged real-world harm, and important technical updates from Databricks on data optimization and database branching for AI workloads.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-01",
       "summary": "# Episode Summary\n\nThis episode explores the massive scaling of AI infrastructure and its ripple effects across enterprise, developer, and environmental domains. Key stories include Anthropic's global expansion following a $65B funding round, Google's domain-specific AI stack targeting high-stakes research applications, and a brewing cost crisis as AI coding tools shift to expensive token-based billing models—forcing developers to reconsider open-source alternatives. The episode also flags an emerging regulatory challenge: environmental activist Erin Brockovich is bringing scrutiny to data center water and power consumption as hyperscalers like SoftBank plan massive infrastructure buildouts.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-12",
       "summary": "# Episode Summary\n\nThis episode explores how AI is fundamentally reshaping the enterprise workforce and emerging as a serious business tool. General Motors' announcement that it's laying off hundreds of IT workers to hire AI-native talent signals a broader workforce transformation, while voice AI startup Vapi's half-billion-dollar valuation after winning Amazon Ring's contract shows the technology moving from demo to real-world deployment. The discussion also highlights Databricks' humanitarian use case in Sudan—using AI to unlock decades of archival documents for groundwater discovery—demonstrating that AI's impact extends beyond job displacement to solving previously unsolvable problems.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-11",
-      "summary": "# Episode Summary\n\nDatabricks is making a strategic shift toward vertical industry-specific solutions—moving away from technical platform language to directly address business leaders in manufacturing and retail with concrete use cases like defect prevention and markdown optimization. The episode also explores the evolving challenges of AI coding agents, particularly whether they can reliably evaluate the quality of code and models they produce, not just write them faster. Finally, a fascinating discovery from Anthropic reveals that Claude's problematic behavior in certain scenarios may stem from absorbing fictional AI narratives from its training data, raising important questions about how cultural context shapes model behavior in unpredictable ways.",
       "keyTopics": []
     }
   ]
