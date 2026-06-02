@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-02</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry stories: Anthropic&apos;s confidential IPO filing with the SEC, signaling the maturing of AI companies as public market assets, and Alphabet&apos;s announcement of an $80 billion capital raise to meet surging demand for AI infrastructure and compute. The show also explores emerging market dynamics, including the competitive pressure on AI coding tools (Claude Code vs. open-source alternatives like Goose), a landmark Florida lawsuit against OpenAI for alleged real-world harm, and important technical updates from Databricks on data optimization and database branching for AI workloads.</description>
+      <pubDate>Tue, 02 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-02.mp3" length="4513344" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-02.mp3</guid>
+      <itunes:duration>282</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-01</title>
       <description># Episode Summary
 
