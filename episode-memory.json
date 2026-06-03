@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-03",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Anthropic's release of comprehensive cybersecurity research mapping AI-enabled threats using the MITRE ATT&CK framework, which signals the company's commitment to responsible AI ahead of its IPO; Uber's cautionary tale of burning through its entire annual AI spending budget in just four months, highlighting the need for enterprise governance and ROI measurement as AI adoption matures; and Databricks' expansion of its Genie conversational intelligence product into domain-specific applications like healthcare revenue cycle management. The episode also touches on emerging tools for AI evaluation, advances in database optimization, and research showing AI's growing capability in specialized fields like law and mathematics.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-02",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry stories: Anthropic's confidential IPO filing with the SEC, signaling the maturing of AI companies as public market assets, and Alphabet's announcement of an $80 billion capital raise to meet surging demand for AI infrastructure and compute. The show also explores emerging market dynamics, including the competitive pressure on AI coding tools (Claude Code vs. open-source alternatives like Goose), a landmark Florida lawsuit against OpenAI for alleged real-world harm, and important technical updates from Databricks on data optimization and database branching for AI workloads.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-14",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Anthropic's launch of Claude for Small Business, signaling a shift toward verticalized products across different industries; Databricks' healthcare-focused announcements emphasizing that data quality—not storage—is the real bottleneck to AI adoption, bolstered by new governance features in Unity Catalog; and the infrastructure reality behind AI's explosive growth, highlighted by a lawsuit against xAI's Mississippi data center for operating gas turbines without proper permits. The overarching theme: AI's real competitive advantage lies not in flashy model capabilities but in practical workflow automation, data governance, and reliable power infrastructure.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-12",
-      "summary": "# Episode Summary\n\nThis episode explores how AI is fundamentally reshaping the enterprise workforce and emerging as a serious business tool. General Motors' announcement that it's laying off hundreds of IT workers to hire AI-native talent signals a broader workforce transformation, while voice AI startup Vapi's half-billion-dollar valuation after winning Amazon Ring's contract shows the technology moving from demo to real-world deployment. The discussion also highlights Databricks' humanitarian use case in Sudan—using AI to unlock decades of archival documents for groundwater discovery—demonstrating that AI's impact extends beyond job displacement to solving previously unsolvable problems.",
       "keyTopics": []
     }
   ]
