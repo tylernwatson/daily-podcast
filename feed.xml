@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-03</title>
+      <description># Episode Summary
+
+This episode covers three major developments in enterprise AI: Anthropic&apos;s release of comprehensive cybersecurity research mapping AI-enabled threats using the MITRE ATT&amp;CK framework, which signals the company&apos;s commitment to responsible AI ahead of its IPO; Uber&apos;s cautionary tale of burning through its entire annual AI spending budget in just four months, highlighting the need for enterprise governance and ROI measurement as AI adoption matures; and Databricks&apos; expansion of its Genie conversational intelligence product into domain-specific applications like healthcare revenue cycle management. The episode also touches on emerging tools for AI evaluation, advances in database optimization, and research showing AI&apos;s growing capability in specialized fields like law and mathematics.</description>
+      <pubDate>Wed, 03 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-03.mp3" length="4569792" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-03.mp3</guid>
+      <itunes:duration>286</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-02</title>
       <description># Episode Summary
 
