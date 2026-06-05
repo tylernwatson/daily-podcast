@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-05</title>
+      <description># Episode Summary
+
+This week brings major moves across the AI landscape: Anthropic is accelerating toward an IPO with staggering $47 billion annualized revenue and a new partner ecosystem, while CEO Daniela Amodei pushes back on enterprise ROI skepticism. Meanwhile, Meta is experimenting with tent-based data centers to cut costs and speed up GPU infrastructure deployment, and former OpenAI executive Mira Murati is strategically re-emerging after months of silence, signaling an announcement may be coming soon. On the platform side, Databricks is shipping major updates to its enterprise AI products—including a three-times faster retrieval system for Agent Bricks and expanded</description>
+      <pubDate>Fri, 05 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-05.mp3" length="3892992" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-05.mp3</guid>
+      <itunes:duration>243</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-03</title>
       <description># Episode Summary
 
