@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-08</title>
+      <description># Episode Summary
+
+This week&apos;s major story is the emerging pricing pressure on AI tools—dubbed the &quot;Tokenpocalypse&quot;—as major labs prepare for IPOs and push token costs higher, which could reshape enterprise AI ROI calculations and accelerate interest in open-source alternatives. DeepSeek&apos;s V4 Pro is now benchmarking ahead of GPT-5.5 Pro on precision tasks, signaling that competitive pressure in AI development is intensifying globally. Meanwhile, OpenAI is shipping new security features like Lockdown Mode while signaling a shift beyond chat interfaces toward agentic AI platforms, and Databricks is positioning itself as the foundational data layer for AI-native applications with</description>
+      <pubDate>Mon, 08 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-08.mp3" length="3938496" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-08.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-05</title>
       <description># Episode Summary
 
