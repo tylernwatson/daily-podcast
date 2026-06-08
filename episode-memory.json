@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-08",
+      "summary": "# Episode Summary\n\nThis week's major story is the emerging pricing pressure on AI tools—dubbed the \"Tokenpocalypse\"—as major labs prepare for IPOs and push token costs higher, which could reshape enterprise AI ROI calculations and accelerate interest in open-source alternatives. DeepSeek's V4 Pro is now benchmarking ahead of GPT-5.5 Pro on precision tasks, signaling that competitive pressure in AI development is intensifying globally. Meanwhile, OpenAI is shipping new security features like Lockdown Mode while signaling a shift beyond chat interfaces toward agentic AI platforms, and Databricks is positioning itself as the foundational data layer for AI-native applications with",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-05",
       "summary": "# Episode Summary\n\nThis week brings major moves across the AI landscape: Anthropic is accelerating toward an IPO with staggering $47 billion annualized revenue and a new partner ecosystem, while CEO Daniela Amodei pushes back on enterprise ROI skepticism. Meanwhile, Meta is experimenting with tent-based data centers to cut costs and speed up GPU infrastructure deployment, and former OpenAI executive Mira Murati is strategically re-emerging after months of silence, signaling an announcement may be coming soon. On the platform side, Databricks is shipping major updates to its enterprise AI products—including a three-times faster retrieval system for Agent Bricks and expanded",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-18",
       "summary": "# Episode Summary\n\nThis episode digs into enterprise AI's expanding footprint, from Anthropic's partnership with PwC to deploy Claude as the actual delivery mechanism for client work—positioning AI as a trusted layer rather than just a productivity tool—to Databricks' vertical-specific push into pharma and sales intelligence. The conversation also covers the cultural and regulatory complexity around AI adoption, highlighted by the OpenAI-Musk trial's focus on trust, commencement speech backlash, and Railway's bold bet on AI-native cloud infrastructure designed to replace legacy cloud assumptions. Throughout, the hosts emphasize that the real competitive advantage in enterprise AI isn't raw capability—it's becoming the trusted, reliable layer that",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-15",
-      "summary": "# Episode Summary\n\nThis week in AI brings major moves from Anthropic, which is simultaneously expanding into small business and securing a $200M Gates Foundation partnership for global health applications—signaling a strategy to establish Claude as a trusted layer across diverse markets. Meanwhile, Databricks is opening up its Unity Catalog APIs to eliminate vendor lock-in while rolling out enterprise-grade governance features like attribute-based access control, positioning data quality and governance as essential prerequisites for AI success. The episode also covers OpenAI's legal friction with Apple and Elon Musk, plus a striking new startup pitch: You.ai's $650M funding to build AI systems capable of indefinitely improving themselves.",
       "keyTopics": []
     }
   ]
