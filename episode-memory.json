@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-09",
+      "summary": "# Episode Summary\n\nApple and Google have formalized a major AI partnership centered on Google's Gemini models, signaling a shift in how frontier AI capability will be distributed at consumer scale—while Apple focuses on device integration and privacy rather than building its own foundation models. The episode also covers critical security news for developers: Microsoft's open-source tools were breached to steal credentials from AI engineers, plus updates on OpenAI's official IPO filing, Databricks' expansion into energy sector operations with AI agents, and emerging infrastructure alternatives like Railway challenging AWS's dominance.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-08",
       "summary": "# Episode Summary\n\nThis week's major story is the emerging pricing pressure on AI tools—dubbed the \"Tokenpocalypse\"—as major labs prepare for IPOs and push token costs higher, which could reshape enterprise AI ROI calculations and accelerate interest in open-source alternatives. DeepSeek's V4 Pro is now benchmarking ahead of GPT-5.5 Pro on precision tasks, signaling that competitive pressure in AI development is intensifying globally. Meanwhile, OpenAI is shipping new security features like Lockdown Mode while signaling a shift beyond chat interfaces toward agentic AI platforms, and Databricks is positioning itself as the foundational data layer for AI-native applications with",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-19",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's acquisition of Stainless, an SDK infrastructure startup used by competitors, as part of a broader strategy to lock in developer loyalty across the entire product stack; the conclusion of Elon Musk's lawsuit against OpenAI on statute of limitations grounds, leaving unresolved the fundamental tension between OpenAI's nonprofit mission and commercial ambitions; and emerging safety frameworks like AgentWall that address the growing risks of autonomous AI agents executing real-world actions. The show also highlights Databricks' enterprise moves—including a generative AI migration tool for legacy notebooks and a new analytics engineering learning pathway—and identifies a growing trend of AI being",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-18",
-      "summary": "# Episode Summary\n\nThis episode digs into enterprise AI's expanding footprint, from Anthropic's partnership with PwC to deploy Claude as the actual delivery mechanism for client work—positioning AI as a trusted layer rather than just a productivity tool—to Databricks' vertical-specific push into pharma and sales intelligence. The conversation also covers the cultural and regulatory complexity around AI adoption, highlighted by the OpenAI-Musk trial's focus on trust, commencement speech backlash, and Railway's bold bet on AI-native cloud infrastructure designed to replace legacy cloud assumptions. Throughout, the hosts emphasize that the real competitive advantage in enterprise AI isn't raw capability—it's becoming the trusted, reliable layer that",
       "keyTopics": []
     }
   ]
