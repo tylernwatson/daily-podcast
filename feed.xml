@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-09</title>
+      <description># Episode Summary
+
+Apple and Google have formalized a major AI partnership centered on Google&apos;s Gemini models, signaling a shift in how frontier AI capability will be distributed at consumer scale—while Apple focuses on device integration and privacy rather than building its own foundation models. The episode also covers critical security news for developers: Microsoft&apos;s open-source tools were breached to steal credentials from AI engineers, plus updates on OpenAI&apos;s official IPO filing, Databricks&apos; expansion into energy sector operations with AI agents, and emerging infrastructure alternatives like Railway challenging AWS&apos;s dominance.</description>
+      <pubDate>Tue, 09 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-09.mp3" length="4099008" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-09.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-08</title>
       <description># Episode Summary
 
