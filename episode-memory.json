@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-10",
+      "summary": "# Episode Summary\n\nAnthropic made major moves with the release of Claude Fable 5 and Claude Mythos 5, a new Databricks integration, and a confidential IPO filing that signals a public offering within the next few months—all coordinated to demonstrate technical capability and enterprise distribution to potential investors. Meanwhile, Google is firing back in the AI market with price cuts on consumer subscriptions and the release of Gemma 4, a capable open-weight model designed to compete on volume and accessibility rather than premium pricing. The episode also covers Databricks' expanding vertical strategy across energy, healthcare, and finance, and Meta's major infrastructure investment in India—signaling that the AI competitive landscape is intens",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-09",
       "summary": "# Episode Summary\n\nApple and Google have formalized a major AI partnership centered on Google's Gemini models, signaling a shift in how frontier AI capability will be distributed at consumer scale—while Apple focuses on device integration and privacy rather than building its own foundation models. The episode also covers critical security news for developers: Microsoft's open-source tools were breached to steal credentials from AI engineers, plus updates on OpenAI's official IPO filing, Databricks' expansion into energy sector operations with AI agents, and emerging infrastructure alternatives like Railway challenging AWS's dominance.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-20",
       "summary": "# Episode Summary\n\nThis week's biggest headlines center on Google's fundamental reimagining of search — retiring the traditional search box in favor of an AI-native interface powered by Gemini 3.5, complete with action-taking capabilities, conversational voice search, and proactive \"information agents\" that monitor topics in the background. Meanwhile, Anthropic is rapidly embedding itself into enterprise infrastructure, with KPMG joining PwC in deploying Claude across entire organizations, signaling a major shift in how Fortune 500 companies deliver professional services. The episode also highlights Databricks' pivot toward real-time operational AI use cases — from fraud detection to supply chain visibility — and explores the emerging importance of guardrails",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-19",
-      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's acquisition of Stainless, an SDK infrastructure startup used by competitors, as part of a broader strategy to lock in developer loyalty across the entire product stack; the conclusion of Elon Musk's lawsuit against OpenAI on statute of limitations grounds, leaving unresolved the fundamental tension between OpenAI's nonprofit mission and commercial ambitions; and emerging safety frameworks like AgentWall that address the growing risks of autonomous AI agents executing real-world actions. The show also highlights Databricks' enterprise moves—including a generative AI migration tool for legacy notebooks and a new analytics engineering learning pathway—and identifies a growing trend of AI being",
       "keyTopics": []
     }
   ]
