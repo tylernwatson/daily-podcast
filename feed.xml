@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-10</title>
+      <description># Episode Summary
+
+Anthropic made major moves with the release of Claude Fable 5 and Claude Mythos 5, a new Databricks integration, and a confidential IPO filing that signals a public offering within the next few months—all coordinated to demonstrate technical capability and enterprise distribution to potential investors. Meanwhile, Google is firing back in the AI market with price cuts on consumer subscriptions and the release of Gemma 4, a capable open-weight model designed to compete on volume and accessibility rather than premium pricing. The episode also covers Databricks&apos; expanding vertical strategy across energy, healthcare, and finance, and Meta&apos;s major infrastructure investment in India—signaling that the AI competitive landscape is intens</description>
+      <pubDate>Wed, 10 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-10.mp3" length="3696000" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-10.mp3</guid>
+      <itunes:duration>231</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-09</title>
       <description># Episode Summary
 
