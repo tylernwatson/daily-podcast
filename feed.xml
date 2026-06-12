@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-12</title>
+      <description># Episode Summary
+
+Anthropic is making an aggressive push into enterprise AI with Claude Corps—a program embedding AI specialists directly into organizations—alongside partnerships with companies like DXC Technology for regulated industries, while also rolling out Claude Fable 5 with some transparency concerns around invisible guardrails. Meanwhile, Jeff Bezos&apos;s Prometheus AI company raised $12 billion to build an &quot;artificial general engineer&quot; for physical-world problems like manufacturing and drug design, signaling major capital flowing toward robotics and physical AI. The data infrastructure layer is becoming critical to support this wave, as demonstrated by Databricks&apos; petabyte-scale telemetry capabilities and real-world customer deployments at Mercedes-Benz</description>
+      <pubDate>Fri, 12 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-12.mp3" length="4112832" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-12.mp3</guid>
+      <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-10</title>
       <description># Episode Summary
 
