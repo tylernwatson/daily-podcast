@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-12",
+      "summary": "# Episode Summary\n\nAnthropic is making an aggressive push into enterprise AI with Claude Corps—a program embedding AI specialists directly into organizations—alongside partnerships with companies like DXC Technology for regulated industries, while also rolling out Claude Fable 5 with some transparency concerns around invisible guardrails. Meanwhile, Jeff Bezos's Prometheus AI company raised $12 billion to build an \"artificial general engineer\" for physical-world problems like manufacturing and drug design, signaling major capital flowing toward robotics and physical AI. The data infrastructure layer is becoming critical to support this wave, as demonstrated by Databricks' petabyte-scale telemetry capabilities and real-world customer deployments at Mercedes-Benz",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-10",
       "summary": "# Episode Summary\n\nAnthropic made major moves with the release of Claude Fable 5 and Claude Mythos 5, a new Databricks integration, and a confidential IPO filing that signals a public offering within the next few months—all coordinated to demonstrate technical capability and enterprise distribution to potential investors. Meanwhile, Google is firing back in the AI market with price cuts on consumer subscriptions and the release of Gemma 4, a capable open-weight model designed to compete on volume and accessibility rather than premium pricing. The episode also covers Databricks' expanding vertical strategy across energy, healthcare, and finance, and Meta's major infrastructure investment in India—signaling that the AI competitive landscape is intens",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-21",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: **Anthropic has achieved profitability while nearly doubling quarterly revenue to $10.9 billion**, driven by enterprise adoption from firms like PwC and KPMG that are integrating Claude into core business operations rather than using it as a chatbot. **Nvidia announced a new $200 billion CPU market opportunity designed specifically for AI agents**, signaling a major strategic pivot beyond GPUs as companies build orchestration layers for agentic workloads. The episode also tracks Google's aggressive push into agentic AI with Gemini 3.5, the emergence of governance frameworks for managing scaling agent deployments, and OpenAI's",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-20",
-      "summary": "# Episode Summary\n\nThis week's biggest headlines center on Google's fundamental reimagining of search — retiring the traditional search box in favor of an AI-native interface powered by Gemini 3.5, complete with action-taking capabilities, conversational voice search, and proactive \"information agents\" that monitor topics in the background. Meanwhile, Anthropic is rapidly embedding itself into enterprise infrastructure, with KPMG joining PwC in deploying Claude across entire organizations, signaling a major shift in how Fortune 500 companies deliver professional services. The episode also highlights Databricks' pivot toward real-time operational AI use cases — from fraud detection to supply chain visibility — and explores the emerging importance of guardrails",
       "keyTopics": []
     }
   ]
