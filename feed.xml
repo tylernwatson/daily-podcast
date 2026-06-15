@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-15</title>
+      <description># Episode Summary
+
+This week brings a major shakeup to the AI industry: the U.S. government has ordered Anthropic to suspend access to its newest flagship models, Fable 5 and Mythos 5, creating immediate ripple effects across enterprise deals and raising global concerns about AI sovereignty and dependence on U.S.-based infrastructure. Meanwhile, Databricks is positioning itself as the foundational layer for the agentic AI era, arguing that data infrastructure and agent orchestration—not models themselves—represent the real enterprise value, a thesis that gains credibility as model availability becomes unpredictable. The episode also covers emerging security infrastructure companies like NewCore raising significant funding to solve the identity and</description>
+      <pubDate>Mon, 15 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-15.mp3" length="3748800" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-15.mp3</guid>
+      <itunes:duration>234</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-12</title>
       <description># Episode Summary
 
