@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-16",
+      "summary": "# Episode Summary\n\nDatabricks announced a major product suite centered on \"agentic data engineering,\" including Genie ZeroOps for self-healing pipelines and Genie Ontology for semantic data understanding—positioning itself as the stable infrastructure layer for enterprise AI. In a surprising regulatory development, the U.S. government suspended access to Anthropic's Fable 5 and Mythos 5 models following a routine coding prompt, raising questions about model availability and enterprise sovereignty. SpaceX also made a striking $60 billion stock acquisition of AI coding assistant Cursor, betting heavily on AI becoming the primary interface for software development.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-15",
       "summary": "# Episode Summary\n\nThis week brings a major shakeup to the AI industry: the U.S. government has ordered Anthropic to suspend access to its newest flagship models, Fable 5 and Mythos 5, creating immediate ripple effects across enterprise deals and raising global concerns about AI sovereignty and dependence on U.S.-based infrastructure. Meanwhile, Databricks is positioning itself as the foundational layer for the agentic AI era, arguing that data infrastructure and agent orchestration—not models themselves—represent the real enterprise value, a thesis that gains credibility as model availability becomes unpredictable. The episode also covers emerging security infrastructure companies like NewCore raising significant funding to solve the identity and",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-05-25",
       "summary": "# Episode Summary\n\nThis episode explores three major developments reshaping AI: Anthropic's Project Glasswing, an ambitious research initiative focused on understanding how AI models develop capabilities through mechanistic interpretability, which signals a foundational science commitment alongside enterprise deployments. The infrastructure landscape is being reframed by a striking data point—memory now represents two-thirds of AI chip component costs—driving a shift toward inference efficiency, exemplified by Databricks' prompt caching work for open-source models. Finally, the episode surveys emerging governance and safety challenges in AI deployment, from constraint decay in LLM agents to the need for better attribution methods in compound AI systems, while highlighting real-world applications across energy, pharma,",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-22",
-      "summary": "# Episode Summary\n\nThis episode covers Databricks' latest push to democratize data access through AI—from Genie's expansion into financial services to using observability data for proactive incident prevention—showing how the company is moving beyond demos into production-ready, regulated environments. The conversation also explores a delayed White House executive order on pre-release AI model security reviews, the tension between national security oversight and competitive innovation, and the SOLAR research project tackling how AI models degrade over time in real-world deployments. Finally, Spotify's new partnerships—enabling AI-generated music covers with artist revenue sharing and launching AI podcast briefs—signal a broader shift where AI capabilities are embedding directly into existing consumer platforms rather than living",
       "keyTopics": []
     }
   ]
