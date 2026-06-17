@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-17</title>
+      <description># Episode Summary
+
+Databricks announced a major product suite targeting the agentic AI era, including OpenSharing (a new protocol for agent data access), Apps on the Marketplace (for distributing data intelligence products), and governed vibe coding for enterprise development—positioning itself as the infrastructure layer for safe, interoperable multi-agent workflows. In a surprising twist, Anthropic&apos;s enterprise adoption actually grew following the U.S. government&apos;s restriction on their frontier models, validated further by a major TCS partnership, suggesting the restriction may have become a marketing asset rather than a liability. Finally, a new consumer survey reveals that 60% of U.S. consumers find the word &quot;AI&quot; in brand messaging off-</description>
+      <pubDate>Wed, 17 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-17.mp3" length="4236288" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-17.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-16</title>
       <description># Episode Summary
 
