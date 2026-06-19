@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-19</title>
+      <description># Data and AI Daily — Friday, June 19th
+
+This week&apos;s episode digs into OpenAI&apos;s strategic pre-IPO moves, including high-profile hires of AI pioneer Noam Shazeer and policy expert Dean Ball. We also break down a massive $1.5B funding round for inference infrastructure startup Baseten, Anthropic&apos;s international expansion into South Korea despite U.S. model restrictions, and Google DeepMind&apos;s quieter but significant work on faster text generation and AI safety frameworks for autonomous agents.</description>
+      <pubDate>Fri, 19 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-19.mp3" length="4371264" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-19.mp3</guid>
+      <itunes:duration>273</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-18</title>
       <description># Episode Summary
 
