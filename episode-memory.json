@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-22",
+      "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI industry: Anthropic's unexpected international expansion and strengthened enterprise partnerships following U.S. government restrictions on its flagship models, which paradoxically signals model strength to foreign markets rather than weakness. Simultaneously, a significant talent exodus from Google DeepMind—headlined by Nobel laureate John Jumper's move to Anthropic—reveals a broader senior researcher reshuffling across AI labs and raises questions about research culture and retention. The episode also explores emerging opportunities in open-source sovereign AI models and the growing infrastructure needs around AI identity verification and safety in multi-agent systems.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-19",
       "summary": "# Data and AI Daily — Friday, June 19th\n\nThis week's episode digs into OpenAI's strategic pre-IPO moves, including high-profile hires of AI pioneer Noam Shazeer and policy expert Dean Ball. We also break down a massive $1.5B funding round for inference infrastructure startup Baseten, Anthropic's international expansion into South Korea despite U.S. model restrictions, and Google DeepMind's quieter but significant work on faster text generation and AI safety frameworks for autonomous agents.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-01",
       "summary": "# Episode Summary\n\nThis episode explores the massive scaling of AI infrastructure and its ripple effects across enterprise, developer, and environmental domains. Key stories include Anthropic's global expansion following a $65B funding round, Google's domain-specific AI stack targeting high-stakes research applications, and a brewing cost crisis as AI coding tools shift to expensive token-based billing models—forcing developers to reconsider open-source alternatives. The episode also flags an emerging regulatory challenge: environmental activist Erin Brockovich is bringing scrutiny to data center water and power consumption as hyperscalers like SoftBank plan massive infrastructure buildouts.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-05-29",
-      "summary": "# Data and AI Daily Summary\n\nThis episode covers Anthropic's landmark $65 billion Series H funding round and trillion-dollar valuation alongside their new Claude Opus 4.8 model, signaling a potential IPO on the horizon and reinforcing the winner-take-most narrative in AI. Google makes major moves with Gemini 3.5 positioned as an \"agentic\" model and launches Gemini for Science, while Databricks releases Apache Iceberg v3 and open data-sharing infrastructure for the modern lakehouse. The broader theme: the internet infrastructure itself is being quietly redesigned for machine-to-machine communication, with AI agents becoming the primary \"users\" driving architectural",
       "keyTopics": []
     }
   ]
