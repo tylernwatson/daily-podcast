@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-22</title>
+      <description># Episode Summary
+
+This episode tracks two major developments reshaping the AI industry: Anthropic&apos;s unexpected international expansion and strengthened enterprise partnerships following U.S. government restrictions on its flagship models, which paradoxically signals model strength to foreign markets rather than weakness. Simultaneously, a significant talent exodus from Google DeepMind—headlined by Nobel laureate John Jumper&apos;s move to Anthropic—reveals a broader senior researcher reshuffling across AI labs and raises questions about research culture and retention. The episode also explores emerging opportunities in open-source sovereign AI models and the growing infrastructure needs around AI identity verification and safety in multi-agent systems.</description>
+      <pubDate>Mon, 22 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-22.mp3" length="3800640" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-22.mp3</guid>
+      <itunes:duration>238</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-19</title>
       <description># Data and AI Daily — Friday, June 19th
 
