@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-23</title>
+      <description># Episode Summary
+
+This episode tracks four major developments reshaping the AI industry: the rise of &quot;looping&quot; autonomous agents that run continuously without human intervention, creating new governance challenges; Groq&apos;s $650M funding round signaling renewed competition in AI chip infrastructure despite Nvidia&apos;s dominance; Oracle&apos;s announcement of 21,000 job cuts explicitly attributed to AI efficiency gains, reflecting real economic disruption at scale; and OpenAI&apos;s security initiative using AI to find vulnerabilities in open source software. The conversation weaves together how AI autonomy, infrastructure competition, workforce displacement, and enterprise adoption are converging to reshape both technology and business strategy.</description>
+      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-23.mp3" length="3772224" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-23.mp3</guid>
+      <itunes:duration>236</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-22</title>
       <description># Episode Summary
 
