@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-24</title>
+      <description># Episode Summary
+
+Anthropic launches Claude Tag, allowing AI to integrate directly into Slack as an always-on team member that learns your company&apos;s language and workflows—a strategic move that builds enterprise switching costs while mirroring Microsoft&apos;s Copilot strategy. The episode also covers the growing trend of AI-attributed layoffs across major tech companies, highlighting the tension between productivity gains driving adoption and simultaneous workforce displacement. Finally, a Databricks-NVIDIA partnership called Genesis Workbench targets life sciences with GPU-accelerated drug discovery infrastructure, exemplifying the shift toward industry-specific AI systems and raising urgent security questions about autonomous agent deployment.</description>
+      <pubDate>Wed, 24 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-24.mp3" length="3872832" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-24.mp3</guid>
+      <itunes:duration>242</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-23</title>
       <description># Episode Summary
 
