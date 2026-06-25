@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-25</title>
+      <description># Episode Summary
+
+Discover why AI isn&apos;t killing engineering jobs — new data reveals companies are actually hiring more engineers than ever, even as non-technical roles shrink. This episode breaks down three major developments shaping the AI industry: OpenAI&apos;s strategic move into custom chip design with Broadcom, Databricks&apos; second consecutive leadership position in Gartner&apos;s Magic Quadrant, and serious allegations of model capability extraction involving Alibaba and Anthropic. From workforce trends to infrastructure competition, get the context you need to navigate a rapidly shifting AI landscape.</description>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-25.mp3" length="4095936" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-25.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-24</title>
       <description># Episode Summary
 
