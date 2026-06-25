@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-25",
+      "summary": "# Episode Summary\n\nDiscover why AI isn't killing engineering jobs — new data reveals companies are actually hiring more engineers than ever, even as non-technical roles shrink. This episode breaks down three major developments shaping the AI industry: OpenAI's strategic move into custom chip design with Broadcom, Databricks' second consecutive leadership position in Gartner's Magic Quadrant, and serious allegations of model capability extraction involving Alibaba and Anthropic. From workforce trends to infrastructure competition, get the context you need to navigate a rapidly shifting AI landscape.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-24",
       "summary": "# Episode Summary\n\nAnthropic launches Claude Tag, allowing AI to integrate directly into Slack as an always-on team member that learns your company's language and workflows—a strategic move that builds enterprise switching costs while mirroring Microsoft's Copilot strategy. The episode also covers the growing trend of AI-attributed layoffs across major tech companies, highlighting the tension between productivity gains driving adoption and simultaneous workforce displacement. Finally, a Databricks-NVIDIA partnership called Genesis Workbench targets life sciences with GPU-accelerated drug discovery infrastructure, exemplifying the shift toward industry-specific AI systems and raising urgent security questions about autonomous agent deployment.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-05",
       "summary": "# Episode Summary\n\nThis week brings major moves across the AI landscape: Anthropic is accelerating toward an IPO with staggering $47 billion annualized revenue and a new partner ecosystem, while CEO Daniela Amodei pushes back on enterprise ROI skepticism. Meanwhile, Meta is experimenting with tent-based data centers to cut costs and speed up GPU infrastructure deployment, and former OpenAI executive Mira Murati is strategically re-emerging after months of silence, signaling an announcement may be coming soon. On the platform side, Databricks is shipping major updates to its enterprise AI products—including a three-times faster retrieval system for Agent Bricks and expanded",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-03",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Anthropic's release of comprehensive cybersecurity research mapping AI-enabled threats using the MITRE ATT&CK framework, which signals the company's commitment to responsible AI ahead of its IPO; Uber's cautionary tale of burning through its entire annual AI spending budget in just four months, highlighting the need for enterprise governance and ROI measurement as AI adoption matures; and Databricks' expansion of its Genie conversational intelligence product into domain-specific applications like healthcare revenue cycle management. The episode also touches on emerging tools for AI evaluation, advances in database optimization, and research showing AI's growing capability in specialized fields like law and mathematics.",
       "keyTopics": []
     }
   ]
