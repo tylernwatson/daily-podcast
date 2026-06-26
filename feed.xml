@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-26</title>
+      <description># Episode Summary
+
+This episode covers four major developments in AI: the White House ordering OpenAI to delay the GPT 5.6 release for safety review, marking a growing pattern of government oversight in model launches; Claude quietly gaining ground on ChatGPT among paying subscribers through superior product quality and enterprise integrations; a bold $320 million bet by General Intuition that video game data can train real-world AI agents for robotics and autonomous systems; and Databricks&apos; expanding enterprise presence, exemplified by customer stories showing how AI agents are augmenting rather than replacing skilled engineers in HVAC systems and sports analytics. The episode also flags important research on detecting sycophancy in AI models and the</description>
+      <pubDate>Fri, 26 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-26.mp3" length="4452288" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-26.mp3</guid>
+      <itunes:duration>278</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-25</title>
       <description># Episode Summary
 
