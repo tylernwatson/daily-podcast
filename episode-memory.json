@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-26",
+      "summary": "# Episode Summary\n\nThis episode covers four major developments in AI: the White House ordering OpenAI to delay the GPT 5.6 release for safety review, marking a growing pattern of government oversight in model launches; Claude quietly gaining ground on ChatGPT among paying subscribers through superior product quality and enterprise integrations; a bold $320 million bet by General Intuition that video game data can train real-world AI agents for robotics and autonomous systems; and Databricks' expanding enterprise presence, exemplified by customer stories showing how AI agents are augmenting rather than replacing skilled engineers in HVAC systems and sports analytics. The episode also flags important research on detecting sycophancy in AI models and the",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-25",
       "summary": "# Episode Summary\n\nDiscover why AI isn't killing engineering jobs — new data reveals companies are actually hiring more engineers than ever, even as non-technical roles shrink. This episode breaks down three major developments shaping the AI industry: OpenAI's strategic move into custom chip design with Broadcom, Databricks' second consecutive leadership position in Gartner's Magic Quadrant, and serious allegations of model capability extraction involving Alibaba and Anthropic. From workforce trends to infrastructure competition, get the context you need to navigate a rapidly shifting AI landscape.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-08",
       "summary": "# Episode Summary\n\nThis week's major story is the emerging pricing pressure on AI tools—dubbed the \"Tokenpocalypse\"—as major labs prepare for IPOs and push token costs higher, which could reshape enterprise AI ROI calculations and accelerate interest in open-source alternatives. DeepSeek's V4 Pro is now benchmarking ahead of GPT-5.5 Pro on precision tasks, signaling that competitive pressure in AI development is intensifying globally. Meanwhile, OpenAI is shipping new security features like Lockdown Mode while signaling a shift beyond chat interfaces toward agentic AI platforms, and Databricks is positioning itself as the foundational data layer for AI-native applications with",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-05",
-      "summary": "# Episode Summary\n\nThis week brings major moves across the AI landscape: Anthropic is accelerating toward an IPO with staggering $47 billion annualized revenue and a new partner ecosystem, while CEO Daniela Amodei pushes back on enterprise ROI skepticism. Meanwhile, Meta is experimenting with tent-based data centers to cut costs and speed up GPU infrastructure deployment, and former OpenAI executive Mira Murati is strategically re-emerging after months of silence, signaling an announcement may be coming soon. On the platform side, Databricks is shipping major updates to its enterprise AI products—including a three-times faster retrieval system for Agent Bricks and expanded",
       "keyTopics": []
     }
   ]
