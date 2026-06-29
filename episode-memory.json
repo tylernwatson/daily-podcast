@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-29",
+      "summary": "# Episode Summary\n\nThis episode unpacks the widening gap between AI hype and reality across multiple industries. From Ford quietly rehiring experienced engineers after overestimating AI's ability to replace human expertise, to developers using Claude to analyze medical imaging and navigate health decisions, the conversation explores how AI works best as a complement to, not a replacement for, specialized human knowledge. The episode also covers emerging infrastructure shifts—including Micron's potential as the next AI hardware powerhouse and Railway's $100M bet on AI-native cloud infrastructure—alongside practical advances in video processing, multi-agent AI safety, and the competitive compression of frontier models.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-26",
       "summary": "# Episode Summary\n\nThis episode covers four major developments in AI: the White House ordering OpenAI to delay the GPT 5.6 release for safety review, marking a growing pattern of government oversight in model launches; Claude quietly gaining ground on ChatGPT among paying subscribers through superior product quality and enterprise integrations; a bold $320 million bet by General Intuition that video game data can train real-world AI agents for robotics and autonomous systems; and Databricks' expanding enterprise presence, exemplified by customer stories showing how AI agents are augmenting rather than replacing skilled engineers in HVAC systems and sports analytics. The episode also flags important research on detecting sycophancy in AI models and the",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-09",
       "summary": "# Episode Summary\n\nApple and Google have formalized a major AI partnership centered on Google's Gemini models, signaling a shift in how frontier AI capability will be distributed at consumer scale—while Apple focuses on device integration and privacy rather than building its own foundation models. The episode also covers critical security news for developers: Microsoft's open-source tools were breached to steal credentials from AI engineers, plus updates on OpenAI's official IPO filing, Databricks' expansion into energy sector operations with AI agents, and emerging infrastructure alternatives like Railway challenging AWS's dominance.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-08",
-      "summary": "# Episode Summary\n\nThis week's major story is the emerging pricing pressure on AI tools—dubbed the \"Tokenpocalypse\"—as major labs prepare for IPOs and push token costs higher, which could reshape enterprise AI ROI calculations and accelerate interest in open-source alternatives. DeepSeek's V4 Pro is now benchmarking ahead of GPT-5.5 Pro on precision tasks, signaling that competitive pressure in AI development is intensifying globally. Meanwhile, OpenAI is shipping new security features like Lockdown Mode while signaling a shift beyond chat interfaces toward agentic AI platforms, and Databricks is positioning itself as the foundational data layer for AI-native applications with",
       "keyTopics": []
     }
   ]
