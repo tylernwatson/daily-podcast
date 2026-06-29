@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-29</title>
+      <description># Episode Summary
+
+This episode unpacks the widening gap between AI hype and reality across multiple industries. From Ford quietly rehiring experienced engineers after overestimating AI&apos;s ability to replace human expertise, to developers using Claude to analyze medical imaging and navigate health decisions, the conversation explores how AI works best as a complement to, not a replacement for, specialized human knowledge. The episode also covers emerging infrastructure shifts—including Micron&apos;s potential as the next AI hardware powerhouse and Railway&apos;s $100M bet on AI-native cloud infrastructure—alongside practical advances in video processing, multi-agent AI safety, and the competitive compression of frontier models.</description>
+      <pubDate>Mon, 29 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-29.mp3" length="4585920" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-29.mp3</guid>
+      <itunes:duration>287</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-26</title>
       <description># Episode Summary
 
