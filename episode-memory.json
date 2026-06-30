@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-06-30",
+      "summary": "# Episode Summary\n\nThis episode breaks down three major developments in AI: new data showing that companies aggressively adopting AI are actually *hiring more* entry-level workers (not fewer), contradicting fears that AI will eliminate junior roles; Anthropic's strategic deal to provide Claude at half-price to California state government, a shrewd move to build political influence outside federal scrutiny; and Google's quiet but significant release of computer-use capabilities in their efficient Gemini 3.5 Flash model, signaling that AI agents are moving from demos to production-ready tools. The conversation also touches on emerging agentic capabilities across the industry, from self-optimizing agents to AI agents transacting with each other on",
+      "keyTopics": []
+    },
+    {
       "date": "2026-06-29",
       "summary": "# Episode Summary\n\nThis episode unpacks the widening gap between AI hype and reality across multiple industries. From Ford quietly rehiring experienced engineers after overestimating AI's ability to replace human expertise, to developers using Claude to analyze medical imaging and navigate health decisions, the conversation explores how AI works best as a complement to, not a replacement for, specialized human knowledge. The episode also covers emerging infrastructure shifts—including Micron's potential as the next AI hardware powerhouse and Railway's $100M bet on AI-native cloud infrastructure—alongside practical advances in video processing, multi-agent AI safety, and the competitive compression of frontier models.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-10",
       "summary": "# Episode Summary\n\nAnthropic made major moves with the release of Claude Fable 5 and Claude Mythos 5, a new Databricks integration, and a confidential IPO filing that signals a public offering within the next few months—all coordinated to demonstrate technical capability and enterprise distribution to potential investors. Meanwhile, Google is firing back in the AI market with price cuts on consumer subscriptions and the release of Gemma 4, a capable open-weight model designed to compete on volume and accessibility rather than premium pricing. The episode also covers Databricks' expanding vertical strategy across energy, healthcare, and finance, and Meta's major infrastructure investment in India—signaling that the AI competitive landscape is intens",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-09",
-      "summary": "# Episode Summary\n\nApple and Google have formalized a major AI partnership centered on Google's Gemini models, signaling a shift in how frontier AI capability will be distributed at consumer scale—while Apple focuses on device integration and privacy rather than building its own foundation models. The episode also covers critical security news for developers: Microsoft's open-source tools were breached to steal credentials from AI engineers, plus updates on OpenAI's official IPO filing, Databricks' expansion into energy sector operations with AI agents, and emerging infrastructure alternatives like Railway challenging AWS's dominance.",
       "keyTopics": []
     }
   ]
