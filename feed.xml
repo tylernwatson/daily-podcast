@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-06-30</title>
+      <description># Episode Summary
+
+This episode breaks down three major developments in AI: new data showing that companies aggressively adopting AI are actually *hiring more* entry-level workers (not fewer), contradicting fears that AI will eliminate junior roles; Anthropic&apos;s strategic deal to provide Claude at half-price to California state government, a shrewd move to build political influence outside federal scrutiny; and Google&apos;s quiet but significant release of computer-use capabilities in their efficient Gemini 3.5 Flash model, signaling that AI agents are moving from demos to production-ready tools. The conversation also touches on emerging agentic capabilities across the industry, from self-optimizing agents to AI agents transacting with each other on</description>
+      <pubDate>Tue, 30 Jun 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-30.mp3" length="4206720" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-06-30.mp3</guid>
+      <itunes:duration>263</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-29</title>
       <description># Episode Summary
 
