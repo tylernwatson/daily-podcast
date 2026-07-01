@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-01</title>
+      <description># Podcast Episode Summary
+
+This episode covers Anthropic&apos;s major product announcements—including Claude Sonnet 5, Claude Science, and Fable 5 redeployment—alongside significant policy shifts as the Trump administration lifted AI export restrictions, creating an unpredictable regulatory environment for AI companies. Beyond the headlines, the show explores the emerging tension around AI-generated code in open source (highlighted by Godot&apos;s decision to ban such contributions), Databricks&apos; architectural vision for next-generation data platforms, and the quiet value creation happening in specialized AI applications like quantitative finance.</description>
+      <pubDate>Wed, 01 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-01.mp3" length="4300608" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-01.mp3</guid>
+      <itunes:duration>269</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-06-30</title>
       <description># Episode Summary
 
