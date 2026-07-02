@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-02</title>
+      <description># Episode Summary
+
+This episode covers three major developments reshaping the AI industry: OpenAI&apos;s reported negotiations to give the U.S. government a five percent equity stake, potentially transforming the regulatory relationship between AI labs and federal authorities; Cloudflare&apos;s new policy requiring AI companies to separate web crawlers used for search from those used for training by September 15th, creating enforceable consent mechanisms for content use; and Databricks&apos; introduction of &quot;Decision Execution Platforms&quot; — a framework that bridges the gap between data insights and automated business decisions at enterprise scale. The discussion also touches on Venice AI reaching unicorn status with strong profitability metrics and the emergence of Chinese AI models like Kimi K2</description>
+      <pubDate>Thu, 02 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-02.mp3" length="4104000" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-02.mp3</guid>
+      <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-01</title>
       <description># Podcast Episode Summary
 
