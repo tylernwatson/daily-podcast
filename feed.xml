@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-03</title>
+      <description># Episode Summary
+
+This episode separates AI hype from reality, exploring Mark Zuckerberg&apos;s admission that AI agents are progressing slower than expected, the absurdity of companies like Jersey Mike&apos;s using AI as a credibility token in IPO filings, and Alibaba&apos;s reported ban of Claude Code over security concerns. The deeper story focuses on the infrastructure and security challenges that separate genuine AI impact from theater—from data pipeline reliability to water usage at AI data centers—while highlighting how real enterprise value is concentrating in vertical, industry-specific AI applications rather than general-purpose tools.</description>
+      <pubDate>Fri, 03 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-03.mp3" length="4420608" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-03.mp3</guid>
+      <itunes:duration>276</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-02</title>
       <description># Episode Summary
 
