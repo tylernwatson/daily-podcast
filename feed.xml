@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-06</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI infrastructure and business: Amazon&apos;s shutdown of Mechanical Turk, the crowd-labor platform that powered early AI training data, signals a shift toward synthetic data and automated labeling as the new standard. Anthropic faces developer backlash over Claude Code pricing and security policies that risk eroding the goodwill the company has built, while facing competition from open-source alternatives. Finally, Databricks releases practical guidance for moving AI from experimentation to production, emphasizing that success hinges on unified data infrastructure, operational discipline, and cost governance rather than model choice alone.</description>
+      <pubDate>Mon, 06 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-06.mp3" length="3837312" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-06.mp3</guid>
+      <itunes:duration>240</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-03</title>
       <description># Episode Summary
 
