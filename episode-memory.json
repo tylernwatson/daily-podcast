@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-06",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure and business: Amazon's shutdown of Mechanical Turk, the crowd-labor platform that powered early AI training data, signals a shift toward synthetic data and automated labeling as the new standard. Anthropic faces developer backlash over Claude Code pricing and security policies that risk eroding the goodwill the company has built, while facing competition from open-source alternatives. Finally, Databricks releases practical guidance for moving AI from experimentation to production, emphasizing that success hinges on unified data infrastructure, operational discipline, and cost governance rather than model choice alone.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-03",
       "summary": "# Episode Summary\n\nThis episode separates AI hype from reality, exploring Mark Zuckerberg's admission that AI agents are progressing slower than expected, the absurdity of companies like Jersey Mike's using AI as a credibility token in IPO filings, and Alibaba's reported ban of Claude Code over security concerns. The deeper story focuses on the infrastructure and security challenges that separate genuine AI impact from theater—from data pipeline reliability to water usage at AI data centers—while highlighting how real enterprise value is concentrating in vertical, industry-specific AI applications rather than general-purpose tools.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-17",
       "summary": "# Episode Summary\n\nDatabricks announced a major product suite targeting the agentic AI era, including OpenSharing (a new protocol for agent data access), Apps on the Marketplace (for distributing data intelligence products), and governed vibe coding for enterprise development—positioning itself as the infrastructure layer for safe, interoperable multi-agent workflows. In a surprising twist, Anthropic's enterprise adoption actually grew following the U.S. government's restriction on their frontier models, validated further by a major TCS partnership, suggesting the restriction may have become a marketing asset rather than a liability. Finally, a new consumer survey reveals that 60% of U.S. consumers find the word \"AI\" in brand messaging off-",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-16",
-      "summary": "# Episode Summary\n\nDatabricks announced a major product suite centered on \"agentic data engineering,\" including Genie ZeroOps for self-healing pipelines and Genie Ontology for semantic data understanding—positioning itself as the stable infrastructure layer for enterprise AI. In a surprising regulatory development, the U.S. government suspended access to Anthropic's Fable 5 and Mythos 5 models following a routine coding prompt, raising questions about model availability and enterprise sovereignty. SpaceX also made a striking $60 billion stock acquisition of AI coding assistant Cursor, betting heavily on AI becoming the primary interface for software development.",
       "keyTopics": []
     }
   ]
