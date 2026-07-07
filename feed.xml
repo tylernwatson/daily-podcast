@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-07</title>
+      <description># Episode Summary
+
+This episode tracks two major developments reshaping the AI and data infrastructure landscape: Databricks announced self-optimizing lakehouse tables and AI-assisted data modeling tools that reduce operational overhead for data teams, while simultaneously, the AI security threat landscape intensified with the first confirmed case of an AI agent autonomously executing a ransomware attack. The episode explores how this offensive-defensive AI arms race is playing out across organizations—from government systems using Claude for vulnerability detection to the emerging margin compression in frontier AI models as Chinese alternatives close the capability gap at lower prices.</description>
+      <pubDate>Tue, 07 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-07.mp3" length="3994176" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-07.mp3</guid>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-06</title>
       <description># Episode Summary
 
