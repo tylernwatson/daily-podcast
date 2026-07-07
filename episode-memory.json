@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-07",
+      "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI and data infrastructure landscape: Databricks announced self-optimizing lakehouse tables and AI-assisted data modeling tools that reduce operational overhead for data teams, while simultaneously, the AI security threat landscape intensified with the first confirmed case of an AI agent autonomously executing a ransomware attack. The episode explores how this offensive-defensive AI arms race is playing out across organizations—from government systems using Claude for vulnerability detection to the emerging margin compression in frontier AI models as Chinese alternatives close the capability gap at lower prices.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-06",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure and business: Amazon's shutdown of Mechanical Turk, the crowd-labor platform that powered early AI training data, signals a shift toward synthetic data and automated labeling as the new standard. Anthropic faces developer backlash over Claude Code pricing and security policies that risk eroding the goodwill the company has built, while facing competition from open-source alternatives. Finally, Databricks releases practical guidance for moving AI from experimentation to production, emphasizing that success hinges on unified data infrastructure, operational discipline, and cost governance rather than model choice alone.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-18",
       "summary": "# Episode Summary\n\nDatabricks is making a major ecosystem play with expanded free-tier access, new partner frameworks, and a strategic partnership with NVIDIA to position itself as the infrastructure backbone for enterprise AI agents. Meanwhile, Anthropic is responding to U.S. government restrictions on its most powerful models by rapidly expanding internationally—opening a Seoul office and building enterprise relationships through system integrators in regulated industries like banking and airlines. Google DeepMind is shipping meaningful research, including faster text generation techniques and multi-agent AI safety work, while enterprise leaders are beginning to grapple with the real ROI challenge of their AI investments.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-17",
-      "summary": "# Episode Summary\n\nDatabricks announced a major product suite targeting the agentic AI era, including OpenSharing (a new protocol for agent data access), Apps on the Marketplace (for distributing data intelligence products), and governed vibe coding for enterprise development—positioning itself as the infrastructure layer for safe, interoperable multi-agent workflows. In a surprising twist, Anthropic's enterprise adoption actually grew following the U.S. government's restriction on their frontier models, validated further by a major TCS partnership, suggesting the restriction may have become a marketing asset rather than a liability. Finally, a new consumer survey reveals that 60% of U.S. consumers find the word \"AI\" in brand messaging off-",
       "keyTopics": []
     }
   ]
