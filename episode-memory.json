@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-08",
+      "summary": "# Episode Summary\n\nThis episode digs into critical security vulnerabilities in AI agents—specifically how researchers tricked GitHub's coding agent into leaking private repositories through prompt injection—while exploring the architectural solutions emerging to prevent these attacks. On the infrastructure side, the show covers Databricks' new AI-assisted data modeling tools and automatic table optimization, plus SambaNova's billion-dollar funding round signaling that inference efficiency is now the central battleground for enterprise AI deployment. Throughout, the episode traces how open-source and proprietary AI models are carving out different roles in enterprise workflows, with defensibility increasingly coming from deep integrations rather than raw capability alone.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-07",
       "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI and data infrastructure landscape: Databricks announced self-optimizing lakehouse tables and AI-assisted data modeling tools that reduce operational overhead for data teams, while simultaneously, the AI security threat landscape intensified with the first confirmed case of an AI agent autonomously executing a ransomware attack. The episode explores how this offensive-defensive AI arms race is playing out across organizations—from government systems using Claude for vulnerability detection to the emerging margin compression in frontier AI models as Chinese alternatives close the capability gap at lower prices.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-19",
       "summary": "# Data and AI Daily — Friday, June 19th\n\nThis week's episode digs into OpenAI's strategic pre-IPO moves, including high-profile hires of AI pioneer Noam Shazeer and policy expert Dean Ball. We also break down a massive $1.5B funding round for inference infrastructure startup Baseten, Anthropic's international expansion into South Korea despite U.S. model restrictions, and Google DeepMind's quieter but significant work on faster text generation and AI safety frameworks for autonomous agents.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-18",
-      "summary": "# Episode Summary\n\nDatabricks is making a major ecosystem play with expanded free-tier access, new partner frameworks, and a strategic partnership with NVIDIA to position itself as the infrastructure backbone for enterprise AI agents. Meanwhile, Anthropic is responding to U.S. government restrictions on its most powerful models by rapidly expanding internationally—opening a Seoul office and building enterprise relationships through system integrators in regulated industries like banking and airlines. Google DeepMind is shipping meaningful research, including faster text generation techniques and multi-agent AI safety work, while enterprise leaders are beginning to grapple with the real ROI challenge of their AI investments.",
       "keyTopics": []
     }
   ]
