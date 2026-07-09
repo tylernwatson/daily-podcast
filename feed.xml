@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-09</title>
+      <description># Today&apos;s Episode Summary
+
+Explore why Ollama&apos;s massive growth to 9 million users signals a major shift in developer preferences toward local AI inference and cost-conscious alternatives to cloud APIs, then dive into Anthropic&apos;s new Reflect feature for personalized usage insights and Databricks&apos; eye-opening research showing that coding agents perform drastically differently on real production codebases compared to standard benchmarks. The episode also covers the implications of these trends for evaluating AI tools, recent funding moves in the no-code space, and how AI is being deployed defensively in cybersecurity.</description>
+      <pubDate>Thu, 09 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-09.mp3" length="3998976" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-09.mp3</guid>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-08</title>
       <description># Episode Summary
 
