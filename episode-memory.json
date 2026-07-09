@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-09",
+      "summary": "# Today's Episode Summary\n\nExplore why Ollama's massive growth to 9 million users signals a major shift in developer preferences toward local AI inference and cost-conscious alternatives to cloud APIs, then dive into Anthropic's new Reflect feature for personalized usage insights and Databricks' eye-opening research showing that coding agents perform drastically differently on real production codebases compared to standard benchmarks. The episode also covers the implications of these trends for evaluating AI tools, recent funding moves in the no-code space, and how AI is being deployed defensively in cybersecurity.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-08",
       "summary": "# Episode Summary\n\nThis episode digs into critical security vulnerabilities in AI agents—specifically how researchers tricked GitHub's coding agent into leaking private repositories through prompt injection—while exploring the architectural solutions emerging to prevent these attacks. On the infrastructure side, the show covers Databricks' new AI-assisted data modeling tools and automatic table optimization, plus SambaNova's billion-dollar funding round signaling that inference efficiency is now the central battleground for enterprise AI deployment. Throughout, the episode traces how open-source and proprietary AI models are carving out different roles in enterprise workflows, with defensibility increasingly coming from deep integrations rather than raw capability alone.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-22",
       "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI industry: Anthropic's unexpected international expansion and strengthened enterprise partnerships following U.S. government restrictions on its flagship models, which paradoxically signals model strength to foreign markets rather than weakness. Simultaneously, a significant talent exodus from Google DeepMind—headlined by Nobel laureate John Jumper's move to Anthropic—reveals a broader senior researcher reshuffling across AI labs and raises questions about research culture and retention. The episode also explores emerging opportunities in open-source sovereign AI models and the growing infrastructure needs around AI identity verification and safety in multi-agent systems.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-19",
-      "summary": "# Data and AI Daily — Friday, June 19th\n\nThis week's episode digs into OpenAI's strategic pre-IPO moves, including high-profile hires of AI pioneer Noam Shazeer and policy expert Dean Ball. We also break down a massive $1.5B funding round for inference infrastructure startup Baseten, Anthropic's international expansion into South Korea despite U.S. model restrictions, and Google DeepMind's quieter but significant work on faster text generation and AI safety frameworks for autonomous agents.",
       "keyTopics": []
     }
   ]
