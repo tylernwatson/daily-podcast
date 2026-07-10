@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-10</title>
+      <description># Episode Summary
+
+This week brings major developments across the AI landscape: OpenAI launches GPT-5.6 with a focus on cybersecurity improvements and reaffirms its partnership with Microsoft for Copilot 365, though leadership instability emerges as COO Fidji Simo steps down amid IPO preparations. Meanwhile, Anthropic makes bold governance moves by appointing former Federal Reserve Chair Ben Bernanke to its Long-Term Benefit Trust and commits to public transparency on its safety work—positioning itself as the governance-conscious alternative in enterprise markets. In a striking example of agentic AI in action, startup Lyzr reportedly used its own AI agent to manage a $</description>
+      <pubDate>Fri, 10 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-10.mp3" length="4406976" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-10.mp3</guid>
+      <itunes:duration>275</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-09</title>
       <description># Today&apos;s Episode Summary
 
