@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-10",
+      "summary": "# Episode Summary\n\nThis week brings major developments across the AI landscape: OpenAI launches GPT-5.6 with a focus on cybersecurity improvements and reaffirms its partnership with Microsoft for Copilot 365, though leadership instability emerges as COO Fidji Simo steps down amid IPO preparations. Meanwhile, Anthropic makes bold governance moves by appointing former Federal Reserve Chair Ben Bernanke to its Long-Term Benefit Trust and commits to public transparency on its safety work—positioning itself as the governance-conscious alternative in enterprise markets. In a striking example of agentic AI in action, startup Lyzr reportedly used its own AI agent to manage a $",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-09",
       "summary": "# Today's Episode Summary\n\nExplore why Ollama's massive growth to 9 million users signals a major shift in developer preferences toward local AI inference and cost-conscious alternatives to cloud APIs, then dive into Anthropic's new Reflect feature for personalized usage insights and Databricks' eye-opening research showing that coding agents perform drastically differently on real production codebases compared to standard benchmarks. The episode also covers the implications of these trends for evaluating AI tools, recent funding moves in the no-code space, and how AI is being deployed defensively in cybersecurity.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-23",
       "summary": "# Episode Summary\n\nThis episode tracks four major developments reshaping the AI industry: the rise of \"looping\" autonomous agents that run continuously without human intervention, creating new governance challenges; Groq's $650M funding round signaling renewed competition in AI chip infrastructure despite Nvidia's dominance; Oracle's announcement of 21,000 job cuts explicitly attributed to AI efficiency gains, reflecting real economic disruption at scale; and OpenAI's security initiative using AI to find vulnerabilities in open source software. The conversation weaves together how AI autonomy, infrastructure competition, workforce displacement, and enterprise adoption are converging to reshape both technology and business strategy.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-22",
-      "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI industry: Anthropic's unexpected international expansion and strengthened enterprise partnerships following U.S. government restrictions on its flagship models, which paradoxically signals model strength to foreign markets rather than weakness. Simultaneously, a significant talent exodus from Google DeepMind—headlined by Nobel laureate John Jumper's move to Anthropic—reveals a broader senior researcher reshuffling across AI labs and raises questions about research culture and retention. The episode also explores emerging opportunities in open-source sovereign AI models and the growing infrastructure needs around AI identity verification and safety in multi-agent systems.",
       "keyTopics": []
     }
   ]
