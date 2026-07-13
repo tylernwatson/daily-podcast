@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-13</title>
+      <description># Data and AI Daily — July 13
+
+This episode covers three major developments in AI: Apple&apos;s lawsuit against OpenAI alleging trade secret theft by senior leadership—a move with serious implications for OpenAI&apos;s IPO plans and its partnership with Apple Intelligence; Databricks&apos; new Feature Views capability, which solves a persistent production ML problem by allowing teams to define features once and reuse them consistently across training and serving pipelines; and Anthropic&apos;s continued governance expansion, including former Fed Chair Ben Bernanke joining its Long-Term Benefit Trust and the company&apos;s new initiative inviting public scrutiny of its safety commitments. The episode also explores the growing strength of open-source AI models in enterprise adoption</description>
+      <pubDate>Mon, 13 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-13.mp3" length="3930816" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-13.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-10</title>
       <description># Episode Summary
 
