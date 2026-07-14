@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-14",
+      "summary": "# Episode Summary\n\nDatabricks is positioning its data infrastructure—particularly Unity Catalog—as the essential foundation for reliable AI agents, arguing that enterprises must establish clean, governed data layers before deploying autonomous agents in production. Meanwhile, two major funding rounds signal where investor confidence lies: Nous Research's $75M raise validates the open-source model ecosystem as a viable business, while PixVerse's $439M closing demonstrates serious institutional belief in video generation as foundational infrastructure, even as concerns about vendor lock-in in AI continue to rise across the enterprise software landscape.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-13",
       "summary": "# Data and AI Daily — July 13\n\nThis episode covers three major developments in AI: Apple's lawsuit against OpenAI alleging trade secret theft by senior leadership—a move with serious implications for OpenAI's IPO plans and its partnership with Apple Intelligence; Databricks' new Feature Views capability, which solves a persistent production ML problem by allowing teams to define features once and reuse them consistently across training and serving pipelines; and Anthropic's continued governance expansion, including former Fed Chair Ben Bernanke joining its Long-Term Benefit Trust and the company's new initiative inviting public scrutiny of its safety commitments. The episode also explores the growing strength of open-source AI models in enterprise adoption",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-25",
       "summary": "# Episode Summary\n\nDiscover why AI isn't killing engineering jobs — new data reveals companies are actually hiring more engineers than ever, even as non-technical roles shrink. This episode breaks down three major developments shaping the AI industry: OpenAI's strategic move into custom chip design with Broadcom, Databricks' second consecutive leadership position in Gartner's Magic Quadrant, and serious allegations of model capability extraction involving Alibaba and Anthropic. From workforce trends to infrastructure competition, get the context you need to navigate a rapidly shifting AI landscape.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-24",
-      "summary": "# Episode Summary\n\nAnthropic launches Claude Tag, allowing AI to integrate directly into Slack as an always-on team member that learns your company's language and workflows—a strategic move that builds enterprise switching costs while mirroring Microsoft's Copilot strategy. The episode also covers the growing trend of AI-attributed layoffs across major tech companies, highlighting the tension between productivity gains driving adoption and simultaneous workforce displacement. Finally, a Databricks-NVIDIA partnership called Genesis Workbench targets life sciences with GPU-accelerated drug discovery infrastructure, exemplifying the shift toward industry-specific AI systems and raising urgent security questions about autonomous agent deployment.",
       "keyTopics": []
     }
   ]
