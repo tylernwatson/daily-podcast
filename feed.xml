@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-14</title>
+      <description># Episode Summary
+
+Databricks is positioning its data infrastructure—particularly Unity Catalog—as the essential foundation for reliable AI agents, arguing that enterprises must establish clean, governed data layers before deploying autonomous agents in production. Meanwhile, two major funding rounds signal where investor confidence lies: Nous Research&apos;s $75M raise validates the open-source model ecosystem as a viable business, while PixVerse&apos;s $439M closing demonstrates serious institutional belief in video generation as foundational infrastructure, even as concerns about vendor lock-in in AI continue to rise across the enterprise software landscape.</description>
+      <pubDate>Tue, 14 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-14.mp3" length="3644736" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-14.mp3</guid>
+      <itunes:duration>228</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-13</title>
       <description># Data and AI Daily — July 13
 
