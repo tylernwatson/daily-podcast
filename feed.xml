@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-15</title>
+      <description># Episode Summary
+
+This episode covers three major developments in enterprise AI: Databricks&apos; expansion into mobile with Genie and operational databases through Lakebase, positioning itself as a unified data-and-AI platform; Emergent, an Indian AI coding startup, reaching unicorn status with $120M in annualized revenue, signaling serious global competition in the AI coding market; and Vint Cerf&apos;s work on open standards for AI agent identity and accountability as autonomous agents proliferate across the internet. Throughout, the hosts emphasize how governance, security, and infrastructure are becoming critical competitive battlegrounds in enterprise AI.</description>
+      <pubDate>Wed, 15 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-15.mp3" length="4095744" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-15.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-14</title>
       <description># Episode Summary
 
