@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-15",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Databricks' expansion into mobile with Genie and operational databases through Lakebase, positioning itself as a unified data-and-AI platform; Emergent, an Indian AI coding startup, reaching unicorn status with $120M in annualized revenue, signaling serious global competition in the AI coding market; and Vint Cerf's work on open standards for AI agent identity and accountability as autonomous agents proliferate across the internet. Throughout, the hosts emphasize how governance, security, and infrastructure are becoming critical competitive battlegrounds in enterprise AI.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-14",
       "summary": "# Episode Summary\n\nDatabricks is positioning its data infrastructure—particularly Unity Catalog—as the essential foundation for reliable AI agents, arguing that enterprises must establish clean, governed data layers before deploying autonomous agents in production. Meanwhile, two major funding rounds signal where investor confidence lies: Nous Research's $75M raise validates the open-source model ecosystem as a viable business, while PixVerse's $439M closing demonstrates serious institutional belief in video generation as foundational infrastructure, even as concerns about vendor lock-in in AI continue to rise across the enterprise software landscape.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-26",
       "summary": "# Episode Summary\n\nThis episode covers four major developments in AI: the White House ordering OpenAI to delay the GPT 5.6 release for safety review, marking a growing pattern of government oversight in model launches; Claude quietly gaining ground on ChatGPT among paying subscribers through superior product quality and enterprise integrations; a bold $320 million bet by General Intuition that video game data can train real-world AI agents for robotics and autonomous systems; and Databricks' expanding enterprise presence, exemplified by customer stories showing how AI agents are augmenting rather than replacing skilled engineers in HVAC systems and sports analytics. The episode also flags important research on detecting sycophancy in AI models and the",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-25",
-      "summary": "# Episode Summary\n\nDiscover why AI isn't killing engineering jobs — new data reveals companies are actually hiring more engineers than ever, even as non-technical roles shrink. This episode breaks down three major developments shaping the AI industry: OpenAI's strategic move into custom chip design with Broadcom, Databricks' second consecutive leadership position in Gartner's Magic Quadrant, and serious allegations of model capability extraction involving Alibaba and Anthropic. From workforce trends to infrastructure competition, get the context you need to navigate a rapidly shifting AI landscape.",
       "keyTopics": []
     }
   ]
