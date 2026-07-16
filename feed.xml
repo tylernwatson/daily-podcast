@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-16</title>
+      <description># Episode Summary
+
+Databricks released Apache Spark 4.2, a major upgrade that integrates AI and data workflows directly into the runtime engine, positioning it as a competitive advantage against platforms like Snowflake. Meanwhile, a new enterprise AI agent survey reveals that most companies aren&apos;t actually deploying true agents—they&apos;re deploying chatbots—and the ones seeing real success have invested in solid data infrastructure first, not just cutting-edge models.</description>
+      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-16.mp3" length="3328512" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-16.mp3</guid>
+      <itunes:duration>208</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-15</title>
       <description># Episode Summary
 
