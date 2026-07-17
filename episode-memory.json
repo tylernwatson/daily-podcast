@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-17",
+      "summary": "# Episode Summary\n\nThis week's episode tackles three major stories shaping enterprise AI: a security crisis where 54% of enterprises have experienced AI agent incidents due to poor credential management and inadequate evaluation systems, and Databricks' push to professionalize the \"context engineer\" role as the real bottleneck in production AI. The show also covers a controversy where an AI-generated submission won a $25K DeepMind Kaggle prize, raising questions about how we measure genuine capability in an AI-assisted world, plus updates on Apple's escalating legal campaign against OpenAI and DoorDash's new CLI designed primarily for AI agents to use.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-16",
       "summary": "# Episode Summary\n\nDatabricks released Apache Spark 4.2, a major upgrade that integrates AI and data workflows directly into the runtime engine, positioning it as a competitive advantage against platforms like Snowflake. Meanwhile, a new enterprise AI agent survey reveals that most companies aren't actually deploying true agents—they're deploying chatbots—and the ones seeing real success have invested in solid data infrastructure first, not just cutting-edge models.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-06-30",
       "summary": "# Episode Summary\n\nThis episode breaks down three major developments in AI: new data showing that companies aggressively adopting AI are actually *hiring more* entry-level workers (not fewer), contradicting fears that AI will eliminate junior roles; Anthropic's strategic deal to provide Claude at half-price to California state government, a shrewd move to build political influence outside federal scrutiny; and Google's quiet but significant release of computer-use capabilities in their efficient Gemini 3.5 Flash model, signaling that AI agents are moving from demos to production-ready tools. The conversation also touches on emerging agentic capabilities across the industry, from self-optimizing agents to AI agents transacting with each other on",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-29",
-      "summary": "# Episode Summary\n\nThis episode unpacks the widening gap between AI hype and reality across multiple industries. From Ford quietly rehiring experienced engineers after overestimating AI's ability to replace human expertise, to developers using Claude to analyze medical imaging and navigate health decisions, the conversation explores how AI works best as a complement to, not a replacement for, specialized human knowledge. The episode also covers emerging infrastructure shifts—including Micron's potential as the next AI hardware powerhouse and Railway's $100M bet on AI-native cloud infrastructure—alongside practical advances in video processing, multi-agent AI safety, and the competitive compression of frontier models.",
       "keyTopics": []
     }
   ]
