@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-17</title>
+      <description># Episode Summary
+
+This week&apos;s episode tackles three major stories shaping enterprise AI: a security crisis where 54% of enterprises have experienced AI agent incidents due to poor credential management and inadequate evaluation systems, and Databricks&apos; push to professionalize the &quot;context engineer&quot; role as the real bottleneck in production AI. The show also covers a controversy where an AI-generated submission won a $25K DeepMind Kaggle prize, raising questions about how we measure genuine capability in an AI-assisted world, plus updates on Apple&apos;s escalating legal campaign against OpenAI and DoorDash&apos;s new CLI designed primarily for AI agents to use.</description>
+      <pubDate>Fri, 17 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-17.mp3" length="4337088" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-17.mp3</guid>
+      <itunes:duration>271</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-16</title>
       <description># Episode Summary
 
