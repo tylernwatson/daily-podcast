@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-20",
+      "summary": "# Episode Summary\n\nThis episode dives into the widening gap between enterprise AI ambitions and reality, highlighting critical findings from VentureBeat's enterprise AI survey: half of organizations have deployed agents that failed after passing internal evaluations, evaluation systems are fundamentally misaligned with real-world performance, and most companies lack the infrastructure to track compute costs or ensure governance. The conversation also covers Meta's Spark Muse model launching on Databricks with built-in governance through Unity AI Gateway, NVIDIA's strategic positioning in Japan's AI infrastructure ecosystem, ongoing legal tensions between Apple and OpenAI, and efforts by nonprofits like Current AI to build more inclusive AI infrastructure for underrepresented cultures and languages.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-17",
       "summary": "# Episode Summary\n\nThis week's episode tackles three major stories shaping enterprise AI: a security crisis where 54% of enterprises have experienced AI agent incidents due to poor credential management and inadequate evaluation systems, and Databricks' push to professionalize the \"context engineer\" role as the real bottleneck in production AI. The show also covers a controversy where an AI-generated submission won a $25K DeepMind Kaggle prize, raising questions about how we measure genuine capability in an AI-assisted world, plus updates on Apple's escalating legal campaign against OpenAI and DoorDash's new CLI designed primarily for AI agents to use.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-01",
       "summary": "# Podcast Episode Summary\n\nThis episode covers Anthropic's major product announcements—including Claude Sonnet 5, Claude Science, and Fable 5 redeployment—alongside significant policy shifts as the Trump administration lifted AI export restrictions, creating an unpredictable regulatory environment for AI companies. Beyond the headlines, the show explores the emerging tension around AI-generated code in open source (highlighted by Godot's decision to ban such contributions), Databricks' architectural vision for next-generation data platforms, and the quiet value creation happening in specialized AI applications like quantitative finance.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-06-30",
-      "summary": "# Episode Summary\n\nThis episode breaks down three major developments in AI: new data showing that companies aggressively adopting AI are actually *hiring more* entry-level workers (not fewer), contradicting fears that AI will eliminate junior roles; Anthropic's strategic deal to provide Claude at half-price to California state government, a shrewd move to build political influence outside federal scrutiny; and Google's quiet but significant release of computer-use capabilities in their efficient Gemini 3.5 Flash model, signaling that AI agents are moving from demos to production-ready tools. The conversation also touches on emerging agentic capabilities across the industry, from self-optimizing agents to AI agents transacting with each other on",
       "keyTopics": []
     }
   ]
