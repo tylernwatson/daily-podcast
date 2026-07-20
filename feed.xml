@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-20</title>
+      <description># Episode Summary
+
+This episode dives into the widening gap between enterprise AI ambitions and reality, highlighting critical findings from VentureBeat&apos;s enterprise AI survey: half of organizations have deployed agents that failed after passing internal evaluations, evaluation systems are fundamentally misaligned with real-world performance, and most companies lack the infrastructure to track compute costs or ensure governance. The conversation also covers Meta&apos;s Spark Muse model launching on Databricks with built-in governance through Unity AI Gateway, NVIDIA&apos;s strategic positioning in Japan&apos;s AI infrastructure ecosystem, ongoing legal tensions between Apple and OpenAI, and efforts by nonprofits like Current AI to build more inclusive AI infrastructure for underrepresented cultures and languages.</description>
+      <pubDate>Mon, 20 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-20.mp3" length="4581120" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-20.mp3</guid>
+      <itunes:duration>286</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-17</title>
       <description># Episode Summary
 
