@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-21",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and data infrastructure: Anthropic's landmark $1.5 billion copyright settlement closing a training data lawsuit, though broader legal questions about AI training remain unresolved across the industry; a significant protocol upgrade to the Model Context Protocol making AI agent infrastructure easier to deploy and more scalable; and a production case study from Databricks showing how database branching workflows—treating databases like code with CI/CD pipelines—are improving data engineering reliability and safety.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-20",
       "summary": "# Episode Summary\n\nThis episode dives into the widening gap between enterprise AI ambitions and reality, highlighting critical findings from VentureBeat's enterprise AI survey: half of organizations have deployed agents that failed after passing internal evaluations, evaluation systems are fundamentally misaligned with real-world performance, and most companies lack the infrastructure to track compute costs or ensure governance. The conversation also covers Meta's Spark Muse model launching on Databricks with built-in governance through Unity AI Gateway, NVIDIA's strategic positioning in Japan's AI infrastructure ecosystem, ongoing legal tensions between Apple and OpenAI, and efforts by nonprofits like Current AI to build more inclusive AI infrastructure for underrepresented cultures and languages.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-02",
       "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping the AI industry: OpenAI's reported negotiations to give the U.S. government a five percent equity stake, potentially transforming the regulatory relationship between AI labs and federal authorities; Cloudflare's new policy requiring AI companies to separate web crawlers used for search from those used for training by September 15th, creating enforceable consent mechanisms for content use; and Databricks' introduction of \"Decision Execution Platforms\" — a framework that bridges the gap between data insights and automated business decisions at enterprise scale. The discussion also touches on Venice AI reaching unicorn status with strong profitability metrics and the emergence of Chinese AI models like Kimi K2",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-01",
-      "summary": "# Podcast Episode Summary\n\nThis episode covers Anthropic's major product announcements—including Claude Sonnet 5, Claude Science, and Fable 5 redeployment—alongside significant policy shifts as the Trump administration lifted AI export restrictions, creating an unpredictable regulatory environment for AI companies. Beyond the headlines, the show explores the emerging tension around AI-generated code in open source (highlighted by Godot's decision to ban such contributions), Databricks' architectural vision for next-generation data platforms, and the quiet value creation happening in specialized AI applications like quantitative finance.",
       "keyTopics": []
     }
   ]
