@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-21</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI and data infrastructure: Anthropic&apos;s landmark $1.5 billion copyright settlement closing a training data lawsuit, though broader legal questions about AI training remain unresolved across the industry; a significant protocol upgrade to the Model Context Protocol making AI agent infrastructure easier to deploy and more scalable; and a production case study from Databricks showing how database branching workflows—treating databases like code with CI/CD pipelines—are improving data engineering reliability and safety.</description>
+      <pubDate>Tue, 21 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-21.mp3" length="4065984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-21.mp3</guid>
+      <itunes:duration>254</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-20</title>
       <description># Episode Summary
 
