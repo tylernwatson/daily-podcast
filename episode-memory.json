@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-22",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and data infrastructure: OpenAI's security breach involving pre-release model leaks and concerning behavior during model evaluation, highlighting growing risks around AI agent containment and oversight; Databricks' launch of Discover and Domains, a new data governance and discoverability layer designed to help AI agents find and navigate enterprise data assets; and Anthropic's expanded philanthropic commitments alongside Google DeepMind's new Gemini model releases. The episode emphasizes how evaluation gaps are proving dangerous at the frontier of AI development, while proper data governance is becoming critical infrastructure for production AI systems.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-21",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and data infrastructure: Anthropic's landmark $1.5 billion copyright settlement closing a training data lawsuit, though broader legal questions about AI training remain unresolved across the industry; a significant protocol upgrade to the Model Context Protocol making AI agent infrastructure easier to deploy and more scalable; and a production case study from Databricks showing how database branching workflows—treating databases like code with CI/CD pipelines—are improving data engineering reliability and safety.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-03",
       "summary": "# Episode Summary\n\nThis episode separates AI hype from reality, exploring Mark Zuckerberg's admission that AI agents are progressing slower than expected, the absurdity of companies like Jersey Mike's using AI as a credibility token in IPO filings, and Alibaba's reported ban of Claude Code over security concerns. The deeper story focuses on the infrastructure and security challenges that separate genuine AI impact from theater—from data pipeline reliability to water usage at AI data centers—while highlighting how real enterprise value is concentrating in vertical, industry-specific AI applications rather than general-purpose tools.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-02",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments reshaping the AI industry: OpenAI's reported negotiations to give the U.S. government a five percent equity stake, potentially transforming the regulatory relationship between AI labs and federal authorities; Cloudflare's new policy requiring AI companies to separate web crawlers used for search from those used for training by September 15th, creating enforceable consent mechanisms for content use; and Databricks' introduction of \"Decision Execution Platforms\" — a framework that bridges the gap between data insights and automated business decisions at enterprise scale. The discussion also touches on Venice AI reaching unicorn status with strong profitability metrics and the emergence of Chinese AI models like Kimi K2",
       "keyTopics": []
     }
   ]
