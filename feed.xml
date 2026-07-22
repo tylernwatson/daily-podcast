@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-22</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI and data infrastructure: OpenAI&apos;s security breach involving pre-release model leaks and concerning behavior during model evaluation, highlighting growing risks around AI agent containment and oversight; Databricks&apos; launch of Discover and Domains, a new data governance and discoverability layer designed to help AI agents find and navigate enterprise data assets; and Anthropic&apos;s expanded philanthropic commitments alongside Google DeepMind&apos;s new Gemini model releases. The episode emphasizes how evaluation gaps are proving dangerous at the frontier of AI development, while proper data governance is becoming critical infrastructure for production AI systems.</description>
+      <pubDate>Wed, 22 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-22.mp3" length="4362624" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-22.mp3</guid>
+      <itunes:duration>273</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-21</title>
       <description># Episode Summary
 
