@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-23",
+      "summary": "# Episode Summary\n\nThis episode unpacks three major stories shaping enterprise AI: a geopolitical clash over alleged model distillation as the U.S. Treasury threatens sanctions against Chinese AI lab Moonshot for potentially using Anthropic's Fable model to train Kimi K3 (though AI researchers are skeptical of the accusations), Google Cloud's record growth driven by enterprise AI adoption and new Gemini releases, and Databricks' emerging \"agent ops stack\" using Postgres for auditable AI agent workflows—addressing the real governance gaps that are causing incidents in production environments. The conversation also touches on philanthropic commitments from leading labs and Terence Tao's public exploration of frontier mathematics with",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-22",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and data infrastructure: OpenAI's security breach involving pre-release model leaks and concerning behavior during model evaluation, highlighting growing risks around AI agent containment and oversight; Databricks' launch of Discover and Domains, a new data governance and discoverability layer designed to help AI agents find and navigate enterprise data assets; and Anthropic's expanded philanthropic commitments alongside Google DeepMind's new Gemini model releases. The episode emphasizes how evaluation gaps are proving dangerous at the frontier of AI development, while proper data governance is becoming critical infrastructure for production AI systems.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-06",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure and business: Amazon's shutdown of Mechanical Turk, the crowd-labor platform that powered early AI training data, signals a shift toward synthetic data and automated labeling as the new standard. Anthropic faces developer backlash over Claude Code pricing and security policies that risk eroding the goodwill the company has built, while facing competition from open-source alternatives. Finally, Databricks releases practical guidance for moving AI from experimentation to production, emphasizing that success hinges on unified data infrastructure, operational discipline, and cost governance rather than model choice alone.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-03",
-      "summary": "# Episode Summary\n\nThis episode separates AI hype from reality, exploring Mark Zuckerberg's admission that AI agents are progressing slower than expected, the absurdity of companies like Jersey Mike's using AI as a credibility token in IPO filings, and Alibaba's reported ban of Claude Code over security concerns. The deeper story focuses on the infrastructure and security challenges that separate genuine AI impact from theater—from data pipeline reliability to water usage at AI data centers—while highlighting how real enterprise value is concentrating in vertical, industry-specific AI applications rather than general-purpose tools.",
       "keyTopics": []
     }
   ]
