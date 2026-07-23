@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-23</title>
+      <description># Episode Summary
+
+This episode unpacks three major stories shaping enterprise AI: a geopolitical clash over alleged model distillation as the U.S. Treasury threatens sanctions against Chinese AI lab Moonshot for potentially using Anthropic&apos;s Fable model to train Kimi K3 (though AI researchers are skeptical of the accusations), Google Cloud&apos;s record growth driven by enterprise AI adoption and new Gemini releases, and Databricks&apos; emerging &quot;agent ops stack&quot; using Postgres for auditable AI agent workflows—addressing the real governance gaps that are causing incidents in production environments. The conversation also touches on philanthropic commitments from leading labs and Terence Tao&apos;s public exploration of frontier mathematics with</description>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-23.mp3" length="3734784" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-23.mp3</guid>
+      <itunes:duration>233</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-22</title>
       <description># Episode Summary
 
