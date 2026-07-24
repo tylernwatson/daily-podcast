@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-24</title>
+      <description># Episode Summary
+
+This episode covers three major developments in enterprise AI: the FDA&apos;s landmark deployment of AI across 85% of its daily workforce using a Databricks platform—signaling that regulated industries are moving beyond pilots—alongside new specialized tools like data agents and intent-based authorization that prioritize security and cost efficiency in production. On the model front, Google released multiple Gemini variants including a cybersecurity-focused version, while a growing debate emerges around whether one-size-fits-all AI safety guardrails are appropriate for legitimate professional use cases like offensive security research, contrasting with OpenAI&apos;s new consumer health features in ChatGPT.</description>
+      <pubDate>Fri, 24 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-24.mp3" length="4600320" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-24.mp3</guid>
+      <itunes:duration>288</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-23</title>
       <description># Episode Summary
 
