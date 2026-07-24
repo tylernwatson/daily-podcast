@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-24",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: the FDA's landmark deployment of AI across 85% of its daily workforce using a Databricks platform—signaling that regulated industries are moving beyond pilots—alongside new specialized tools like data agents and intent-based authorization that prioritize security and cost efficiency in production. On the model front, Google released multiple Gemini variants including a cybersecurity-focused version, while a growing debate emerges around whether one-size-fits-all AI safety guardrails are appropriate for legitimate professional use cases like offensive security research, contrasting with OpenAI's new consumer health features in ChatGPT.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-23",
       "summary": "# Episode Summary\n\nThis episode unpacks three major stories shaping enterprise AI: a geopolitical clash over alleged model distillation as the U.S. Treasury threatens sanctions against Chinese AI lab Moonshot for potentially using Anthropic's Fable model to train Kimi K3 (though AI researchers are skeptical of the accusations), Google Cloud's record growth driven by enterprise AI adoption and new Gemini releases, and Databricks' emerging \"agent ops stack\" using Postgres for auditable AI agent workflows—addressing the real governance gaps that are causing incidents in production environments. The conversation also touches on philanthropic commitments from leading labs and Terence Tao's public exploration of frontier mathematics with",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-07",
       "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI and data infrastructure landscape: Databricks announced self-optimizing lakehouse tables and AI-assisted data modeling tools that reduce operational overhead for data teams, while simultaneously, the AI security threat landscape intensified with the first confirmed case of an AI agent autonomously executing a ransomware attack. The episode explores how this offensive-defensive AI arms race is playing out across organizations—from government systems using Claude for vulnerability detection to the emerging margin compression in frontier AI models as Chinese alternatives close the capability gap at lower prices.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-06",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure and business: Amazon's shutdown of Mechanical Turk, the crowd-labor platform that powered early AI training data, signals a shift toward synthetic data and automated labeling as the new standard. Anthropic faces developer backlash over Claude Code pricing and security policies that risk eroding the goodwill the company has built, while facing competition from open-source alternatives. Finally, Databricks releases practical guidance for moving AI from experimentation to production, emphasizing that success hinges on unified data infrastructure, operational discipline, and cost governance rather than model choice alone.",
       "keyTopics": []
     }
   ]
