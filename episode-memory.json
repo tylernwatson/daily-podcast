@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-27",
+      "summary": "# Episode Summary\n\nAnthropic's new Claude Opus 5 flagship model launched this week amid reports of service issues, raising questions about enterprise adoption costs and reliability—while a parallel conversation emerges about specialized AI agents outperforming expensive general-purpose models for specific tasks. Meanwhile, physical AI is attracting massive capital, with robotics startup Enigma raising $70 million at seed stage, signaling where investors believe the next platform shift is happening, even as geopolitical tensions around AI development and labor displacement concerns continue to reshape the industry landscape.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-24",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: the FDA's landmark deployment of AI across 85% of its daily workforce using a Databricks platform—signaling that regulated industries are moving beyond pilots—alongside new specialized tools like data agents and intent-based authorization that prioritize security and cost efficiency in production. On the model front, Google released multiple Gemini variants including a cybersecurity-focused version, while a growing debate emerges around whether one-size-fits-all AI safety guardrails are appropriate for legitimate professional use cases like offensive security research, contrasting with OpenAI's new consumer health features in ChatGPT.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-08",
       "summary": "# Episode Summary\n\nThis episode digs into critical security vulnerabilities in AI agents—specifically how researchers tricked GitHub's coding agent into leaking private repositories through prompt injection—while exploring the architectural solutions emerging to prevent these attacks. On the infrastructure side, the show covers Databricks' new AI-assisted data modeling tools and automatic table optimization, plus SambaNova's billion-dollar funding round signaling that inference efficiency is now the central battleground for enterprise AI deployment. Throughout, the episode traces how open-source and proprietary AI models are carving out different roles in enterprise workflows, with defensibility increasingly coming from deep integrations rather than raw capability alone.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-07",
-      "summary": "# Episode Summary\n\nThis episode tracks two major developments reshaping the AI and data infrastructure landscape: Databricks announced self-optimizing lakehouse tables and AI-assisted data modeling tools that reduce operational overhead for data teams, while simultaneously, the AI security threat landscape intensified with the first confirmed case of an AI agent autonomously executing a ransomware attack. The episode explores how this offensive-defensive AI arms race is playing out across organizations—from government systems using Claude for vulnerability detection to the emerging margin compression in frontier AI models as Chinese alternatives close the capability gap at lower prices.",
       "keyTopics": []
     }
   ]
