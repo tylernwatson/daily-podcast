@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-27</title>
+      <description># Episode Summary
+
+Anthropic&apos;s new Claude Opus 5 flagship model launched this week amid reports of service issues, raising questions about enterprise adoption costs and reliability—while a parallel conversation emerges about specialized AI agents outperforming expensive general-purpose models for specific tasks. Meanwhile, physical AI is attracting massive capital, with robotics startup Enigma raising $70 million at seed stage, signaling where investors believe the next platform shift is happening, even as geopolitical tensions around AI development and labor displacement concerns continue to reshape the industry landscape.</description>
+      <pubDate>Mon, 27 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-27.mp3" length="4078848" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-27.mp3</guid>
+      <itunes:duration>255</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-24</title>
       <description># Episode Summary
 
