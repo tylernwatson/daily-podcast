@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-28</title>
+      <description># Today&apos;s Episode Summary
+
+This episode covers three major AI industry developments: Anthropic&apos;s nuanced stance on open-weight models amid geopolitical concerns about Chinese AI labs, plus a major enterprise partnership with Cognizant; Microsoft CEO Satya Nadella&apos;s warning that companies relying on a single AI vendor need infrastructure flexibility and intermediary layers to avoid lock-in; and Databricks&apos; upgraded Genie platform, which aims to democratize data access for business users without technical expertise. The episode also flags Google&apos;s rapid deployment of domain-specific AI models (including cybersecurity variants), a privacy incident involving Claude&apos;s shared chat feature being indexed by search engines, and Cursor&apos;s strategic expansion into India—</description>
+      <pubDate>Tue, 28 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-28.mp3" length="3948864" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-28.mp3</guid>
+      <itunes:duration>247</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-27</title>
       <description># Episode Summary
 
