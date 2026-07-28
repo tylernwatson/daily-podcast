@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-28",
+      "summary": "# Today's Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's nuanced stance on open-weight models amid geopolitical concerns about Chinese AI labs, plus a major enterprise partnership with Cognizant; Microsoft CEO Satya Nadella's warning that companies relying on a single AI vendor need infrastructure flexibility and intermediary layers to avoid lock-in; and Databricks' upgraded Genie platform, which aims to democratize data access for business users without technical expertise. The episode also flags Google's rapid deployment of domain-specific AI models (including cybersecurity variants), a privacy incident involving Claude's shared chat feature being indexed by search engines, and Cursor's strategic expansion into India—",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-27",
       "summary": "# Episode Summary\n\nAnthropic's new Claude Opus 5 flagship model launched this week amid reports of service issues, raising questions about enterprise adoption costs and reliability—while a parallel conversation emerges about specialized AI agents outperforming expensive general-purpose models for specific tasks. Meanwhile, physical AI is attracting massive capital, with robotics startup Enigma raising $70 million at seed stage, signaling where investors believe the next platform shift is happening, even as geopolitical tensions around AI development and labor displacement concerns continue to reshape the industry landscape.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-09",
       "summary": "# Today's Episode Summary\n\nExplore why Ollama's massive growth to 9 million users signals a major shift in developer preferences toward local AI inference and cost-conscious alternatives to cloud APIs, then dive into Anthropic's new Reflect feature for personalized usage insights and Databricks' eye-opening research showing that coding agents perform drastically differently on real production codebases compared to standard benchmarks. The episode also covers the implications of these trends for evaluating AI tools, recent funding moves in the no-code space, and how AI is being deployed defensively in cybersecurity.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-08",
-      "summary": "# Episode Summary\n\nThis episode digs into critical security vulnerabilities in AI agents—specifically how researchers tricked GitHub's coding agent into leaking private repositories through prompt injection—while exploring the architectural solutions emerging to prevent these attacks. On the infrastructure side, the show covers Databricks' new AI-assisted data modeling tools and automatic table optimization, plus SambaNova's billion-dollar funding round signaling that inference efficiency is now the central battleground for enterprise AI deployment. Throughout, the episode traces how open-source and proprietary AI models are carving out different roles in enterprise workflows, with defensibility increasingly coming from deep integrations rather than raw capability alone.",
       "keyTopics": []
     }
   ]
