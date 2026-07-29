@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-29</title>
+      <description># Data and AI Daily: July 29
+
+This episode covers three major stories reshaping enterprise AI: Sam Altman&apos;s unexpected call to slow down AI development following a serious security incident, a wave of billion-dollar investments in AI security tools that reveals the industry&apos;s critical vulnerabilities around agents and authenticity, and practical advances from Databricks in managing AI costs and real-world deployment (including a case study of anesthesia scheduling). Together, these stories show an industry grappling with security and governance challenges even as deployment accelerates across regulated sectors.</description>
+      <pubDate>Wed, 29 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-29.mp3" length="3990720" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-29.mp3</guid>
+      <itunes:duration>249</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-28</title>
       <description># Today&apos;s Episode Summary
 
