@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-29",
+      "summary": "# Data and AI Daily: July 29\n\nThis episode covers three major stories reshaping enterprise AI: Sam Altman's unexpected call to slow down AI development following a serious security incident, a wave of billion-dollar investments in AI security tools that reveals the industry's critical vulnerabilities around agents and authenticity, and practical advances from Databricks in managing AI costs and real-world deployment (including a case study of anesthesia scheduling). Together, these stories show an industry grappling with security and governance challenges even as deployment accelerates across regulated sectors.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-28",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's nuanced stance on open-weight models amid geopolitical concerns about Chinese AI labs, plus a major enterprise partnership with Cognizant; Microsoft CEO Satya Nadella's warning that companies relying on a single AI vendor need infrastructure flexibility and intermediary layers to avoid lock-in; and Databricks' upgraded Genie platform, which aims to democratize data access for business users without technical expertise. The episode also flags Google's rapid deployment of domain-specific AI models (including cybersecurity variants), a privacy incident involving Claude's shared chat feature being indexed by search engines, and Cursor's strategic expansion into India—",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-10",
       "summary": "# Episode Summary\n\nThis week brings major developments across the AI landscape: OpenAI launches GPT-5.6 with a focus on cybersecurity improvements and reaffirms its partnership with Microsoft for Copilot 365, though leadership instability emerges as COO Fidji Simo steps down amid IPO preparations. Meanwhile, Anthropic makes bold governance moves by appointing former Federal Reserve Chair Ben Bernanke to its Long-Term Benefit Trust and commits to public transparency on its safety work—positioning itself as the governance-conscious alternative in enterprise markets. In a striking example of agentic AI in action, startup Lyzr reportedly used its own AI agent to manage a $",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-09",
-      "summary": "# Today's Episode Summary\n\nExplore why Ollama's massive growth to 9 million users signals a major shift in developer preferences toward local AI inference and cost-conscious alternatives to cloud APIs, then dive into Anthropic's new Reflect feature for personalized usage insights and Databricks' eye-opening research showing that coding agents perform drastically differently on real production codebases compared to standard benchmarks. The episode also covers the implications of these trends for evaluating AI tools, recent funding moves in the no-code space, and how AI is being deployed defensively in cybersecurity.",
       "keyTopics": []
     }
   ]
