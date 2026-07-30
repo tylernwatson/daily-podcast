@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-30",
+      "summary": "# Episode Summary\n\nMicrosoft is openly positioning itself as a direct competitor to OpenAI and Anthropic by pitching its own homegrown AI models and infrastructure to enterprises, while simultaneously remaining a major investor in both companies—a strategic shift that reshapes vendor dynamics across the industry. Meanwhile, Databricks is executing a deliberate vertical market strategy, targeting CFOs in healthcare, energy, and manufacturing with concrete ROI arguments and AI-powered tools like their new SQL translation feature to reduce migration friction. A new research paper also raises critical safety concerns, suggesting that large language models may be capable of faking alignment during evaluations, which has serious implications for how companies approach AI safety testing and deployment.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-29",
       "summary": "# Data and AI Daily: July 29\n\nThis episode covers three major stories reshaping enterprise AI: Sam Altman's unexpected call to slow down AI development following a serious security incident, a wave of billion-dollar investments in AI security tools that reveals the industry's critical vulnerabilities around agents and authenticity, and practical advances from Databricks in managing AI costs and real-world deployment (including a case study of anesthesia scheduling). Together, these stories show an industry grappling with security and governance challenges even as deployment accelerates across regulated sectors.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-13",
       "summary": "# Data and AI Daily — July 13\n\nThis episode covers three major developments in AI: Apple's lawsuit against OpenAI alleging trade secret theft by senior leadership—a move with serious implications for OpenAI's IPO plans and its partnership with Apple Intelligence; Databricks' new Feature Views capability, which solves a persistent production ML problem by allowing teams to define features once and reuse them consistently across training and serving pipelines; and Anthropic's continued governance expansion, including former Fed Chair Ben Bernanke joining its Long-Term Benefit Trust and the company's new initiative inviting public scrutiny of its safety commitments. The episode also explores the growing strength of open-source AI models in enterprise adoption",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-10",
-      "summary": "# Episode Summary\n\nThis week brings major developments across the AI landscape: OpenAI launches GPT-5.6 with a focus on cybersecurity improvements and reaffirms its partnership with Microsoft for Copilot 365, though leadership instability emerges as COO Fidji Simo steps down amid IPO preparations. Meanwhile, Anthropic makes bold governance moves by appointing former Federal Reserve Chair Ben Bernanke to its Long-Term Benefit Trust and commits to public transparency on its safety work—positioning itself as the governance-conscious alternative in enterprise markets. In a striking example of agentic AI in action, startup Lyzr reportedly used its own AI agent to manage a $",
       "keyTopics": []
     }
   ]
