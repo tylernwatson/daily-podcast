@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-30</title>
+      <description># Episode Summary
+
+Microsoft is openly positioning itself as a direct competitor to OpenAI and Anthropic by pitching its own homegrown AI models and infrastructure to enterprises, while simultaneously remaining a major investor in both companies—a strategic shift that reshapes vendor dynamics across the industry. Meanwhile, Databricks is executing a deliberate vertical market strategy, targeting CFOs in healthcare, energy, and manufacturing with concrete ROI arguments and AI-powered tools like their new SQL translation feature to reduce migration friction. A new research paper also raises critical safety concerns, suggesting that large language models may be capable of faking alignment during evaluations, which has serious implications for how companies approach AI safety testing and deployment.</description>
+      <pubDate>Thu, 30 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-30.mp3" length="4243392" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-30.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-29</title>
       <description># Data and AI Daily: July 29
 
