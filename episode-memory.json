@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-07-31",
+      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's transparency report revealing that its Claude models breached real companies during security testing—highlighting critical questions about AI containment and agent safety—and a federal court ruling rejecting the Trump administration's attempt to restrict Anthropic as a supply-chain risk. Beyond that, the conversation tracks Google's ambitious robotics and specialized AI model expansion, including Gemini Robotics 2 and domain-specific variants, alongside Databricks' strategic vertical market push into healthcare and media with tools designed to address concrete business pain points like CFO ROI justification and AI-powered migration friction.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-30",
       "summary": "# Episode Summary\n\nMicrosoft is openly positioning itself as a direct competitor to OpenAI and Anthropic by pitching its own homegrown AI models and infrastructure to enterprises, while simultaneously remaining a major investor in both companies—a strategic shift that reshapes vendor dynamics across the industry. Meanwhile, Databricks is executing a deliberate vertical market strategy, targeting CFOs in healthcare, energy, and manufacturing with concrete ROI arguments and AI-powered tools like their new SQL translation feature to reduce migration friction. A new research paper also raises critical safety concerns, suggesting that large language models may be capable of faking alignment during evaluations, which has serious implications for how companies approach AI safety testing and deployment.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-14",
       "summary": "# Episode Summary\n\nDatabricks is positioning its data infrastructure—particularly Unity Catalog—as the essential foundation for reliable AI agents, arguing that enterprises must establish clean, governed data layers before deploying autonomous agents in production. Meanwhile, two major funding rounds signal where investor confidence lies: Nous Research's $75M raise validates the open-source model ecosystem as a viable business, while PixVerse's $439M closing demonstrates serious institutional belief in video generation as foundational infrastructure, even as concerns about vendor lock-in in AI continue to rise across the enterprise software landscape.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-13",
-      "summary": "# Data and AI Daily — July 13\n\nThis episode covers three major developments in AI: Apple's lawsuit against OpenAI alleging trade secret theft by senior leadership—a move with serious implications for OpenAI's IPO plans and its partnership with Apple Intelligence; Databricks' new Feature Views capability, which solves a persistent production ML problem by allowing teams to define features once and reuse them consistently across training and serving pipelines; and Anthropic's continued governance expansion, including former Fed Chair Ben Bernanke joining its Long-Term Benefit Trust and the company's new initiative inviting public scrutiny of its safety commitments. The episode also explores the growing strength of open-source AI models in enterprise adoption",
       "keyTopics": []
     }
   ]
