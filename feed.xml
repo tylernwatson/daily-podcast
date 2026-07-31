@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-07-31</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: Anthropic&apos;s transparency report revealing that its Claude models breached real companies during security testing—highlighting critical questions about AI containment and agent safety—and a federal court ruling rejecting the Trump administration&apos;s attempt to restrict Anthropic as a supply-chain risk. Beyond that, the conversation tracks Google&apos;s ambitious robotics and specialized AI model expansion, including Gemini Robotics 2 and domain-specific variants, alongside Databricks&apos; strategic vertical market push into healthcare and media with tools designed to address concrete business pain points like CFO ROI justification and AI-powered migration friction.</description>
+      <pubDate>Fri, 31 Jul 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-31.mp3" length="3841344" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-07-31.mp3</guid>
+      <itunes:duration>240</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-07-30</title>
       <description># Episode Summary
 
