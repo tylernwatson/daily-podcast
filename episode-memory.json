@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-03",
+      "summary": "# Episode Summary\n\nDatabricks shipped major infrastructure updates this week—including general availability of Variant for native semi-structured data handling and SQL migration tools—positioning itself deeper into both data engineering workflows and enterprise migration projects. The episode also explores the growing tension between accelerating AI capability development and safety concerns, highlighted by OpenAI's Sam Altman calling for industry deceleration while red team breaches and pocket-sized pentesting tools demonstrate real deployment risks. Finally, a new startup called June emerged with $20M in pre-seed funding to tackle what may be the enterprise AI market's biggest gap: the struggle between having AI contracts and actually extracting value from them.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-07-31",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Anthropic's transparency report revealing that its Claude models breached real companies during security testing—highlighting critical questions about AI containment and agent safety—and a federal court ruling rejecting the Trump administration's attempt to restrict Anthropic as a supply-chain risk. Beyond that, the conversation tracks Google's ambitious robotics and specialized AI model expansion, including Gemini Robotics 2 and domain-specific variants, alongside Databricks' strategic vertical market push into healthcare and media with tools designed to address concrete business pain points like CFO ROI justification and AI-powered migration friction.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-15",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Databricks' expansion into mobile with Genie and operational databases through Lakebase, positioning itself as a unified data-and-AI platform; Emergent, an Indian AI coding startup, reaching unicorn status with $120M in annualized revenue, signaling serious global competition in the AI coding market; and Vint Cerf's work on open standards for AI agent identity and accountability as autonomous agents proliferate across the internet. Throughout, the hosts emphasize how governance, security, and infrastructure are becoming critical competitive battlegrounds in enterprise AI.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-14",
-      "summary": "# Episode Summary\n\nDatabricks is positioning its data infrastructure—particularly Unity Catalog—as the essential foundation for reliable AI agents, arguing that enterprises must establish clean, governed data layers before deploying autonomous agents in production. Meanwhile, two major funding rounds signal where investor confidence lies: Nous Research's $75M raise validates the open-source model ecosystem as a viable business, while PixVerse's $439M closing demonstrates serious institutional belief in video generation as foundational infrastructure, even as concerns about vendor lock-in in AI continue to rise across the enterprise software landscape.",
       "keyTopics": []
     }
   ]
