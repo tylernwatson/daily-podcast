@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-04</title>
+      <description># Episode Summary
+
+Databricks completed its acquisition of Panther, launching what it&apos;s calling the &quot;Security Lakehouse&quot; era by consolidating security monitoring and business data on a single platform — a significant repositioning that addresses rising enterprise security concerns. The episode also covers Palantir CEO Alex Karp&apos;s provocative criticism of the AI industry&apos;s approach to safety and governance, Palantir&apos;s record profitability, and emerging infrastructure innovations like modular AI compute pods and space-based internet cables designed to meet explosive demand for AI processing power. Finally, the discussion explores a quiet but important realization in tech circles: AI tools amplify existing expertise rather than democratizing capability, making domain knowledge more valuable than the</description>
+      <pubDate>Tue, 04 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-04.mp3" length="3679488" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-04.mp3</guid>
+      <itunes:duration>230</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-03</title>
       <description># Episode Summary
 
