@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-04",
+      "summary": "# Episode Summary\n\nDatabricks completed its acquisition of Panther, launching what it's calling the \"Security Lakehouse\" era by consolidating security monitoring and business data on a single platform — a significant repositioning that addresses rising enterprise security concerns. The episode also covers Palantir CEO Alex Karp's provocative criticism of the AI industry's approach to safety and governance, Palantir's record profitability, and emerging infrastructure innovations like modular AI compute pods and space-based internet cables designed to meet explosive demand for AI processing power. Finally, the discussion explores a quiet but important realization in tech circles: AI tools amplify existing expertise rather than democratizing capability, making domain knowledge more valuable than the",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-03",
       "summary": "# Episode Summary\n\nDatabricks shipped major infrastructure updates this week—including general availability of Variant for native semi-structured data handling and SQL migration tools—positioning itself deeper into both data engineering workflows and enterprise migration projects. The episode also explores the growing tension between accelerating AI capability development and safety concerns, highlighted by OpenAI's Sam Altman calling for industry deceleration while red team breaches and pocket-sized pentesting tools demonstrate real deployment risks. Finally, a new startup called June emerged with $20M in pre-seed funding to tackle what may be the enterprise AI market's biggest gap: the struggle between having AI contracts and actually extracting value from them.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-16",
       "summary": "# Episode Summary\n\nDatabricks released Apache Spark 4.2, a major upgrade that integrates AI and data workflows directly into the runtime engine, positioning it as a competitive advantage against platforms like Snowflake. Meanwhile, a new enterprise AI agent survey reveals that most companies aren't actually deploying true agents—they're deploying chatbots—and the ones seeing real success have invested in solid data infrastructure first, not just cutting-edge models.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-15",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in enterprise AI: Databricks' expansion into mobile with Genie and operational databases through Lakebase, positioning itself as a unified data-and-AI platform; Emergent, an Indian AI coding startup, reaching unicorn status with $120M in annualized revenue, signaling serious global competition in the AI coding market; and Vint Cerf's work on open standards for AI agent identity and accountability as autonomous agents proliferate across the internet. Throughout, the hosts emphasize how governance, security, and infrastructure are becoming critical competitive battlegrounds in enterprise AI.",
       "keyTopics": []
     }
   ]
