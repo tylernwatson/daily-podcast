@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-05",
+      "summary": "# Episode Summary\n\nDatabricks launches Unity AI Gateway to help enterprises govern their AI deployments with centralized controls, cost tracking, and security—a strategic move that positions the company as a one-stop platform for both data and AI governance. Anthropic makes two major moves signaling its independence and regulatory readiness: a $10 billion infrastructure deal with startup Volta to diversify its compute sources, and the hiring of a former California Supreme Court justice as Chief Global Affairs Officer. Finally, AI systems are now solving decades-old mathematical problems that stumped researchers for generations, suggesting the technology's near-term impact may be most significant in accelerating scientific discovery across fields like cryptography, drug discovery, and materials science.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-04",
       "summary": "# Episode Summary\n\nDatabricks completed its acquisition of Panther, launching what it's calling the \"Security Lakehouse\" era by consolidating security monitoring and business data on a single platform — a significant repositioning that addresses rising enterprise security concerns. The episode also covers Palantir CEO Alex Karp's provocative criticism of the AI industry's approach to safety and governance, Palantir's record profitability, and emerging infrastructure innovations like modular AI compute pods and space-based internet cables designed to meet explosive demand for AI processing power. Finally, the discussion explores a quiet but important realization in tech circles: AI tools amplify existing expertise rather than democratizing capability, making domain knowledge more valuable than the",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-17",
       "summary": "# Episode Summary\n\nThis week's episode tackles three major stories shaping enterprise AI: a security crisis where 54% of enterprises have experienced AI agent incidents due to poor credential management and inadequate evaluation systems, and Databricks' push to professionalize the \"context engineer\" role as the real bottleneck in production AI. The show also covers a controversy where an AI-generated submission won a $25K DeepMind Kaggle prize, raising questions about how we measure genuine capability in an AI-assisted world, plus updates on Apple's escalating legal campaign against OpenAI and DoorDash's new CLI designed primarily for AI agents to use.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-16",
-      "summary": "# Episode Summary\n\nDatabricks released Apache Spark 4.2, a major upgrade that integrates AI and data workflows directly into the runtime engine, positioning it as a competitive advantage against platforms like Snowflake. Meanwhile, a new enterprise AI agent survey reveals that most companies aren't actually deploying true agents—they're deploying chatbots—and the ones seeing real success have invested in solid data infrastructure first, not just cutting-edge models.",
       "keyTopics": []
     }
   ]
