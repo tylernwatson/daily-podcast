@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-05</title>
+      <description># Episode Summary
+
+Databricks launches Unity AI Gateway to help enterprises govern their AI deployments with centralized controls, cost tracking, and security—a strategic move that positions the company as a one-stop platform for both data and AI governance. Anthropic makes two major moves signaling its independence and regulatory readiness: a $10 billion infrastructure deal with startup Volta to diversify its compute sources, and the hiring of a former California Supreme Court justice as Chief Global Affairs Officer. Finally, AI systems are now solving decades-old mathematical problems that stumped researchers for generations, suggesting the technology&apos;s near-term impact may be most significant in accelerating scientific discovery across fields like cryptography, drug discovery, and materials science.</description>
+      <pubDate>Wed, 05 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-05.mp3" length="4090752" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-05.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-04</title>
       <description># Episode Summary
 
