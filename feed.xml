@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-07</title>
+      <description># Episode Summary
+
+This episode covers OpenAI&apos;s dual strategy of expanding free ChatGPT access while launching a $300-400 AI smart speaker, positioning themselves against competitors like Google and Apple in the consumer AI race. A sobering new study reveals humans miss one in three genuine threats when overseeing AI agents—a critical warning for companies deploying agentic systems in production. The episode also highlights Google DeepMind&apos;s breakthrough in AI-powered cyclone forecasting and Databricks&apos; strategic moves in governance infrastructure and open-source model integration through their Unity AI Gateway.</description>
+      <pubDate>Fri, 07 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-07.mp3" length="4093632" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-07.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-06</title>
       <description># Episode Summary
 
