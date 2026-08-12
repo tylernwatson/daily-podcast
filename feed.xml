@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-12</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI and tech: leadership upheaval at OpenAI with COO Brad Lightcap&apos;s departure, signaling broader generational shifts across AI labs; Google&apos;s Gemini reaching one billion users with 63% engaging via voice, fundamentally reshaping the competitive landscape; and Databricks&apos; strategic moves including infrastructure acquisitions like Electric (a WebAssembly-based Postgres tool for AI agent sandboxing) and new guidance on how AI is redefining the data analyst role. Together, these stories reveal how the AI industry is evolving its leadership structure, scaling consumer adoption through voice interfaces, and building safety-focused infrastructure for autonomous agents.</description>
+      <pubDate>Wed, 12 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-12.mp3" length="3732096" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-12.mp3</guid>
+      <itunes:duration>233</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-11</title>
       <description># Episode Summary
 
