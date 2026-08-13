@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-13</title>
+      <description># Episode Summary
+
+This episode covers the explosive valuations reshaping AI&apos;s future—Cognition&apos;s coding agent startup hitting a $40 billion valuation in back-to-back funding rounds—alongside a heated debate among AI legends about whether open or closed models are safer. The show also tackles Anthropic&apos;s controversial watermarking feature that&apos;s exposing hidden AI use in workplaces and classrooms, plus real-world enterprise transformation stories showing how legacy industries like Amtrak and freight railroads are building serious AI-powered data infrastructure.</description>
+      <pubDate>Thu, 13 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-13.mp3" length="4387776" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-13.mp3</guid>
+      <itunes:duration>274</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-12</title>
       <description># Episode Summary
 
