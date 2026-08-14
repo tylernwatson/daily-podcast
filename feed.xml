@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-14</title>
+      <description># Episode Summary
+
+This week in AI infrastructure and enterprise deployment: Databricks closed an exceptional $5 billion funding round at a $190 billion valuation, signaling massive market confidence in the &quot;picks and shovels&quot; layer of AI—with new product announcements like intelligent model routing delivering 30% cost savings on enterprise tasks. OpenAI launched Ultrafast mode for GPT-5.6 Sol with 14x speed improvements and announced a major partnership with IBM to train enterprise consultants, while Anthropic&apos;s research revealed a critical safety gap: multiple AI agents deployed together can clash and undermine each other in ways that today&apos;s testing frameworks don&apos;t catch.</description>
+      <pubDate>Fri, 14 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-14.mp3" length="3407040" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-14.mp3</guid>
+      <itunes:duration>213</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-13</title>
       <description># Episode Summary
 
