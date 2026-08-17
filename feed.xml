@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-17</title>
+      <description># Episode Summary
+
+This episode covers three major stories shaping the AI infrastructure and trust landscape: Stripe&apos;s reported $7+ billion acquisition of OpenRouter, which could reshape how companies manage AI model access through unified APIs; the ongoing backlash against Anthropic&apos;s invisible watermarking in Claude-generated text, raising questions about consent and transparency; and Anthropic CEO Dario Amodei&apos;s argument that the AI industry faces a fundamental &quot;crisis of trust&quot; rather than just technical safety challenges. The hosts also highlight Databricks&apos; new AI functions for SQL and conversational warehouse interfaces as examples of how the industry is collapsing the distance between data and decision-making.</description>
+      <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-17.mp3" length="4491072" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-17.mp3</guid>
+      <itunes:duration>281</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-14</title>
       <description># Episode Summary
 
