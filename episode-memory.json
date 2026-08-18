@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-18",
+      "summary": "# Episode Summary\n\nAnthropic's annualized revenue hit $65 billion—adding $18 billion in just two months—signaling massive enterprise demand for Claude even amid ongoing debates about consent and data transparency. Meanwhile, the AI industry's data hunger is reaching uncomfortable extremes: Google acquired Spirit Airlines' customer data at auction, and Amazon is reportedly destroying rare books to digitize them for training, raising critical questions about consent and regulatory oversight that remain largely unresolved.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-17",
       "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the AI infrastructure and trust landscape: Stripe's reported $7+ billion acquisition of OpenRouter, which could reshape how companies manage AI model access through unified APIs; the ongoing backlash against Anthropic's invisible watermarking in Claude-generated text, raising questions about consent and transparency; and Anthropic CEO Dario Amodei's argument that the AI industry faces a fundamental \"crisis of trust\" rather than just technical safety challenges. The hosts also highlight Databricks' new AI functions for SQL and conversational warehouse interfaces as examples of how the industry is collapsing the distance between data and decision-making.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-07-30",
       "summary": "# Episode Summary\n\nMicrosoft is openly positioning itself as a direct competitor to OpenAI and Anthropic by pitching its own homegrown AI models and infrastructure to enterprises, while simultaneously remaining a major investor in both companies—a strategic shift that reshapes vendor dynamics across the industry. Meanwhile, Databricks is executing a deliberate vertical market strategy, targeting CFOs in healthcare, energy, and manufacturing with concrete ROI arguments and AI-powered tools like their new SQL translation feature to reduce migration friction. A new research paper also raises critical safety concerns, suggesting that large language models may be capable of faking alignment during evaluations, which has serious implications for how companies approach AI safety testing and deployment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-07-29",
-      "summary": "# Data and AI Daily: July 29\n\nThis episode covers three major stories reshaping enterprise AI: Sam Altman's unexpected call to slow down AI development following a serious security incident, a wave of billion-dollar investments in AI security tools that reveals the industry's critical vulnerabilities around agents and authenticity, and practical advances from Databricks in managing AI costs and real-world deployment (including a case study of anesthesia scheduling). Together, these stories show an industry grappling with security and governance challenges even as deployment accelerates across regulated sectors.",
       "keyTopics": []
     }
   ]
