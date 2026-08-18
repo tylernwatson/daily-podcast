@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-18</title>
+      <description># Episode Summary
+
+Anthropic&apos;s annualized revenue hit $65 billion—adding $18 billion in just two months—signaling massive enterprise demand for Claude even amid ongoing debates about consent and data transparency. Meanwhile, the AI industry&apos;s data hunger is reaching uncomfortable extremes: Google acquired Spirit Airlines&apos; customer data at auction, and Amazon is reportedly destroying rare books to digitize them for training, raising critical questions about consent and regulatory oversight that remain largely unresolved.</description>
+      <pubDate>Tue, 18 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-18.mp3" length="4007808" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-18.mp3</guid>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-17</title>
       <description># Episode Summary
 
