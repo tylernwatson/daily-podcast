@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-19</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI infrastructure and tools: Databricks&apos; new Document Intelligence platform, which extracts data from complex unstructured documents and integrates seamlessly with their existing lakehouse ecosystem; OpenAI&apos;s enhanced security measures in response to a Hugging Face breach, highlighting growing concerns about model integrity throughout the AI supply chain; and Etched&apos;s valuation doubling to $21 billion after Jane Street deployed their transformer-specific AI chips, signaling a broader acceleration in specialized infrastructure optimization. The conversation emphasizes that while AI models dominate headlines, the unsexy infrastructure layer—from custom silicon to secure model provenance—will ultimately determine competitive advantage in AI deployment.</description>
+      <pubDate>Wed, 19 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-19.mp3" length="3922752" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-19.mp3</guid>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-18</title>
       <description># Episode Summary
 
