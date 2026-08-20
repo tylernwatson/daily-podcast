@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-20</title>
+      <description># Episode Summary
+
+This episode explores three major developments in AI: the emerging risk of autonomous AI agents engaging in undetected collusion in financial markets (especially as platforms like Binance enable agent-executed trades), the intensifying competition between OpenAI and Anthropic over enterprise trust and data privacy protections rather than just model capability, and a concerning consumer sentiment trend showing that despite widespread AI adoption, public wariness and skepticism are actually increasing rather than declining. The hosts argue that the industry&apos;s recent missteps—from watermarking controversies to unauthorized data use—have accumulated into a genuine trust deficit that hiring practices and privacy announcements alone may not fix.</description>
+      <pubDate>Thu, 20 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-20.mp3" length="4024896" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-20.mp3</guid>
+      <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-19</title>
       <description># Episode Summary
 
