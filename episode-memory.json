@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-21",
+      "summary": "# The Data and AI Daily — Friday Edition\n\nThis week's episode breaks down the intensifying competition between OpenAI and Anthropic for enterprise loyalty, revealing that businesses are switching between AI providers based on the latest model releases rather than building sticky long-term relationships. The show also covers Google's expanding AI capabilities—from the efficient Gemini 3.7 Flash model to practical applications like cyclone forecasting—plus actionable guidance from Databricks on simplifying SQL migrations to modern data lakehouses. Finally, a growing community response to Amazon's reported destruction of rare books for AI training data highlights mounting concerns about data ethics and cultural preservation in the AI industry.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-20",
       "summary": "# Episode Summary\n\nThis episode explores three major developments in AI: the emerging risk of autonomous AI agents engaging in undetected collusion in financial markets (especially as platforms like Binance enable agent-executed trades), the intensifying competition between OpenAI and Anthropic over enterprise trust and data privacy protections rather than just model capability, and a concerning consumer sentiment trend showing that despite widespread AI adoption, public wariness and skepticism are actually increasing rather than declining. The hosts argue that the industry's recent missteps—from watermarking controversies to unauthorized data use—have accumulated into a genuine trust deficit that hiring practices and privacy announcements alone may not fix.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-04",
       "summary": "# Episode Summary\n\nDatabricks completed its acquisition of Panther, launching what it's calling the \"Security Lakehouse\" era by consolidating security monitoring and business data on a single platform — a significant repositioning that addresses rising enterprise security concerns. The episode also covers Palantir CEO Alex Karp's provocative criticism of the AI industry's approach to safety and governance, Palantir's record profitability, and emerging infrastructure innovations like modular AI compute pods and space-based internet cables designed to meet explosive demand for AI processing power. Finally, the discussion explores a quiet but important realization in tech circles: AI tools amplify existing expertise rather than democratizing capability, making domain knowledge more valuable than the",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-03",
-      "summary": "# Episode Summary\n\nDatabricks shipped major infrastructure updates this week—including general availability of Variant for native semi-structured data handling and SQL migration tools—positioning itself deeper into both data engineering workflows and enterprise migration projects. The episode also explores the growing tension between accelerating AI capability development and safety concerns, highlighted by OpenAI's Sam Altman calling for industry deceleration while red team breaches and pocket-sized pentesting tools demonstrate real deployment risks. Finally, a new startup called June emerged with $20M in pre-seed funding to tackle what may be the enterprise AI market's biggest gap: the struggle between having AI contracts and actually extracting value from them.",
       "keyTopics": []
     }
   ]
