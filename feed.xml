@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-21</title>
+      <description># The Data and AI Daily — Friday Edition
+
+This week&apos;s episode breaks down the intensifying competition between OpenAI and Anthropic for enterprise loyalty, revealing that businesses are switching between AI providers based on the latest model releases rather than building sticky long-term relationships. The show also covers Google&apos;s expanding AI capabilities—from the efficient Gemini 3.7 Flash model to practical applications like cyclone forecasting—plus actionable guidance from Databricks on simplifying SQL migrations to modern data lakehouses. Finally, a growing community response to Amazon&apos;s reported destruction of rare books for AI training data highlights mounting concerns about data ethics and cultural preservation in the AI industry.</description>
+      <pubDate>Fri, 21 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-21.mp3" length="4093248" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-21.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-20</title>
       <description># Episode Summary
 
