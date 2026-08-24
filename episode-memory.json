@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-24",
+      "summary": "# Episode Summary\n\nThis episode explores three critical tensions shaping the AI industry: despite massive revenue growth, even the most advanced models are losing users to cheaper alternatives that are \"good enough\" for most tasks, forcing labs to reconsider their pricing and positioning strategies. A mysterious new model called Ox Alpha appeared over the weekend with no clear attribution, sparking intrigue about how performance-based credibility is now outpacing brand recognition in the market. The episode also digs into the unresolved legal risks around training AI on copyrighted material, the real business implications of data provenance for companies building on these models, and how enterprise AI is actually winning through data architecture and security—not raw capability—in platforms like",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-21",
       "summary": "# The Data and AI Daily — Friday Edition\n\nThis week's episode breaks down the intensifying competition between OpenAI and Anthropic for enterprise loyalty, revealing that businesses are switching between AI providers based on the latest model releases rather than building sticky long-term relationships. The show also covers Google's expanding AI capabilities—from the efficient Gemini 3.7 Flash model to practical applications like cyclone forecasting—plus actionable guidance from Databricks on simplifying SQL migrations to modern data lakehouses. Finally, a growing community response to Amazon's reported destruction of rare books for AI training data highlights mounting concerns about data ethics and cultural preservation in the AI industry.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-05",
       "summary": "# Episode Summary\n\nDatabricks launches Unity AI Gateway to help enterprises govern their AI deployments with centralized controls, cost tracking, and security—a strategic move that positions the company as a one-stop platform for both data and AI governance. Anthropic makes two major moves signaling its independence and regulatory readiness: a $10 billion infrastructure deal with startup Volta to diversify its compute sources, and the hiring of a former California Supreme Court justice as Chief Global Affairs Officer. Finally, AI systems are now solving decades-old mathematical problems that stumped researchers for generations, suggesting the technology's near-term impact may be most significant in accelerating scientific discovery across fields like cryptography, drug discovery, and materials science.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-04",
-      "summary": "# Episode Summary\n\nDatabricks completed its acquisition of Panther, launching what it's calling the \"Security Lakehouse\" era by consolidating security monitoring and business data on a single platform — a significant repositioning that addresses rising enterprise security concerns. The episode also covers Palantir CEO Alex Karp's provocative criticism of the AI industry's approach to safety and governance, Palantir's record profitability, and emerging infrastructure innovations like modular AI compute pods and space-based internet cables designed to meet explosive demand for AI processing power. Finally, the discussion explores a quiet but important realization in tech circles: AI tools amplify existing expertise rather than democratizing capability, making domain knowledge more valuable than the",
       "keyTopics": []
     }
   ]
