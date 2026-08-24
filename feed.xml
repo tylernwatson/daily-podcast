@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-24</title>
+      <description># Episode Summary
+
+This episode explores three critical tensions shaping the AI industry: despite massive revenue growth, even the most advanced models are losing users to cheaper alternatives that are &quot;good enough&quot; for most tasks, forcing labs to reconsider their pricing and positioning strategies. A mysterious new model called Ox Alpha appeared over the weekend with no clear attribution, sparking intrigue about how performance-based credibility is now outpacing brand recognition in the market. The episode also digs into the unresolved legal risks around training AI on copyrighted material, the real business implications of data provenance for companies building on these models, and how enterprise AI is actually winning through data architecture and security—not raw capability—in platforms like</description>
+      <pubDate>Mon, 24 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-24.mp3" length="4402560" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-24.mp3</guid>
+      <itunes:duration>275</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-21</title>
       <description># The Data and AI Daily — Friday Edition
 
