@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-25</title>
+      <description># Data and AI Daily — August 25th
+
+This episode digs into three major stories reshaping the AI landscape: the dramatic fall of Situational Awareness, an AI hedge fund facing SEC investigation over autonomous trading decisions that raises urgent questions about regulatory oversight of AI agents in finance; the privacy risks embedded in Instinct, a powerful new AI assistant that&apos;s generating buzz for its capabilities while raising red flags about data access and user consent; and important developments from Databricks on AI-assisted incident response, local IDE integration, and enterprise security features. Plus, we break down an emerging research concern about &quot;model collapse&quot; — the risk that AI models trained on AI-generated data degrade over time — and check in on General</description>
+      <pubDate>Tue, 25 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-25.mp3" length="4464384" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-25.mp3</guid>
+      <itunes:duration>279</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-24</title>
       <description># Episode Summary
 
