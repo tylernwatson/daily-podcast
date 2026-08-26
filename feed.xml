@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-26</title>
+      <description># Episode Summary
+
+Databricks launches Governance Hub, a new enterprise-level tool for managing data costs, access controls, and compliance across deployments—signaling a shift toward industry-specific solutions in financial services and beyond. Meanwhile, OpenAI&apos;s Jalapeño chip claims to outperform Nvidia&apos;s Blackwell architecture, potentially reshaping AI hardware competition, though recent executive departures raise questions about internal stability during this critical infrastructure bet.</description>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-26.mp3" length="4293504" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-26.mp3</guid>
+      <itunes:duration>268</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-25</title>
       <description># Data and AI Daily — August 25th
 
