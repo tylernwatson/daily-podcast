@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-26",
+      "summary": "# Episode Summary\n\nDatabricks launches Governance Hub, a new enterprise-level tool for managing data costs, access controls, and compliance across deployments—signaling a shift toward industry-specific solutions in financial services and beyond. Meanwhile, OpenAI's Jalapeño chip claims to outperform Nvidia's Blackwell architecture, potentially reshaping AI hardware competition, though recent executive departures raise questions about internal stability during this critical infrastructure bet.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-25",
       "summary": "# Data and AI Daily — August 25th\n\nThis episode digs into three major stories reshaping the AI landscape: the dramatic fall of Situational Awareness, an AI hedge fund facing SEC investigation over autonomous trading decisions that raises urgent questions about regulatory oversight of AI agents in finance; the privacy risks embedded in Instinct, a powerful new AI assistant that's generating buzz for its capabilities while raising red flags about data access and user consent; and important developments from Databricks on AI-assisted incident response, local IDE integration, and enterprise security features. Plus, we break down an emerging research concern about \"model collapse\" — the risk that AI models trained on AI-generated data degrade over time — and check in on General",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-07",
       "summary": "# Episode Summary\n\nThis episode covers OpenAI's dual strategy of expanding free ChatGPT access while launching a $300-400 AI smart speaker, positioning themselves against competitors like Google and Apple in the consumer AI race. A sobering new study reveals humans miss one in three genuine threats when overseeing AI agents—a critical warning for companies deploying agentic systems in production. The episode also highlights Google DeepMind's breakthrough in AI-powered cyclone forecasting and Databricks' strategic moves in governance infrastructure and open-source model integration through their Unity AI Gateway.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-06",
-      "summary": "# Episode Summary\n\nThis episode covers major shifts in AI leadership and competition: Google DeepMind's CEO Demis Hassabis steps into a Chair role while legendary engineer Jeff Dean departs entirely—a generational transition that could reshape the lab's research-first identity. Meanwhile, Meta enters the competitive coding agent space with Muse Code targeting complex enterprise codebases, a startup called Mirendil lands a $100M+ Google Cloud deal to build self-improving AI systems, and Databricks releases a migration framework to help BigQuery users transition to their platform with unified governance and AI integration. The episode also highlights research showing smaller open models can outperform expensive frontier models on specific tasks—suggesting that smart",
       "keyTopics": []
     }
   ]
