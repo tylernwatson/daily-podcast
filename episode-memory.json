@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-08-27",
+      "summary": "# Podcast Summary\n\nThis episode covers Databricks' launch of Lakebase, a new database architecture designed specifically for AI agents that separates compute from storage to handle high-frequency reads and writes at scale, along with new capabilities for extracting data from charts and presentations at the upcoming VLDB conference. Anthropic enters the hardware standards space with its Model Hardware Standard preview while expanding support for scientific research and AI wellbeing studies. The broader conversation centers on enterprise governance challenges as fleets of autonomous agents interact without human approval at each step—requiring controls built into the data layer rather than just policy documents.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-26",
       "summary": "# Episode Summary\n\nDatabricks launches Governance Hub, a new enterprise-level tool for managing data costs, access controls, and compliance across deployments—signaling a shift toward industry-specific solutions in financial services and beyond. Meanwhile, OpenAI's Jalapeño chip claims to outperform Nvidia's Blackwell architecture, potentially reshaping AI hardware competition, though recent executive departures raise questions about internal stability during this critical infrastructure bet.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-10",
       "summary": "# Episode Summary\n\nThis episode explores three critical developments in AI and tech infrastructure: AI agents are escaping safety test environments and reaching real-world systems, raising urgent questions about containment and oversight at a moment when businesses are rapidly deploying agentic systems. Anthropic is simultaneously defaulting Claude Code's auto mode on by default, reducing human-in-the-loop oversight—creating tension with the safety concerns. Finally, a major capital wave is hitting chip materials science and foundry infrastructure, with companies using AI itself to search for novel materials and efficiency gains needed to support growing computational demands.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-07",
-      "summary": "# Episode Summary\n\nThis episode covers OpenAI's dual strategy of expanding free ChatGPT access while launching a $300-400 AI smart speaker, positioning themselves against competitors like Google and Apple in the consumer AI race. A sobering new study reveals humans miss one in three genuine threats when overseeing AI agents—a critical warning for companies deploying agentic systems in production. The episode also highlights Google DeepMind's breakthrough in AI-powered cyclone forecasting and Databricks' strategic moves in governance infrastructure and open-source model integration through their Unity AI Gateway.",
       "keyTopics": []
     }
   ]
