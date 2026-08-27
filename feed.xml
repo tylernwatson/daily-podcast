@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-27</title>
+      <description># Podcast Summary
+
+This episode covers Databricks&apos; launch of Lakebase, a new database architecture designed specifically for AI agents that separates compute from storage to handle high-frequency reads and writes at scale, along with new capabilities for extracting data from charts and presentations at the upcoming VLDB conference. Anthropic enters the hardware standards space with its Model Hardware Standard preview while expanding support for scientific research and AI wellbeing studies. The broader conversation centers on enterprise governance challenges as fleets of autonomous agents interact without human approval at each step—requiring controls built into the data layer rather than just policy documents.</description>
+      <pubDate>Thu, 27 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-27.mp3" length="4565760" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-27.mp3</guid>
+      <itunes:duration>285</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-26</title>
       <description># Episode Summary
 
