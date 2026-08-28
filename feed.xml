@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-28</title>
+      <description># Episode Summary
+
+This week in AI brings major developments across safety, infrastructure, and enterprise tools: Anthropic published research on self-improving AI that successfully reduced misaligned behaviors across the board without sacrificing general performance, while also winning a federal court case against government supply-chain restrictions. On the infrastructure side, GPU leasing company Lambda raised $1 billion in debt to meet skyrocketing chip demand, though that bet faces risk from emerging custom silicon. Meanwhile, Databricks upgraded its Genie analytics assistant to move beyond answering questions—it now takes autonomous action directly within the data layer, embedding agentic capabilities into a platform already built with governance controls.</description>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-28.mp3" length="3939456" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-28.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-27</title>
       <description># Podcast Summary
 
