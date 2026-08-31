@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-08-31</title>
+      <description># Episode Summary
+
+This episode covers three major developments in AI infrastructure: Databricks&apos; launch of autoscaling for its Lakebase Postgres database, positioning it as a fully realized system for agentic AI workloads; Nvidia&apos;s $3.5 billion investment in MediaTek as a strategic hedge against custom silicon threats from hyperscalers; and Clipto, a video search startup that achieved profitability on $15M ARR before raising $15M at a $250M valuation. The broader theme ties enterprise AI complexity—particularly around governing multi-agent systems—to architectural choices that platforms like Databricks are making around data-layer governance.</description>
+      <pubDate>Mon, 31 Aug 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-31.mp3" length="4002432" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-08-31.mp3</guid>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-28</title>
       <description># Episode Summary
 
