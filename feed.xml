@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-01</title>
+      <description># Episode Summary
+
+This episode covers four major AI stories: Databricks&apos; new Genie Ontology semantic layer that enables AI agents to understand business context and make autonomous decisions safely, plus their expanded partner ecosystem through the relaunched Brickbuilder network; Google&apos;s rapid model releases including a new intelligent transcription tool and commitment to rigorous double-blind AI evaluations; the Pentagon&apos;s official deployment of a multi-model AI portal featuring ChatGPT, Grok, and Gemini for government use; and Instagram&apos;s enforcement of disclosure requirements for AI influencer accounts. The throughline connecting these stories is that enterprise AI is moving from single-model experiments to governed, multi-model production deployments across</description>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-01.mp3" length="4112448" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-01.mp3</guid>
+      <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-08-31</title>
       <description># Episode Summary
 
