@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-01",
+      "summary": "# Episode Summary\n\nThis episode covers four major AI stories: Databricks' new Genie Ontology semantic layer that enables AI agents to understand business context and make autonomous decisions safely, plus their expanded partner ecosystem through the relaunched Brickbuilder network; Google's rapid model releases including a new intelligent transcription tool and commitment to rigorous double-blind AI evaluations; the Pentagon's official deployment of a multi-model AI portal featuring ChatGPT, Grok, and Gemini for government use; and Instagram's enforcement of disclosure requirements for AI influencer accounts. The throughline connecting these stories is that enterprise AI is moving from single-model experiments to governed, multi-model production deployments across",
+      "keyTopics": []
+    },
+    {
       "date": "2026-08-31",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure: Databricks' launch of autoscaling for its Lakebase Postgres database, positioning it as a fully realized system for agentic AI workloads; Nvidia's $3.5 billion investment in MediaTek as a strategic hedge against custom silicon threats from hyperscalers; and Clipto, a video search startup that achieved profitability on $15M ARR before raising $15M at a $250M valuation. The broader theme ties enterprise AI complexity—particularly around governing multi-agent systems—to architectural choices that platforms like Databricks are making around data-layer governance.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-13",
       "summary": "# Episode Summary\n\nThis episode covers the explosive valuations reshaping AI's future—Cognition's coding agent startup hitting a $40 billion valuation in back-to-back funding rounds—alongside a heated debate among AI legends about whether open or closed models are safer. The show also tackles Anthropic's controversial watermarking feature that's exposing hidden AI use in workplaces and classrooms, plus real-world enterprise transformation stories showing how legacy industries like Amtrak and freight railroads are building serious AI-powered data infrastructure.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-12",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI and tech: leadership upheaval at OpenAI with COO Brad Lightcap's departure, signaling broader generational shifts across AI labs; Google's Gemini reaching one billion users with 63% engaging via voice, fundamentally reshaping the competitive landscape; and Databricks' strategic moves including infrastructure acquisitions like Electric (a WebAssembly-based Postgres tool for AI agent sandboxing) and new guidance on how AI is redefining the data analyst role. Together, these stories reveal how the AI industry is evolving its leadership structure, scaling consumer adoption through voice interfaces, and building safety-focused infrastructure for autonomous agents.",
       "keyTopics": []
     }
   ]
