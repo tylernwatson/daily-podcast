@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-02</title>
+      <description># Episode Summary
+
+This episode covers four major developments in enterprise AI: Databricks&apos; launch of &quot;AgentOps,&quot; a new operating discipline for managing AI agent fleets in production; AfterQuery&apos;s remarkable 10x valuation jump in five months, making it the fastest Y Combinator unicorn; HiddenLayer&apos;s $100M Series B to secure AI deployments against adversarial attacks and model theft; and Anthropic&apos;s new Enterprise Frontier Safeguards program, which embeds safety standards directly into enterprise contracts. The common thread is a maturing AI market shifting from experimentation to infrastructure, with serious capital flowing toward data quality, security, and operational governance.</description>
+      <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-02.mp3" length="4036800" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-02.mp3</guid>
+      <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-01</title>
       <description># Episode Summary
 
