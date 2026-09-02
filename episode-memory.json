@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-02",
+      "summary": "# Episode Summary\n\nThis episode covers four major developments in enterprise AI: Databricks' launch of \"AgentOps,\" a new operating discipline for managing AI agent fleets in production; AfterQuery's remarkable 10x valuation jump in five months, making it the fastest Y Combinator unicorn; HiddenLayer's $100M Series B to secure AI deployments against adversarial attacks and model theft; and Anthropic's new Enterprise Frontier Safeguards program, which embeds safety standards directly into enterprise contracts. The common thread is a maturing AI market shifting from experimentation to infrastructure, with serious capital flowing toward data quality, security, and operational governance.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-01",
       "summary": "# Episode Summary\n\nThis episode covers four major AI stories: Databricks' new Genie Ontology semantic layer that enables AI agents to understand business context and make autonomous decisions safely, plus their expanded partner ecosystem through the relaunched Brickbuilder network; Google's rapid model releases including a new intelligent transcription tool and commitment to rigorous double-blind AI evaluations; the Pentagon's official deployment of a multi-model AI portal featuring ChatGPT, Grok, and Gemini for government use; and Instagram's enforcement of disclosure requirements for AI influencer accounts. The throughline connecting these stories is that enterprise AI is moving from single-model experiments to governed, multi-model production deployments across",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-14",
       "summary": "# Episode Summary\n\nThis week in AI infrastructure and enterprise deployment: Databricks closed an exceptional $5 billion funding round at a $190 billion valuation, signaling massive market confidence in the \"picks and shovels\" layer of AI—with new product announcements like intelligent model routing delivering 30% cost savings on enterprise tasks. OpenAI launched Ultrafast mode for GPT-5.6 Sol with 14x speed improvements and announced a major partnership with IBM to train enterprise consultants, while Anthropic's research revealed a critical safety gap: multiple AI agents deployed together can clash and undermine each other in ways that today's testing frameworks don't catch.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-13",
-      "summary": "# Episode Summary\n\nThis episode covers the explosive valuations reshaping AI's future—Cognition's coding agent startup hitting a $40 billion valuation in back-to-back funding rounds—alongside a heated debate among AI legends about whether open or closed models are safer. The show also tackles Anthropic's controversial watermarking feature that's exposing hidden AI use in workplaces and classrooms, plus real-world enterprise transformation stories showing how legacy industries like Amtrak and freight railroads are building serious AI-powered data infrastructure.",
       "keyTopics": []
     }
   ]
