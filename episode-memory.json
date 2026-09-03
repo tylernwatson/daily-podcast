@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-03",
+      "summary": "# Episode Summary\n\nNvidia's confirmed $12.9 billion acquisition of Hugging Face marks a major shift in AI infrastructure, giving the chip giant control over a platform hosting 3 million models used by 18 million developers—raising questions about whether the historically neutral open-source hub can remain vendor-agnostic under Nvidia ownership. Meanwhile, Databricks is expanding its Genie Agent platform with new capabilities like file reasoning and deep analysis, alongside a broader push toward enterprise-grade AI agent operations and cost management, while Google continues its aggressive release cycle with new Gemini variants, cybersecurity-focused models, and improved video understanding capabilities.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-02",
       "summary": "# Episode Summary\n\nThis episode covers four major developments in enterprise AI: Databricks' launch of \"AgentOps,\" a new operating discipline for managing AI agent fleets in production; AfterQuery's remarkable 10x valuation jump in five months, making it the fastest Y Combinator unicorn; HiddenLayer's $100M Series B to secure AI deployments against adversarial attacks and model theft; and Anthropic's new Enterprise Frontier Safeguards program, which embeds safety standards directly into enterprise contracts. The common thread is a maturing AI market shifting from experimentation to infrastructure, with serious capital flowing toward data quality, security, and operational governance.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-17",
       "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the AI infrastructure and trust landscape: Stripe's reported $7+ billion acquisition of OpenRouter, which could reshape how companies manage AI model access through unified APIs; the ongoing backlash against Anthropic's invisible watermarking in Claude-generated text, raising questions about consent and transparency; and Anthropic CEO Dario Amodei's argument that the AI industry faces a fundamental \"crisis of trust\" rather than just technical safety challenges. The hosts also highlight Databricks' new AI functions for SQL and conversational warehouse interfaces as examples of how the industry is collapsing the distance between data and decision-making.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-14",
-      "summary": "# Episode Summary\n\nThis week in AI infrastructure and enterprise deployment: Databricks closed an exceptional $5 billion funding round at a $190 billion valuation, signaling massive market confidence in the \"picks and shovels\" layer of AI—with new product announcements like intelligent model routing delivering 30% cost savings on enterprise tasks. OpenAI launched Ultrafast mode for GPT-5.6 Sol with 14x speed improvements and announced a major partnership with IBM to train enterprise consultants, while Anthropic's research revealed a critical safety gap: multiple AI agents deployed together can clash and undermine each other in ways that today's testing frameworks don't catch.",
       "keyTopics": []
     }
   ]
