@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-03</title>
+      <description># Episode Summary
+
+Nvidia&apos;s confirmed $12.9 billion acquisition of Hugging Face marks a major shift in AI infrastructure, giving the chip giant control over a platform hosting 3 million models used by 18 million developers—raising questions about whether the historically neutral open-source hub can remain vendor-agnostic under Nvidia ownership. Meanwhile, Databricks is expanding its Genie Agent platform with new capabilities like file reasoning and deep analysis, alongside a broader push toward enterprise-grade AI agent operations and cost management, while Google continues its aggressive release cycle with new Gemini variants, cybersecurity-focused models, and improved video understanding capabilities.</description>
+      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-03.mp3" length="4291008" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-03.mp3</guid>
+      <itunes:duration>268</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-02</title>
       <description># Episode Summary
 
