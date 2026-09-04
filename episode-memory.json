@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-04",
+      "summary": "# Friday, September 4th — AI Infrastructure Capital, Google's Product Blitz, and the Agent Era\n\nThis week brings massive funding momentum to AI infrastructure — Crusoe raised $3 billion at a $30 billion valuation backed by a $13 billion Jane Street contract, signaling that compute layer companies are now attracting capital at model-company scales. Google is aggressively embedding Gemini across its ecosystem (Photos, Search, Docs, Gmail) while also shipping advanced capabilities like weather forecasting AI and agentic video understanding, though questions linger about whether AI-powered search actually serves users better or just more expensively. Meanwhile, OpenAI appears to be building toward coordinated",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-03",
       "summary": "# Episode Summary\n\nNvidia's confirmed $12.9 billion acquisition of Hugging Face marks a major shift in AI infrastructure, giving the chip giant control over a platform hosting 3 million models used by 18 million developers—raising questions about whether the historically neutral open-source hub can remain vendor-agnostic under Nvidia ownership. Meanwhile, Databricks is expanding its Genie Agent platform with new capabilities like file reasoning and deep analysis, alongside a broader push toward enterprise-grade AI agent operations and cost management, while Google continues its aggressive release cycle with new Gemini variants, cybersecurity-focused models, and improved video understanding capabilities.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-18",
       "summary": "# Episode Summary\n\nAnthropic's annualized revenue hit $65 billion—adding $18 billion in just two months—signaling massive enterprise demand for Claude even amid ongoing debates about consent and data transparency. Meanwhile, the AI industry's data hunger is reaching uncomfortable extremes: Google acquired Spirit Airlines' customer data at auction, and Amazon is reportedly destroying rare books to digitize them for training, raising critical questions about consent and regulatory oversight that remain largely unresolved.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-17",
-      "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the AI infrastructure and trust landscape: Stripe's reported $7+ billion acquisition of OpenRouter, which could reshape how companies manage AI model access through unified APIs; the ongoing backlash against Anthropic's invisible watermarking in Claude-generated text, raising questions about consent and transparency; and Anthropic CEO Dario Amodei's argument that the AI industry faces a fundamental \"crisis of trust\" rather than just technical safety challenges. The hosts also highlight Databricks' new AI functions for SQL and conversational warehouse interfaces as examples of how the industry is collapsing the distance between data and decision-making.",
       "keyTopics": []
     }
   ]
