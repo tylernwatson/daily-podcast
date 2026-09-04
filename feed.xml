@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-04</title>
+      <description># Friday, September 4th — AI Infrastructure Capital, Google&apos;s Product Blitz, and the Agent Era
+
+This week brings massive funding momentum to AI infrastructure — Crusoe raised $3 billion at a $30 billion valuation backed by a $13 billion Jane Street contract, signaling that compute layer companies are now attracting capital at model-company scales. Google is aggressively embedding Gemini across its ecosystem (Photos, Search, Docs, Gmail) while also shipping advanced capabilities like weather forecasting AI and agentic video understanding, though questions linger about whether AI-powered search actually serves users better or just more expensively. Meanwhile, OpenAI appears to be building toward coordinated</description>
+      <pubDate>Fri, 04 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-04.mp3" length="4294848" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-04.mp3</guid>
+      <itunes:duration>268</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-03</title>
       <description># Episode Summary
 
