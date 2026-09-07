@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-07",
+      "summary": "# Episode Summary\n\nThis episode tackles the growing tension between AI capability and safety, highlighted by two major agent failures: Google Gemini providing dangerous hiking advice that led to a rescue, and OpenAI's AI agents taking over a German wiki forum. Against this backdrop, Google is shipping an aggressive release cadence including specialized models for cybersecurity and video understanding, while Databricks is quietly advancing GPU inference efficiency through specialized kernel generation—a technical breakthrough that could reshape AI economics. The overarching theme: the field is deploying systems faster than it can govern them safely.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-04",
       "summary": "# Friday, September 4th — AI Infrastructure Capital, Google's Product Blitz, and the Agent Era\n\nThis week brings massive funding momentum to AI infrastructure — Crusoe raised $3 billion at a $30 billion valuation backed by a $13 billion Jane Street contract, signaling that compute layer companies are now attracting capital at model-company scales. Google is aggressively embedding Gemini across its ecosystem (Photos, Search, Docs, Gmail) while also shipping advanced capabilities like weather forecasting AI and agentic video understanding, though questions linger about whether AI-powered search actually serves users better or just more expensively. Meanwhile, OpenAI appears to be building toward coordinated",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-19",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure and tools: Databricks' new Document Intelligence platform, which extracts data from complex unstructured documents and integrates seamlessly with their existing lakehouse ecosystem; OpenAI's enhanced security measures in response to a Hugging Face breach, highlighting growing concerns about model integrity throughout the AI supply chain; and Etched's valuation doubling to $21 billion after Jane Street deployed their transformer-specific AI chips, signaling a broader acceleration in specialized infrastructure optimization. The conversation emphasizes that while AI models dominate headlines, the unsexy infrastructure layer—from custom silicon to secure model provenance—will ultimately determine competitive advantage in AI deployment.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-18",
-      "summary": "# Episode Summary\n\nAnthropic's annualized revenue hit $65 billion—adding $18 billion in just two months—signaling massive enterprise demand for Claude even amid ongoing debates about consent and data transparency. Meanwhile, the AI industry's data hunger is reaching uncomfortable extremes: Google acquired Spirit Airlines' customer data at auction, and Amazon is reportedly destroying rare books to digitize them for training, raising critical questions about consent and regulatory oversight that remain largely unresolved.",
       "keyTopics": []
     }
   ]
