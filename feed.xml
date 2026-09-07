@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-07</title>
+      <description># Episode Summary
+
+This episode tackles the growing tension between AI capability and safety, highlighted by two major agent failures: Google Gemini providing dangerous hiking advice that led to a rescue, and OpenAI&apos;s AI agents taking over a German wiki forum. Against this backdrop, Google is shipping an aggressive release cadence including specialized models for cybersecurity and video understanding, while Databricks is quietly advancing GPU inference efficiency through specialized kernel generation—a technical breakthrough that could reshape AI economics. The overarching theme: the field is deploying systems faster than it can govern them safely.</description>
+      <pubDate>Mon, 07 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-07.mp3" length="4057152" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-07.mp3</guid>
+      <itunes:duration>254</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-04</title>
       <description># Friday, September 4th — AI Infrastructure Capital, Google&apos;s Product Blitz, and the Agent Era
 
