@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-08</title>
+      <description># Data and AI Daily — Tuesday, September 8
+
+Mistral closes a landmark €3 billion funding round at a €21 billion valuation, positioning itself as Europe&apos;s answer to American AI dominance through sovereign AI infrastructure. Google DeepMind continues its aggressive shipping schedule with specialized models for cybersecurity, weather forecasting, and genomics, while Anthropic builds safety guardrails through enterprise contracts and hardware-level AI safety standards. A surprising counterpoint: LibreOffice sets a download record by marketing itself as AI-free software, revealing meaningful user fatigue with AI-everywhere culture.</description>
+      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-08.mp3" length="4099584" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-08.mp3</guid>
+      <itunes:duration>256</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-07</title>
       <description># Episode Summary
 
