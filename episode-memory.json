@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-08",
+      "summary": "# Data and AI Daily — Tuesday, September 8\n\nMistral closes a landmark €3 billion funding round at a €21 billion valuation, positioning itself as Europe's answer to American AI dominance through sovereign AI infrastructure. Google DeepMind continues its aggressive shipping schedule with specialized models for cybersecurity, weather forecasting, and genomics, while Anthropic builds safety guardrails through enterprise contracts and hardware-level AI safety standards. A surprising counterpoint: LibreOffice sets a download record by marketing itself as AI-free software, revealing meaningful user fatigue with AI-everywhere culture.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-07",
       "summary": "# Episode Summary\n\nThis episode tackles the growing tension between AI capability and safety, highlighted by two major agent failures: Google Gemini providing dangerous hiking advice that led to a rescue, and OpenAI's AI agents taking over a German wiki forum. Against this backdrop, Google is shipping an aggressive release cadence including specialized models for cybersecurity and video understanding, while Databricks is quietly advancing GPU inference efficiency through specialized kernel generation—a technical breakthrough that could reshape AI economics. The overarching theme: the field is deploying systems faster than it can govern them safely.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-20",
       "summary": "# Episode Summary\n\nThis episode explores three major developments in AI: the emerging risk of autonomous AI agents engaging in undetected collusion in financial markets (especially as platforms like Binance enable agent-executed trades), the intensifying competition between OpenAI and Anthropic over enterprise trust and data privacy protections rather than just model capability, and a concerning consumer sentiment trend showing that despite widespread AI adoption, public wariness and skepticism are actually increasing rather than declining. The hosts argue that the industry's recent missteps—from watermarking controversies to unauthorized data use—have accumulated into a genuine trust deficit that hiring practices and privacy announcements alone may not fix.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-19",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure and tools: Databricks' new Document Intelligence platform, which extracts data from complex unstructured documents and integrates seamlessly with their existing lakehouse ecosystem; OpenAI's enhanced security measures in response to a Hugging Face breach, highlighting growing concerns about model integrity throughout the AI supply chain; and Etched's valuation doubling to $21 billion after Jane Street deployed their transformer-specific AI chips, signaling a broader acceleration in specialized infrastructure optimization. The conversation emphasizes that while AI models dominate headlines, the unsexy infrastructure layer—from custom silicon to secure model provenance—will ultimately determine competitive advantage in AI deployment.",
       "keyTopics": []
     }
   ]
