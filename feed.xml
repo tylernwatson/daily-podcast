@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-09</title>
+      <description># Episode Summary
+
+This episode covers four major AI developments: an Anthropic safety researcher&apos;s public resignation over concerns that AI labs are &quot;gambling with our lives&quot; and his call for pacing agreements between competitors; Google DeepMind&apos;s aggressive shipping pace, including specialized models for weather, genomics, and cybersecurity that represent a shift toward vertical AI; Databricks&apos; breakthrough retrieval technology (AIR) offering frontier-quality search at half the latency, plus architectural patterns for reliable long-running AI agents; and a data signal showing declining AI spend per employee at major firms, raising questions about adoption saturation versus market maturation. The episode weaves together concerns about safety coordination, commercial competition, technical infrastructure maturity</description>
+      <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-09.mp3" length="4297728" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-09.mp3</guid>
+      <itunes:duration>269</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-08</title>
       <description># Data and AI Daily — Tuesday, September 8
 
