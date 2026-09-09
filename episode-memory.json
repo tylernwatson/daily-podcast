@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-09",
+      "summary": "# Episode Summary\n\nThis episode covers four major AI developments: an Anthropic safety researcher's public resignation over concerns that AI labs are \"gambling with our lives\" and his call for pacing agreements between competitors; Google DeepMind's aggressive shipping pace, including specialized models for weather, genomics, and cybersecurity that represent a shift toward vertical AI; Databricks' breakthrough retrieval technology (AIR) offering frontier-quality search at half the latency, plus architectural patterns for reliable long-running AI agents; and a data signal showing declining AI spend per employee at major firms, raising questions about adoption saturation versus market maturation. The episode weaves together concerns about safety coordination, commercial competition, technical infrastructure maturity",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-08",
       "summary": "# Data and AI Daily — Tuesday, September 8\n\nMistral closes a landmark €3 billion funding round at a €21 billion valuation, positioning itself as Europe's answer to American AI dominance through sovereign AI infrastructure. Google DeepMind continues its aggressive shipping schedule with specialized models for cybersecurity, weather forecasting, and genomics, while Anthropic builds safety guardrails through enterprise contracts and hardware-level AI safety standards. A surprising counterpoint: LibreOffice sets a download record by marketing itself as AI-free software, revealing meaningful user fatigue with AI-everywhere culture.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-21",
       "summary": "# The Data and AI Daily — Friday Edition\n\nThis week's episode breaks down the intensifying competition between OpenAI and Anthropic for enterprise loyalty, revealing that businesses are switching between AI providers based on the latest model releases rather than building sticky long-term relationships. The show also covers Google's expanding AI capabilities—from the efficient Gemini 3.7 Flash model to practical applications like cyclone forecasting—plus actionable guidance from Databricks on simplifying SQL migrations to modern data lakehouses. Finally, a growing community response to Amazon's reported destruction of rare books for AI training data highlights mounting concerns about data ethics and cultural preservation in the AI industry.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-20",
-      "summary": "# Episode Summary\n\nThis episode explores three major developments in AI: the emerging risk of autonomous AI agents engaging in undetected collusion in financial markets (especially as platforms like Binance enable agent-executed trades), the intensifying competition between OpenAI and Anthropic over enterprise trust and data privacy protections rather than just model capability, and a concerning consumer sentiment trend showing that despite widespread AI adoption, public wariness and skepticism are actually increasing rather than declining. The hosts argue that the industry's recent missteps—from watermarking controversies to unauthorized data use—have accumulated into a genuine trust deficit that hiring practices and privacy announcements alone may not fix.",
       "keyTopics": []
     }
   ]
