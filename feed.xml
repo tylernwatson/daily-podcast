@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-10</title>
+      <description># Episode Summary
+
+OpenAI faces a mounting trust crisis as accusations of training on private user conversations and secretly re-enabling data collection settings overshadow the credibility boost of adding AI safety researcher Paul Christiano to its board—all while Amazon launches ad services inside ChatGPT. Meanwhile, Google DeepMind continues its aggressive shipping schedule with new specialized models (including a groundbreaking genomic prediction tool) and weather forecasting capabilities, while Databricks quietly positions itself as the infrastructure partner for AI in regulated financial services, signaling the shift from proof-of-concept to production-ready deployments in high-stakes industries.</description>
+      <pubDate>Thu, 10 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-10.mp3" length="3777984" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-10.mp3</guid>
+      <itunes:duration>236</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-09</title>
       <description># Episode Summary
 
