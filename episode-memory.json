@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-10",
+      "summary": "# Episode Summary\n\nOpenAI faces a mounting trust crisis as accusations of training on private user conversations and secretly re-enabling data collection settings overshadow the credibility boost of adding AI safety researcher Paul Christiano to its board—all while Amazon launches ad services inside ChatGPT. Meanwhile, Google DeepMind continues its aggressive shipping schedule with new specialized models (including a groundbreaking genomic prediction tool) and weather forecasting capabilities, while Databricks quietly positions itself as the infrastructure partner for AI in regulated financial services, signaling the shift from proof-of-concept to production-ready deployments in high-stakes industries.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-09",
       "summary": "# Episode Summary\n\nThis episode covers four major AI developments: an Anthropic safety researcher's public resignation over concerns that AI labs are \"gambling with our lives\" and his call for pacing agreements between competitors; Google DeepMind's aggressive shipping pace, including specialized models for weather, genomics, and cybersecurity that represent a shift toward vertical AI; Databricks' breakthrough retrieval technology (AIR) offering frontier-quality search at half the latency, plus architectural patterns for reliable long-running AI agents; and a data signal showing declining AI spend per employee at major firms, raising questions about adoption saturation versus market maturation. The episode weaves together concerns about safety coordination, commercial competition, technical infrastructure maturity",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-24",
       "summary": "# Episode Summary\n\nThis episode explores three critical tensions shaping the AI industry: despite massive revenue growth, even the most advanced models are losing users to cheaper alternatives that are \"good enough\" for most tasks, forcing labs to reconsider their pricing and positioning strategies. A mysterious new model called Ox Alpha appeared over the weekend with no clear attribution, sparking intrigue about how performance-based credibility is now outpacing brand recognition in the market. The episode also digs into the unresolved legal risks around training AI on copyrighted material, the real business implications of data provenance for companies building on these models, and how enterprise AI is actually winning through data architecture and security—not raw capability—in platforms like",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-21",
-      "summary": "# The Data and AI Daily — Friday Edition\n\nThis week's episode breaks down the intensifying competition between OpenAI and Anthropic for enterprise loyalty, revealing that businesses are switching between AI providers based on the latest model releases rather than building sticky long-term relationships. The show also covers Google's expanding AI capabilities—from the efficient Gemini 3.7 Flash model to practical applications like cyclone forecasting—plus actionable guidance from Databricks on simplifying SQL migrations to modern data lakehouses. Finally, a growing community response to Amazon's reported destruction of rare books for AI training data highlights mounting concerns about data ethics and cultural preservation in the AI industry.",
       "keyTopics": []
     }
   ]
