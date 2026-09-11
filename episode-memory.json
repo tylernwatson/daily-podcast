@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-11",
+      "summary": "# Data and AI Daily Summary\n\nThis week's AI landscape is marked by deepening trust concerns at OpenAI—including allegations of unauthorized data use and privacy breaches—while competitors like Anthropic and Google DeepMind are capitalizing on the credibility gap. Anthropic published a bombshell report documenting systematic model distillation attacks by Chinese AI companies, repositioning themselves as the responsible alternative, while Google DeepMind continues its relentless shipping pace with breakthroughs like AlphaGenome Atlas and specialized domain models. Meanwhile, enterprise adoption is accelerating across financial services, healthcare, and cybersecurity, with platforms like Databricks focusing on the unsexy-but-essential work",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-10",
       "summary": "# Episode Summary\n\nOpenAI faces a mounting trust crisis as accusations of training on private user conversations and secretly re-enabling data collection settings overshadow the credibility boost of adding AI safety researcher Paul Christiano to its board—all while Amazon launches ad services inside ChatGPT. Meanwhile, Google DeepMind continues its aggressive shipping schedule with new specialized models (including a groundbreaking genomic prediction tool) and weather forecasting capabilities, while Databricks quietly positions itself as the infrastructure partner for AI in regulated financial services, signaling the shift from proof-of-concept to production-ready deployments in high-stakes industries.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-25",
       "summary": "# Data and AI Daily — August 25th\n\nThis episode digs into three major stories reshaping the AI landscape: the dramatic fall of Situational Awareness, an AI hedge fund facing SEC investigation over autonomous trading decisions that raises urgent questions about regulatory oversight of AI agents in finance; the privacy risks embedded in Instinct, a powerful new AI assistant that's generating buzz for its capabilities while raising red flags about data access and user consent; and important developments from Databricks on AI-assisted incident response, local IDE integration, and enterprise security features. Plus, we break down an emerging research concern about \"model collapse\" — the risk that AI models trained on AI-generated data degrade over time — and check in on General",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-24",
-      "summary": "# Episode Summary\n\nThis episode explores three critical tensions shaping the AI industry: despite massive revenue growth, even the most advanced models are losing users to cheaper alternatives that are \"good enough\" for most tasks, forcing labs to reconsider their pricing and positioning strategies. A mysterious new model called Ox Alpha appeared over the weekend with no clear attribution, sparking intrigue about how performance-based credibility is now outpacing brand recognition in the market. The episode also digs into the unresolved legal risks around training AI on copyrighted material, the real business implications of data provenance for companies building on these models, and how enterprise AI is actually winning through data architecture and security—not raw capability—in platforms like",
       "keyTopics": []
     }
   ]
