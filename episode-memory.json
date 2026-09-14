@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-14",
+      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Microsoft's newly published AI code of conduct establishing ethical guardrails for model behavior, positioning trustworthiness as a competitive advantage amid growing concerns about AI safety and adversarial attacks; Google DeepMind's impressive shipping velocity across specialized domains like cybersecurity and weather prediction, signaling a shift in competitive dynamics that threatens startups building in vertical-specific AI; and Databricks' strategic positioning in enterprise AI, demonstrating how to embed AI into existing workflows in regulated industries like healthcare and financial services through practical data infrastructure solutions.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-11",
       "summary": "# Data and AI Daily Summary\n\nThis week's AI landscape is marked by deepening trust concerns at OpenAI—including allegations of unauthorized data use and privacy breaches—while competitors like Anthropic and Google DeepMind are capitalizing on the credibility gap. Anthropic published a bombshell report documenting systematic model distillation attacks by Chinese AI companies, repositioning themselves as the responsible alternative, while Google DeepMind continues its relentless shipping pace with breakthroughs like AlphaGenome Atlas and specialized domain models. Meanwhile, enterprise adoption is accelerating across financial services, healthcare, and cybersecurity, with platforms like Databricks focusing on the unsexy-but-essential work",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-26",
       "summary": "# Episode Summary\n\nDatabricks launches Governance Hub, a new enterprise-level tool for managing data costs, access controls, and compliance across deployments—signaling a shift toward industry-specific solutions in financial services and beyond. Meanwhile, OpenAI's Jalapeño chip claims to outperform Nvidia's Blackwell architecture, potentially reshaping AI hardware competition, though recent executive departures raise questions about internal stability during this critical infrastructure bet.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-25",
-      "summary": "# Data and AI Daily — August 25th\n\nThis episode digs into three major stories reshaping the AI landscape: the dramatic fall of Situational Awareness, an AI hedge fund facing SEC investigation over autonomous trading decisions that raises urgent questions about regulatory oversight of AI agents in finance; the privacy risks embedded in Instinct, a powerful new AI assistant that's generating buzz for its capabilities while raising red flags about data access and user consent; and important developments from Databricks on AI-assisted incident response, local IDE integration, and enterprise security features. Plus, we break down an emerging research concern about \"model collapse\" — the risk that AI models trained on AI-generated data degrade over time — and check in on General",
       "keyTopics": []
     }
   ]
