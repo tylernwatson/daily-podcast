@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-14</title>
+      <description># Episode Summary
+
+This episode covers three major AI industry developments: Microsoft&apos;s newly published AI code of conduct establishing ethical guardrails for model behavior, positioning trustworthiness as a competitive advantage amid growing concerns about AI safety and adversarial attacks; Google DeepMind&apos;s impressive shipping velocity across specialized domains like cybersecurity and weather prediction, signaling a shift in competitive dynamics that threatens startups building in vertical-specific AI; and Databricks&apos; strategic positioning in enterprise AI, demonstrating how to embed AI into existing workflows in regulated industries like healthcare and financial services through practical data infrastructure solutions.</description>
+      <pubDate>Mon, 14 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-14.mp3" length="3979392" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-14.mp3</guid>
+      <itunes:duration>249</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-11</title>
       <description># Data and AI Daily Summary
 
