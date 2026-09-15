@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-15</title>
+      <description># Episode Summary
+
+This episode covers Google DeepMind&apos;s aggressive release schedule—including Gemini 3.8 Flash, Flash Cyber, and WeatherNext 3—and what it means for AI startups facing competition from free, frontier-quality models in their domains. The discussion also highlights major funding milestones, including Profound&apos;s unicorn status in the emerging Answer Engine Optimization space and AIUC&apos;s Series A for AI agent risk management, alongside OpenAI&apos;s surprise $300M acquisition of Glass Imaging as a potential signal of their hardware ambitions. The episode closes with Databricks product updates, including improved managed Postgres capabilities and stateful streaming upgrades targeting data engineering teams at scale</description>
+      <pubDate>Tue, 15 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-15.mp3" length="4544832" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-15.mp3</guid>
+      <itunes:duration>284</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-14</title>
       <description># Episode Summary
 
