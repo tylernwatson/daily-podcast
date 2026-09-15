@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-15",
+      "summary": "# Episode Summary\n\nThis episode covers Google DeepMind's aggressive release schedule—including Gemini 3.8 Flash, Flash Cyber, and WeatherNext 3—and what it means for AI startups facing competition from free, frontier-quality models in their domains. The discussion also highlights major funding milestones, including Profound's unicorn status in the emerging Answer Engine Optimization space and AIUC's Series A for AI agent risk management, alongside OpenAI's surprise $300M acquisition of Glass Imaging as a potential signal of their hardware ambitions. The episode closes with Databricks product updates, including improved managed Postgres capabilities and stateful streaming upgrades targeting data engineering teams at scale",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-14",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Microsoft's newly published AI code of conduct establishing ethical guardrails for model behavior, positioning trustworthiness as a competitive advantage amid growing concerns about AI safety and adversarial attacks; Google DeepMind's impressive shipping velocity across specialized domains like cybersecurity and weather prediction, signaling a shift in competitive dynamics that threatens startups building in vertical-specific AI; and Databricks' strategic positioning in enterprise AI, demonstrating how to embed AI into existing workflows in regulated industries like healthcare and financial services through practical data infrastructure solutions.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-27",
       "summary": "# Podcast Summary\n\nThis episode covers Databricks' launch of Lakebase, a new database architecture designed specifically for AI agents that separates compute from storage to handle high-frequency reads and writes at scale, along with new capabilities for extracting data from charts and presentations at the upcoming VLDB conference. Anthropic enters the hardware standards space with its Model Hardware Standard preview while expanding support for scientific research and AI wellbeing studies. The broader conversation centers on enterprise governance challenges as fleets of autonomous agents interact without human approval at each step—requiring controls built into the data layer rather than just policy documents.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-26",
-      "summary": "# Episode Summary\n\nDatabricks launches Governance Hub, a new enterprise-level tool for managing data costs, access controls, and compliance across deployments—signaling a shift toward industry-specific solutions in financial services and beyond. Meanwhile, OpenAI's Jalapeño chip claims to outperform Nvidia's Blackwell architecture, potentially reshaping AI hardware competition, though recent executive departures raise questions about internal stability during this critical infrastructure bet.",
       "keyTopics": []
     }
   ]
