@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-16</title>
+      <description># Episode Summary
+
+Databricks is making AI genuinely useful in regulated industries by building governable workflows—like collapsing the gap between data requests and decisions in marketing, and automating theft detection in energy utilities with proper audit trails—positioning itself as the platform for AI that needs to survive legal and compliance scrutiny. Meanwhile, Google DeepMind continues releasing models at an unprecedented pace (Live, Extended Thinking, and more this week alone), intensifying pressure on startups differentiated primarily by inference quality and reshaping what it means to compete on the frontier. The episode also explores emerging tensions around AI-assisted coding&apos;s hidden structural costs and Mozilla-Mistral&apos;s bet on privacy-first AI browsing.</description>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-16.mp3" length="3941760" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-16.mp3</guid>
+      <itunes:duration>246</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-15</title>
       <description># Episode Summary
 
