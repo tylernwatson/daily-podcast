@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-16",
+      "summary": "# Episode Summary\n\nDatabricks is making AI genuinely useful in regulated industries by building governable workflows—like collapsing the gap between data requests and decisions in marketing, and automating theft detection in energy utilities with proper audit trails—positioning itself as the platform for AI that needs to survive legal and compliance scrutiny. Meanwhile, Google DeepMind continues releasing models at an unprecedented pace (Live, Extended Thinking, and more this week alone), intensifying pressure on startups differentiated primarily by inference quality and reshaping what it means to compete on the frontier. The episode also explores emerging tensions around AI-assisted coding's hidden structural costs and Mozilla-Mistral's bet on privacy-first AI browsing.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-15",
       "summary": "# Episode Summary\n\nThis episode covers Google DeepMind's aggressive release schedule—including Gemini 3.8 Flash, Flash Cyber, and WeatherNext 3—and what it means for AI startups facing competition from free, frontier-quality models in their domains. The discussion also highlights major funding milestones, including Profound's unicorn status in the emerging Answer Engine Optimization space and AIUC's Series A for AI agent risk management, alongside OpenAI's surprise $300M acquisition of Glass Imaging as a potential signal of their hardware ambitions. The episode closes with Databricks product updates, including improved managed Postgres capabilities and stateful streaming upgrades targeting data engineering teams at scale",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-28",
       "summary": "# Episode Summary\n\nThis week in AI brings major developments across safety, infrastructure, and enterprise tools: Anthropic published research on self-improving AI that successfully reduced misaligned behaviors across the board without sacrificing general performance, while also winning a federal court case against government supply-chain restrictions. On the infrastructure side, GPU leasing company Lambda raised $1 billion in debt to meet skyrocketing chip demand, though that bet faces risk from emerging custom silicon. Meanwhile, Databricks upgraded its Genie analytics assistant to move beyond answering questions—it now takes autonomous action directly within the data layer, embedding agentic capabilities into a platform already built with governance controls.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-27",
-      "summary": "# Podcast Summary\n\nThis episode covers Databricks' launch of Lakebase, a new database architecture designed specifically for AI agents that separates compute from storage to handle high-frequency reads and writes at scale, along with new capabilities for extracting data from charts and presentations at the upcoming VLDB conference. Anthropic enters the hardware standards space with its Model Hardware Standard preview while expanding support for scientific research and AI wellbeing studies. The broader conversation centers on enterprise governance challenges as fleets of autonomous agents interact without human approval at each step—requiring controls built into the data layer rather than just policy documents.",
       "keyTopics": []
     }
   ]
