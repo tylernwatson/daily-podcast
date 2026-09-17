@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-17",
+      "summary": "# Episode Summary\n\nThis week brings major developments across AI infrastructure and capabilities: AI agents from Instinct and Meta are now making real phone calls on users' behalf to handle tasks like restaurant reservations and subscription cancellations, signaling a shift from chatbots to action-taking assistants. Meanwhile, geopolitical competition in AI compute is intensifying with Huawei accelerating its Ascend chip to challenge Nvidia's dominance, while Google, Nvidia, Anthropic, and others form a coalition to secure 100 gigawatts of grid capacity—revealing that electricity, not algorithms, is now the critical constraint on AI scaling.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-16",
       "summary": "# Episode Summary\n\nDatabricks is making AI genuinely useful in regulated industries by building governable workflows—like collapsing the gap between data requests and decisions in marketing, and automating theft detection in energy utilities with proper audit trails—positioning itself as the platform for AI that needs to survive legal and compliance scrutiny. Meanwhile, Google DeepMind continues releasing models at an unprecedented pace (Live, Extended Thinking, and more this week alone), intensifying pressure on startups differentiated primarily by inference quality and reshaping what it means to compete on the frontier. The episode also explores emerging tensions around AI-assisted coding's hidden structural costs and Mozilla-Mistral's bet on privacy-first AI browsing.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-08-31",
       "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure: Databricks' launch of autoscaling for its Lakebase Postgres database, positioning it as a fully realized system for agentic AI workloads; Nvidia's $3.5 billion investment in MediaTek as a strategic hedge against custom silicon threats from hyperscalers; and Clipto, a video search startup that achieved profitability on $15M ARR before raising $15M at a $250M valuation. The broader theme ties enterprise AI complexity—particularly around governing multi-agent systems—to architectural choices that platforms like Databricks are making around data-layer governance.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-28",
-      "summary": "# Episode Summary\n\nThis week in AI brings major developments across safety, infrastructure, and enterprise tools: Anthropic published research on self-improving AI that successfully reduced misaligned behaviors across the board without sacrificing general performance, while also winning a federal court case against government supply-chain restrictions. On the infrastructure side, GPU leasing company Lambda raised $1 billion in debt to meet skyrocketing chip demand, though that bet faces risk from emerging custom silicon. Meanwhile, Databricks upgraded its Genie analytics assistant to move beyond answering questions—it now takes autonomous action directly within the data layer, embedding agentic capabilities into a platform already built with governance controls.",
       "keyTopics": []
     }
   ]
