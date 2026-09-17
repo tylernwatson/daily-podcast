@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-17</title>
+      <description># Episode Summary
+
+This week brings major developments across AI infrastructure and capabilities: AI agents from Instinct and Meta are now making real phone calls on users&apos; behalf to handle tasks like restaurant reservations and subscription cancellations, signaling a shift from chatbots to action-taking assistants. Meanwhile, geopolitical competition in AI compute is intensifying with Huawei accelerating its Ascend chip to challenge Nvidia&apos;s dominance, while Google, Nvidia, Anthropic, and others form a coalition to secure 100 gigawatts of grid capacity—revealing that electricity, not algorithms, is now the critical constraint on AI scaling.</description>
+      <pubDate>Thu, 17 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-17.mp3" length="3918912" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-17.mp3</guid>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-16</title>
       <description># Episode Summary
 
