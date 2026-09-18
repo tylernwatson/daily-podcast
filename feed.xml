@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-18</title>
+      <description># Episode Summary
+
+This week covers three major stories reshaping AI: security researchers used Anthropic&apos;s Claude to uncover real vulnerabilities in OpenAI&apos;s systems, raising urgent questions about AI models as attack tools and the gap between capability and safety. Meanwhile, Crusoe&apos;s $3.9 billion funding round signals that AI infrastructure—specifically energy and physical compute—has become its own trillion-dollar race, with companies building distributed &quot;AI factories&quot; closer to power sources rather than traditional hyperscale data centers. Finally, Databricks makes the case that enterprise AI agents need purpose-built databases and search infrastructure designed for concurrent, stateful reasoning rather than bolted-on legacy systems.</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-18.mp3" length="4494336" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-18.mp3</guid>
+      <itunes:duration>281</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-17</title>
       <description># Episode Summary
 
