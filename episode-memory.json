@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-18",
+      "summary": "# Episode Summary\n\nThis week covers three major stories reshaping AI: security researchers used Anthropic's Claude to uncover real vulnerabilities in OpenAI's systems, raising urgent questions about AI models as attack tools and the gap between capability and safety. Meanwhile, Crusoe's $3.9 billion funding round signals that AI infrastructure—specifically energy and physical compute—has become its own trillion-dollar race, with companies building distributed \"AI factories\" closer to power sources rather than traditional hyperscale data centers. Finally, Databricks makes the case that enterprise AI agents need purpose-built databases and search infrastructure designed for concurrent, stateful reasoning rather than bolted-on legacy systems.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-17",
       "summary": "# Episode Summary\n\nThis week brings major developments across AI infrastructure and capabilities: AI agents from Instinct and Meta are now making real phone calls on users' behalf to handle tasks like restaurant reservations and subscription cancellations, signaling a shift from chatbots to action-taking assistants. Meanwhile, geopolitical competition in AI compute is intensifying with Huawei accelerating its Ascend chip to challenge Nvidia's dominance, while Google, Nvidia, Anthropic, and others form a coalition to secure 100 gigawatts of grid capacity—revealing that electricity, not algorithms, is now the critical constraint on AI scaling.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-01",
       "summary": "# Episode Summary\n\nThis episode covers four major AI stories: Databricks' new Genie Ontology semantic layer that enables AI agents to understand business context and make autonomous decisions safely, plus their expanded partner ecosystem through the relaunched Brickbuilder network; Google's rapid model releases including a new intelligent transcription tool and commitment to rigorous double-blind AI evaluations; the Pentagon's official deployment of a multi-model AI portal featuring ChatGPT, Grok, and Gemini for government use; and Instagram's enforcement of disclosure requirements for AI influencer accounts. The throughline connecting these stories is that enterprise AI is moving from single-model experiments to governed, multi-model production deployments across",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-08-31",
-      "summary": "# Episode Summary\n\nThis episode covers three major developments in AI infrastructure: Databricks' launch of autoscaling for its Lakebase Postgres database, positioning it as a fully realized system for agentic AI workloads; Nvidia's $3.5 billion investment in MediaTek as a strategic hedge against custom silicon threats from hyperscalers; and Clipto, a video search startup that achieved profitability on $15M ARR before raising $15M at a $250M valuation. The broader theme ties enterprise AI complexity—particularly around governing multi-agent systems—to architectural choices that platforms like Databricks are making around data-layer governance.",
       "keyTopics": []
     }
   ]
