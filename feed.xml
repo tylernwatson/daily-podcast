@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-21</title>
+      <description># Today&apos;s Episode Summary
+
+This episode covers three major developments reshaping enterprise AI: Anthropic&apos;s partnership with Accenture to embed AI safety evaluation directly into consulting workflows, positioning the company as a trust leader in regulated industries; Google&apos;s new $899 Gemini-powered laptop representing a bet that AI integration across hardware and software is worth the price premium; and Databricks&apos; push to reposition itself as the observability and database layer for the AI agent era, introducing frameworks like RADAR to catch subtle data failures invisible to traditional monitoring. The episode also flags Tabby, a startup applying AI to real-time bookkeeping, as part of a broader wave of AI tools automating high-stakes professional workflows</description>
+      <pubDate>Mon, 21 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-21.mp3" length="4287552" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-21.mp3</guid>
+      <itunes:duration>268</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-18</title>
       <description># Episode Summary
 
