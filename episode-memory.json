@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-22",
+      "summary": "# Episode Summary\n\nThis episode covers three major AI developments: OpenAI's GPT-6 Astra successfully decrypting a 20-year-old Enigma cipher, demonstrating advanced reasoning capabilities that signal a major competitive advantage in frontier models; Meta's Muse AI assistant facing a serious zero-day vulnerability that highlights the security risks when highly integrated, privileged AI systems are compromised; and AstroForge deploying an autonomous AI model to navigate a spacecraft millions of miles from Earth, exemplifying the future of agentic AI in high-stakes, latency-constrained environments. The episode also examines Databricks' strategic focus on building the infrastructure layer—data quality, database",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-21",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major developments reshaping enterprise AI: Anthropic's partnership with Accenture to embed AI safety evaluation directly into consulting workflows, positioning the company as a trust leader in regulated industries; Google's new $899 Gemini-powered laptop representing a bet that AI integration across hardware and software is worth the price premium; and Databricks' push to reposition itself as the observability and database layer for the AI agent era, introducing frameworks like RADAR to catch subtle data failures invisible to traditional monitoring. The episode also flags Tabby, a startup applying AI to real-time bookkeeping, as part of a broader wave of AI tools automating high-stakes professional workflows",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-03",
       "summary": "# Episode Summary\n\nNvidia's confirmed $12.9 billion acquisition of Hugging Face marks a major shift in AI infrastructure, giving the chip giant control over a platform hosting 3 million models used by 18 million developers—raising questions about whether the historically neutral open-source hub can remain vendor-agnostic under Nvidia ownership. Meanwhile, Databricks is expanding its Genie Agent platform with new capabilities like file reasoning and deep analysis, alongside a broader push toward enterprise-grade AI agent operations and cost management, while Google continues its aggressive release cycle with new Gemini variants, cybersecurity-focused models, and improved video understanding capabilities.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-02",
-      "summary": "# Episode Summary\n\nThis episode covers four major developments in enterprise AI: Databricks' launch of \"AgentOps,\" a new operating discipline for managing AI agent fleets in production; AfterQuery's remarkable 10x valuation jump in five months, making it the fastest Y Combinator unicorn; HiddenLayer's $100M Series B to secure AI deployments against adversarial attacks and model theft; and Anthropic's new Enterprise Frontier Safeguards program, which embeds safety standards directly into enterprise contracts. The common thread is a maturing AI market shifting from experimentation to infrastructure, with serious capital flowing toward data quality, security, and operational governance.",
       "keyTopics": []
     }
   ]
