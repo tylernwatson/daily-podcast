@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-22</title>
+      <description># Episode Summary
+
+This episode covers three major AI developments: OpenAI&apos;s GPT-6 Astra successfully decrypting a 20-year-old Enigma cipher, demonstrating advanced reasoning capabilities that signal a major competitive advantage in frontier models; Meta&apos;s Muse AI assistant facing a serious zero-day vulnerability that highlights the security risks when highly integrated, privileged AI systems are compromised; and AstroForge deploying an autonomous AI model to navigate a spacecraft millions of miles from Earth, exemplifying the future of agentic AI in high-stakes, latency-constrained environments. The episode also examines Databricks&apos; strategic focus on building the infrastructure layer—data quality, database</description>
+      <pubDate>Tue, 22 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-22.mp3" length="4054656" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-22.mp3</guid>
+      <itunes:duration>253</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-21</title>
       <description># Today&apos;s Episode Summary
 
