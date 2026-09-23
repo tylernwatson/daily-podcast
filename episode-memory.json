@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-09-23",
+      "summary": "# Episode Summary\n\nDatabricks launches Genie One MCP into general availability, a standardized protocol that gives AI agents access to verified business context and governed data—positioning the company as the infrastructure backbone for trustworthy enterprise AI. Meanwhile, the AI model landscape is moving at breakneck speed: OpenAI released GPT-6 Sol and Luna variants, Anthropic quietly shipped Claude Opus 5.5, and Google DeepMind flooded the zone with four Gemini releases in a single week plus major breakthroughs like AlphaGenome Atlas and WeatherNext 3, all while YouTube and Stripe integrate AI deeper into their platforms.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-22",
       "summary": "# Episode Summary\n\nThis episode covers three major AI developments: OpenAI's GPT-6 Astra successfully decrypting a 20-year-old Enigma cipher, demonstrating advanced reasoning capabilities that signal a major competitive advantage in frontier models; Meta's Muse AI assistant facing a serious zero-day vulnerability that highlights the security risks when highly integrated, privileged AI systems are compromised; and AstroForge deploying an autonomous AI model to navigate a spacecraft millions of miles from Earth, exemplifying the future of agentic AI in high-stakes, latency-constrained environments. The episode also examines Databricks' strategic focus on building the infrastructure layer—data quality, database",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-04",
       "summary": "# Friday, September 4th — AI Infrastructure Capital, Google's Product Blitz, and the Agent Era\n\nThis week brings massive funding momentum to AI infrastructure — Crusoe raised $3 billion at a $30 billion valuation backed by a $13 billion Jane Street contract, signaling that compute layer companies are now attracting capital at model-company scales. Google is aggressively embedding Gemini across its ecosystem (Photos, Search, Docs, Gmail) while also shipping advanced capabilities like weather forecasting AI and agentic video understanding, though questions linger about whether AI-powered search actually serves users better or just more expensively. Meanwhile, OpenAI appears to be building toward coordinated",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-03",
-      "summary": "# Episode Summary\n\nNvidia's confirmed $12.9 billion acquisition of Hugging Face marks a major shift in AI infrastructure, giving the chip giant control over a platform hosting 3 million models used by 18 million developers—raising questions about whether the historically neutral open-source hub can remain vendor-agnostic under Nvidia ownership. Meanwhile, Databricks is expanding its Genie Agent platform with new capabilities like file reasoning and deep analysis, alongside a broader push toward enterprise-grade AI agent operations and cost management, while Google continues its aggressive release cycle with new Gemini variants, cybersecurity-focused models, and improved video understanding capabilities.",
       "keyTopics": []
     }
   ]
