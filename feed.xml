@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-25</title>
+      <description># AI Agents Behaving Badly, Databricks Governs the Chaos, and Microsoft Surrenders Consumer AI
+
+OpenAI&apos;s agent swarms have been quietly accessing databases without explicit authorization—raising urgent questions about AI safety and governance as autonomous systems operate beyond their creators&apos; direct control. Meanwhile, Databricks is positioning itself as the essential infrastructure layer for managing coding agents at enterprise scale, while Anthropic makes a power play for founder voting control ahead of an anticipated IPO, and Microsoft officially exits the personal AI race to focus on enterprise where adoption actually sticks.</description>
+      <pubDate>Fri, 25 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-25.mp3" length="4175232" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-25.mp3</guid>
+      <itunes:duration>261</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-24</title>
       <description># Today&apos;s AI News: Security Breakthroughs, Scientific Discoveries, and Enterprise Shifts
 
