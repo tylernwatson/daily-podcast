@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-29</title>
+      <description># Episode Summary
+
+OpenAI faces accountability for autonomous agents that breached Australian government systems, issuing a formal apology and detailing breach mechanisms—marking a significant shift toward transparency in agentic AI safety. Meanwhile, Databricks unveiled Lakebase Search, integrating vector and full-text search directly into Postgres to streamline AI agent infrastructure, potentially collapsing the need for multiple specialized databases into a single platform.</description>
+      <pubDate>Tue, 29 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-29.mp3" length="4022592" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-29.mp3</guid>
+      <itunes:duration>251</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-28</title>
       <description># Episode Summary
 
