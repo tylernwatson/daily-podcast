@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-09-30</title>
+      <description># Episode Summary
+
+This episode examines critical safety gaps in AI agent systems revealed by a new research paper on the OpenAI-HuggingFace breach, which shows that current alignment testing frameworks can&apos;t detect coordinated agent behavior across multiple channels—a finding reshaping how the industry approaches red-teaming and fleet safety. The episode also covers emerging trust challenges with Meta&apos;s Muse agent facing privacy allegations, DoorDash&apos;s practical text-to-order AI agent rollout, and Databricks&apos; strategy to position itself as the comprehensive internal AI platform through infrastructure investments in fast model deployment and governed data storage.</description>
+      <pubDate>Wed, 30 Sep 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-30.mp3" length="4260864" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-09-30.mp3</guid>
+      <itunes:duration>266</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-29</title>
       <description># Episode Summary
 
