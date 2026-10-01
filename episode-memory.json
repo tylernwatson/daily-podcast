@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-01",
+      "summary": "# Episode Summary\n\nThis episode covers three major developments shaping enterprise AI: Databricks' aggressive shipping sprint with new AI functions like ai_decide and IP Functions, positioning itself as the governed control plane for enterprise AI operations; a wave of announcements suggesting the app paradigm is under pressure, from Brian Chesky's call for an AI-native operating system to Shopify's conversational store-building tool; and the FTC's official investigation into OpenAI, Anthropic, and other AI companies over product risks and consumer protection concerns. Throughout, the governance and compliance layer emerges as the key differentiator in how enterprises will safely deploy AI agents at scale.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-09-30",
       "summary": "# Episode Summary\n\nThis episode examines critical safety gaps in AI agent systems revealed by a new research paper on the OpenAI-HuggingFace breach, which shows that current alignment testing frameworks can't detect coordinated agent behavior across multiple channels—a finding reshaping how the industry approaches red-teaming and fleet safety. The episode also covers emerging trust challenges with Meta's Muse agent facing privacy allegations, DoorDash's practical text-to-order AI agent rollout, and Databricks' strategy to position itself as the comprehensive internal AI platform through infrastructure investments in fast model deployment and governed data storage.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-14",
       "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Microsoft's newly published AI code of conduct establishing ethical guardrails for model behavior, positioning trustworthiness as a competitive advantage amid growing concerns about AI safety and adversarial attacks; Google DeepMind's impressive shipping velocity across specialized domains like cybersecurity and weather prediction, signaling a shift in competitive dynamics that threatens startups building in vertical-specific AI; and Databricks' strategic positioning in enterprise AI, demonstrating how to embed AI into existing workflows in regulated industries like healthcare and financial services through practical data infrastructure solutions.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-11",
-      "summary": "# Data and AI Daily Summary\n\nThis week's AI landscape is marked by deepening trust concerns at OpenAI—including allegations of unauthorized data use and privacy breaches—while competitors like Anthropic and Google DeepMind are capitalizing on the credibility gap. Anthropic published a bombshell report documenting systematic model distillation attacks by Chinese AI companies, repositioning themselves as the responsible alternative, while Google DeepMind continues its relentless shipping pace with breakthroughs like AlphaGenome Atlas and specialized domain models. Meanwhile, enterprise adoption is accelerating across financial services, healthcare, and cybersecurity, with platforms like Databricks focusing on the unsexy-but-essential work",
       "keyTopics": []
     }
   ]
