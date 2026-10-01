@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-01</title>
+      <description># Episode Summary
+
+This episode covers three major developments shaping enterprise AI: Databricks&apos; aggressive shipping sprint with new AI functions like ai_decide and IP Functions, positioning itself as the governed control plane for enterprise AI operations; a wave of announcements suggesting the app paradigm is under pressure, from Brian Chesky&apos;s call for an AI-native operating system to Shopify&apos;s conversational store-building tool; and the FTC&apos;s official investigation into OpenAI, Anthropic, and other AI companies over product risks and consumer protection concerns. Throughout, the governance and compliance layer emerges as the key differentiator in how enterprises will safely deploy AI agents at scale.</description>
+      <pubDate>Thu, 01 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-01.mp3" length="4106496" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-01.mp3</guid>
+      <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-09-30</title>
       <description># Episode Summary
 
