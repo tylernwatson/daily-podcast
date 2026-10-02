@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-02",
+      "summary": "# Episode Summary\n\nThis week brings major moves from Google, Anthropic, and Databricks alongside some cautionary tales about AI governance. Google unveiled Gemini 4 Argon as their next-generation frontier model alongside full-stack AI infrastructure releases focused on enterprise trust and data privacy, while Anthropic made waves with Claude discovering a novel enzyme system and Barclays announcing production-scale deployment across their operations. Meanwhile, Databricks hit a platform milestone with over one million Genie Agents created this year and expanded its lakehouse capabilities for real-time retail AI, but the episode concludes with an alarming story about President Trump reportedly consulting Elon Musk's Grok chatbot",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-01",
       "summary": "# Episode Summary\n\nThis episode covers three major developments shaping enterprise AI: Databricks' aggressive shipping sprint with new AI functions like ai_decide and IP Functions, positioning itself as the governed control plane for enterprise AI operations; a wave of announcements suggesting the app paradigm is under pressure, from Brian Chesky's call for an AI-native operating system to Shopify's conversational store-building tool; and the FTC's official investigation into OpenAI, Anthropic, and other AI companies over product risks and consumer protection concerns. Throughout, the governance and compliance layer emerges as the key differentiator in how enterprises will safely deploy AI agents at scale.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-15",
       "summary": "# Episode Summary\n\nThis episode covers Google DeepMind's aggressive release schedule—including Gemini 3.8 Flash, Flash Cyber, and WeatherNext 3—and what it means for AI startups facing competition from free, frontier-quality models in their domains. The discussion also highlights major funding milestones, including Profound's unicorn status in the emerging Answer Engine Optimization space and AIUC's Series A for AI agent risk management, alongside OpenAI's surprise $300M acquisition of Glass Imaging as a potential signal of their hardware ambitions. The episode closes with Databricks product updates, including improved managed Postgres capabilities and stateful streaming upgrades targeting data engineering teams at scale",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-14",
-      "summary": "# Episode Summary\n\nThis episode covers three major AI industry developments: Microsoft's newly published AI code of conduct establishing ethical guardrails for model behavior, positioning trustworthiness as a competitive advantage amid growing concerns about AI safety and adversarial attacks; Google DeepMind's impressive shipping velocity across specialized domains like cybersecurity and weather prediction, signaling a shift in competitive dynamics that threatens startups building in vertical-specific AI; and Databricks' strategic positioning in enterprise AI, demonstrating how to embed AI into existing workflows in regulated industries like healthcare and financial services through practical data infrastructure solutions.",
       "keyTopics": []
     }
   ]
