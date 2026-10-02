@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-02</title>
+      <description># Episode Summary
+
+This week brings major moves from Google, Anthropic, and Databricks alongside some cautionary tales about AI governance. Google unveiled Gemini 4 Argon as their next-generation frontier model alongside full-stack AI infrastructure releases focused on enterprise trust and data privacy, while Anthropic made waves with Claude discovering a novel enzyme system and Barclays announcing production-scale deployment across their operations. Meanwhile, Databricks hit a platform milestone with over one million Genie Agents created this year and expanded its lakehouse capabilities for real-time retail AI, but the episode concludes with an alarming story about President Trump reportedly consulting Elon Musk&apos;s Grok chatbot</description>
+      <pubDate>Fri, 02 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-02.mp3" length="4238784" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-02.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-01</title>
       <description># Episode Summary
 
