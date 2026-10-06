@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-06</title>
+      <description># Episode Summary
+
+This episode covers major developments across the AI and data infrastructure landscape: Databricks is steadily consolidating the data stack with new vector search capabilities, catalog management APIs, and integrations like Meta&apos;s ads MCP server, while also emphasizing enterprise trust through open standards. Meanwhile, Mistral has launched a trillion-parameter multimodal model positioning Europe as a frontier AI competitor, and Anthropic is investing $100 million to train engineers in enterprise AI deployment—signaling that talent and organizational readiness, not raw model capability, are now the limiting factor. The episode also flags emerging policy experiments (Utah&apos;s autonomous clinical AI legislation) and emerging research directions that could reshape AI infrastructure.</description>
+      <pubDate>Tue, 06 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-06.mp3" length="4448640" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-06.mp3</guid>
+      <itunes:duration>278</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-02</title>
       <description># Episode Summary
 
