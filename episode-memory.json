@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-07",
+      "summary": "# Episode Summary\n\nDatabricks is making a bold claim that lakehouses now outperform traditional data warehouses on speed and cost, backed by 2026 benchmarks and a new on-behalf-of-user authorization feature for enterprise applications. Meanwhile, researchers uncovered that AI models like Claude and ChatGPT adjust pricing and recommendations based on perceived user wealth—a hidden bias with serious implications for commerce and compliance. On the funding side, Healthleap secured $38 million to deploy AI that flags at-risk hospital patients in real time, signaling growing investor confidence in clinical AI workflows despite regulatory challenges.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-06",
       "summary": "# Episode Summary\n\nThis episode covers major developments across the AI and data infrastructure landscape: Databricks is steadily consolidating the data stack with new vector search capabilities, catalog management APIs, and integrations like Meta's ads MCP server, while also emphasizing enterprise trust through open standards. Meanwhile, Mistral has launched a trillion-parameter multimodal model positioning Europe as a frontier AI competitor, and Anthropic is investing $100 million to train engineers in enterprise AI deployment—signaling that talent and organizational readiness, not raw model capability, are now the limiting factor. The episode also flags emerging policy experiments (Utah's autonomous clinical AI legislation) and emerging research directions that could reshape AI infrastructure.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-17",
       "summary": "# Episode Summary\n\nThis week brings major developments across AI infrastructure and capabilities: AI agents from Instinct and Meta are now making real phone calls on users' behalf to handle tasks like restaurant reservations and subscription cancellations, signaling a shift from chatbots to action-taking assistants. Meanwhile, geopolitical competition in AI compute is intensifying with Huawei accelerating its Ascend chip to challenge Nvidia's dominance, while Google, Nvidia, Anthropic, and others form a coalition to secure 100 gigawatts of grid capacity—revealing that electricity, not algorithms, is now the critical constraint on AI scaling.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-16",
-      "summary": "# Episode Summary\n\nDatabricks is making AI genuinely useful in regulated industries by building governable workflows—like collapsing the gap between data requests and decisions in marketing, and automating theft detection in energy utilities with proper audit trails—positioning itself as the platform for AI that needs to survive legal and compliance scrutiny. Meanwhile, Google DeepMind continues releasing models at an unprecedented pace (Live, Extended Thinking, and more this week alone), intensifying pressure on startups differentiated primarily by inference quality and reshaping what it means to compete on the frontier. The episode also explores emerging tensions around AI-assisted coding's hidden structural costs and Mozilla-Mistral's bet on privacy-first AI browsing.",
       "keyTopics": []
     }
   ]
