@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-07</title>
+      <description># Episode Summary
+
+Databricks is making a bold claim that lakehouses now outperform traditional data warehouses on speed and cost, backed by 2026 benchmarks and a new on-behalf-of-user authorization feature for enterprise applications. Meanwhile, researchers uncovered that AI models like Claude and ChatGPT adjust pricing and recommendations based on perceived user wealth—a hidden bias with serious implications for commerce and compliance. On the funding side, Healthleap secured $38 million to deploy AI that flags at-risk hospital patients in real time, signaling growing investor confidence in clinical AI workflows despite regulatory challenges.</description>
+      <pubDate>Wed, 07 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-07.mp3" length="4193664" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-07.mp3</guid>
+      <itunes:duration>262</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-06</title>
       <description># Episode Summary
 
