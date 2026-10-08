@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-08</title>
+      <description># Episode Summary
+
+Databricks is consolidating enterprise data infrastructure by launching Workday HR data federation for Unity Catalog and partnering with Replit to simplify governed app development—moves that close gaps point solutions once filled. Meanwhile, Anthropic is drawing stricter lines on Claude&apos;s usage policy while simultaneously positioning the model as scientific infrastructure through its Genesis Mission, signaling a shift from productivity software to research acceleration. Finally, a new startup called Goodfire is applying mechanistic interpretability to real-time AI agent monitoring, offering a cost-effective alternative to traditional LLM-based auditing that could become standard enterprise practice.</description>
+      <pubDate>Thu, 08 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-08.mp3" length="4260288" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-08.mp3</guid>
+      <itunes:duration>266</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-07</title>
       <description># Episode Summary
 
