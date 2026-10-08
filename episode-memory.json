@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-08",
+      "summary": "# Episode Summary\n\nDatabricks is consolidating enterprise data infrastructure by launching Workday HR data federation for Unity Catalog and partnering with Replit to simplify governed app development—moves that close gaps point solutions once filled. Meanwhile, Anthropic is drawing stricter lines on Claude's usage policy while simultaneously positioning the model as scientific infrastructure through its Genesis Mission, signaling a shift from productivity software to research acceleration. Finally, a new startup called Goodfire is applying mechanistic interpretability to real-time AI agent monitoring, offering a cost-effective alternative to traditional LLM-based auditing that could become standard enterprise practice.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-07",
       "summary": "# Episode Summary\n\nDatabricks is making a bold claim that lakehouses now outperform traditional data warehouses on speed and cost, backed by 2026 benchmarks and a new on-behalf-of-user authorization feature for enterprise applications. Meanwhile, researchers uncovered that AI models like Claude and ChatGPT adjust pricing and recommendations based on perceived user wealth—a hidden bias with serious implications for commerce and compliance. On the funding side, Healthleap secured $38 million to deploy AI that flags at-risk hospital patients in real time, signaling growing investor confidence in clinical AI workflows despite regulatory challenges.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-18",
       "summary": "# Episode Summary\n\nThis week covers three major stories reshaping AI: security researchers used Anthropic's Claude to uncover real vulnerabilities in OpenAI's systems, raising urgent questions about AI models as attack tools and the gap between capability and safety. Meanwhile, Crusoe's $3.9 billion funding round signals that AI infrastructure—specifically energy and physical compute—has become its own trillion-dollar race, with companies building distributed \"AI factories\" closer to power sources rather than traditional hyperscale data centers. Finally, Databricks makes the case that enterprise AI agents need purpose-built databases and search infrastructure designed for concurrent, stateful reasoning rather than bolted-on legacy systems.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-17",
-      "summary": "# Episode Summary\n\nThis week brings major developments across AI infrastructure and capabilities: AI agents from Instinct and Meta are now making real phone calls on users' behalf to handle tasks like restaurant reservations and subscription cancellations, signaling a shift from chatbots to action-taking assistants. Meanwhile, geopolitical competition in AI compute is intensifying with Huawei accelerating its Ascend chip to challenge Nvidia's dominance, while Google, Nvidia, Anthropic, and others form a coalition to secure 100 gigawatts of grid capacity—revealing that electricity, not algorithms, is now the critical constraint on AI scaling.",
       "keyTopics": []
     }
   ]
