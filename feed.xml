@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-09</title>
+      <description># Podcast Summary
+
+This episode covers three major AI industry developments: Anthropic&apos;s new Cyber Mission and verification program positioning Claude as critical infrastructure for cybersecurity defense, plus their broader Genesis initiative tying AI to American scientific discovery; OpenAI&apos;s firing of three safety researchers including the head of safety, raising concerns about the company&apos;s safety culture and organizational trust; and Databricks&apos; new tools for regulated industries, including agentic database branching for AI-assisted software development and native healthcare data parsing, as part of their strategy to become the governed data layer for sensitive sectors.</description>
+      <pubDate>Fri, 09 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-09.mp3" length="3845376" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-09.mp3</guid>
+      <itunes:duration>240</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-08</title>
       <description># Episode Summary
 
