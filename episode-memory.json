@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-09",
+      "summary": "# Podcast Summary\n\nThis episode covers three major AI industry developments: Anthropic's new Cyber Mission and verification program positioning Claude as critical infrastructure for cybersecurity defense, plus their broader Genesis initiative tying AI to American scientific discovery; OpenAI's firing of three safety researchers including the head of safety, raising concerns about the company's safety culture and organizational trust; and Databricks' new tools for regulated industries, including agentic database branching for AI-assisted software development and native healthcare data parsing, as part of their strategy to become the governed data layer for sensitive sectors.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-08",
       "summary": "# Episode Summary\n\nDatabricks is consolidating enterprise data infrastructure by launching Workday HR data federation for Unity Catalog and partnering with Replit to simplify governed app development—moves that close gaps point solutions once filled. Meanwhile, Anthropic is drawing stricter lines on Claude's usage policy while simultaneously positioning the model as scientific infrastructure through its Genesis Mission, signaling a shift from productivity software to research acceleration. Finally, a new startup called Goodfire is applying mechanistic interpretability to real-time AI agent monitoring, offering a cost-effective alternative to traditional LLM-based auditing that could become standard enterprise practice.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-21",
       "summary": "# Today's Episode Summary\n\nThis episode covers three major developments reshaping enterprise AI: Anthropic's partnership with Accenture to embed AI safety evaluation directly into consulting workflows, positioning the company as a trust leader in regulated industries; Google's new $899 Gemini-powered laptop representing a bet that AI integration across hardware and software is worth the price premium; and Databricks' push to reposition itself as the observability and database layer for the AI agent era, introducing frameworks like RADAR to catch subtle data failures invisible to traditional monitoring. The episode also flags Tabby, a startup applying AI to real-time bookkeeping, as part of a broader wave of AI tools automating high-stakes professional workflows",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-18",
-      "summary": "# Episode Summary\n\nThis week covers three major stories reshaping AI: security researchers used Anthropic's Claude to uncover real vulnerabilities in OpenAI's systems, raising urgent questions about AI models as attack tools and the gap between capability and safety. Meanwhile, Crusoe's $3.9 billion funding round signals that AI infrastructure—specifically energy and physical compute—has become its own trillion-dollar race, with companies building distributed \"AI factories\" closer to power sources rather than traditional hyperscale data centers. Finally, Databricks makes the case that enterprise AI agents need purpose-built databases and search infrastructure designed for concurrent, stateful reasoning rather than bolted-on legacy systems.",
       "keyTopics": []
     }
   ]
