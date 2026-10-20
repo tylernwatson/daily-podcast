@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-20</title>
+      <description># Episode Summary
+
+Databricks launches CustomerLake, an agentic customer data platform entering beta with Campaign Agents that bring AI intelligence directly to enterprise data, positioning the lakehouse as a direct competitor to traditional CDP vendors like Salesforce and Adobe. The episode also covers Google&apos;s release of Gemini 4 Argon as a frontier reasoning model with robotics applications, the rising momentum in physical AI with startups like Eka Robotics, and critical concerns including the US government&apos;s ban on DeepSeek in federal agencies and research showing how fake statistics can propagate through large language models as authoritative sources.</description>
+      <pubDate>Tue, 20 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-20.mp3" length="4241664" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-20.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-09</title>
       <description># Podcast Summary
 
