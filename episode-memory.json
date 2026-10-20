@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-20",
+      "summary": "# Episode Summary\n\nDatabricks launches CustomerLake, an agentic customer data platform entering beta with Campaign Agents that bring AI intelligence directly to enterprise data, positioning the lakehouse as a direct competitor to traditional CDP vendors like Salesforce and Adobe. The episode also covers Google's release of Gemini 4 Argon as a frontier reasoning model with robotics applications, the rising momentum in physical AI with startups like Eka Robotics, and critical concerns including the US government's ban on DeepSeek in federal agencies and research showing how fake statistics can propagate through large language models as authoritative sources.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-09",
       "summary": "# Podcast Summary\n\nThis episode covers three major AI industry developments: Anthropic's new Cyber Mission and verification program positioning Claude as critical infrastructure for cybersecurity defense, plus their broader Genesis initiative tying AI to American scientific discovery; OpenAI's firing of three safety researchers including the head of safety, raising concerns about the company's safety culture and organizational trust; and Databricks' new tools for regulated industries, including agentic database branching for AI-assisted software development and native healthcare data parsing, as part of their strategy to become the governed data layer for sensitive sectors.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-22",
       "summary": "# Episode Summary\n\nThis episode covers three major AI developments: OpenAI's GPT-6 Astra successfully decrypting a 20-year-old Enigma cipher, demonstrating advanced reasoning capabilities that signal a major competitive advantage in frontier models; Meta's Muse AI assistant facing a serious zero-day vulnerability that highlights the security risks when highly integrated, privileged AI systems are compromised; and AstroForge deploying an autonomous AI model to navigate a spacecraft millions of miles from Earth, exemplifying the future of agentic AI in high-stakes, latency-constrained environments. The episode also examines Databricks' strategic focus on building the infrastructure layer—data quality, database",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-21",
-      "summary": "# Today's Episode Summary\n\nThis episode covers three major developments reshaping enterprise AI: Anthropic's partnership with Accenture to embed AI safety evaluation directly into consulting workflows, positioning the company as a trust leader in regulated industries; Google's new $899 Gemini-powered laptop representing a bet that AI integration across hardware and software is worth the price premium; and Databricks' push to reposition itself as the observability and database layer for the AI agent era, introducing frameworks like RADAR to catch subtle data failures invisible to traditional monitoring. The episode also flags Tabby, a startup applying AI to real-time bookkeeping, as part of a broader wave of AI tools automating high-stakes professional workflows",
       "keyTopics": []
     }
   ]
