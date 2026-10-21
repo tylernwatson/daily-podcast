@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-21",
+      "summary": "# Today's Episode: Databricks' AI Platform Expansion and Anthropic's Mounting Challenges\n\nDatabricks just launched AI Runtime to general availability—a purpose-built environment that lets you train and fine-tune AI models directly within your data lakehouse, complete with GPU orchestration and a new NVIDIA partnership aimed at enterprise model customization. They also unveiled Agent Memory, a production-grade persistence layer for enterprise agents that lives in the lakehouse itself, signaling their push toward a complete end-to-end AI development platform. Meanwhile, Anthropic is facing structural headwinds as cloud providers—their own infrastructure partners—become competitors, while a proposed AI safety bill they're backing raises questions about enforcement versus",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-20",
       "summary": "# Episode Summary\n\nDatabricks launches CustomerLake, an agentic customer data platform entering beta with Campaign Agents that bring AI intelligence directly to enterprise data, positioning the lakehouse as a direct competitor to traditional CDP vendors like Salesforce and Adobe. The episode also covers Google's release of Gemini 4 Argon as a frontier reasoning model with robotics applications, the rising momentum in physical AI with startups like Eka Robotics, and critical concerns including the US government's ban on DeepSeek in federal agencies and research showing how fake statistics can propagate through large language models as authoritative sources.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-09-23",
       "summary": "# Episode Summary\n\nDatabricks launches Genie One MCP into general availability, a standardized protocol that gives AI agents access to verified business context and governed data—positioning the company as the infrastructure backbone for trustworthy enterprise AI. Meanwhile, the AI model landscape is moving at breakneck speed: OpenAI released GPT-6 Sol and Luna variants, Anthropic quietly shipped Claude Opus 5.5, and Google DeepMind flooded the zone with four Gemini releases in a single week plus major breakthroughs like AlphaGenome Atlas and WeatherNext 3, all while YouTube and Stripe integrate AI deeper into their platforms.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-22",
-      "summary": "# Episode Summary\n\nThis episode covers three major AI developments: OpenAI's GPT-6 Astra successfully decrypting a 20-year-old Enigma cipher, demonstrating advanced reasoning capabilities that signal a major competitive advantage in frontier models; Meta's Muse AI assistant facing a serious zero-day vulnerability that highlights the security risks when highly integrated, privileged AI systems are compromised; and AstroForge deploying an autonomous AI model to navigate a spacecraft millions of miles from Earth, exemplifying the future of agentic AI in high-stakes, latency-constrained environments. The episode also examines Databricks' strategic focus on building the infrastructure layer—data quality, database",
       "keyTopics": []
     }
   ]
