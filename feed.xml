@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-22</title>
+      <description># Today&apos;s AI News Summary
+
+This episode covers three major AI industry developments: Anthropic&apos;s launch of Claude Duet, a consumer-facing agent app designed to compete directly with cloud providers who are building their own AI models; DeepSeek&apos;s stunning $15 billion funding round just days after a U.S. federal ban, signaling major geopolitical stakes in the AI competition between the U.S. and China; and Spotify&apos;s strategic pivot to position itself as the music service of choice for AI agents in an agent-mediated discovery landscape. The episode also briefly covers Nirva&apos;s $33 million raise for a directional-audio AI wearable pendant launching by year-end.</description>
+      <pubDate>Thu, 22 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-22.mp3" length="3821184" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-22.mp3</guid>
+      <itunes:duration>239</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-21</title>
       <description># Today&apos;s Episode: Databricks&apos; AI Platform Expansion and Anthropic&apos;s Mounting Challenges
 
