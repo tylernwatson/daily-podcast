@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-23</title>
+      <description># Episode Summary
+
+This week in AI brings three major stories: OpenAI&apos;s staggering $30 billion fundraise at a $1.25 trillion valuation—potentially the most highly valued private company ever—amid an intensifying global AI arms race with DeepSeek and others. MIT researchers discovered that AI agents left to play freely on a virtual island actually improved their performance on real tasks, suggesting unstructured exploration may be as valuable for machine learning as it is for human creativity. Finally, enterprises are shifting from AI experimentation to production, and Databricks is leading a conversation about the real costs of AI inference at scale—making smaller, specialized models and on-premises deployment increasingly attractive as organizations face serious budget</description>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-23.mp3" length="4052736" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-23.mp3</guid>
+      <itunes:duration>253</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-22</title>
       <description># Today&apos;s AI News Summary
 
