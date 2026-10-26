@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-26</title>
+      <description># Episode Summary
+
+Anthropic just filed for its IPO with a promising enterprise cross-sell strategy, while SpaceX locked in a jaw-dropping $40 billion GPU financing deal—signaling that the AI infrastructure race has expanded far beyond traditional tech companies. Meanwhile, an economist&apos;s claim that AI has delivered zero financial payoff to corporate America outside tech is sparking urgent conversations about whether enterprises are actually seeing ROI from their AI investments, not just productivity gains.</description>
+      <pubDate>Mon, 26 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-26.mp3" length="4548672" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-26.mp3</guid>
+      <itunes:duration>284</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-23</title>
       <description># Episode Summary
 
