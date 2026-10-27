@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-27</title>
+      <description># Episode Summary
+
+This episode covers four major AI industry developments: Google DeepMind&apos;s Genie 4 world model, which adds real-time audio and mid-simulation prompting for training embodied AI agents; General Compute&apos;s $100M Series A bet on non-Nvidia inference chips as enterprises prioritize production costs; Anthropic&apos;s training data controversy involving allegedly illegally obtained academic content, complicating their IPO timeline; and Databricks&apos; AI Search expansion to support streaming data and new Lakeflow Connect integrations for seamless data connectivity. The episode also highlights emerging competition in productivity software as ex-Meta talent launches Ndoc to challenge Microsoft Office and Google Workspace with AI-</description>
+      <pubDate>Tue, 27 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-27.mp3" length="4135680" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-27.mp3</guid>
+      <itunes:duration>258</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-26</title>
       <description># Episode Summary
 
