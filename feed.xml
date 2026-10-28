@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-28</title>
+      <description># Episode Summary
+
+This episode dives into Google&apos;s launch of Gemini 4 Carbon, a significant frontier AI model that signals Google&apos;s shift from playing catch-up to leading the market, while also exploring Databricks&apos; Lakehouse Federation technology that lets enterprises query data across multiple platforms without costly migrations. The discussion also examines a timely research debate about how we actually measure AI&apos;s value—moving beyond simple &quot;stopwatch&quot; productivity metrics to account for error correction and downstream costs that often shrink real-world ROI claims.</description>
+      <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-28.mp3" length="3726144" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-28.mp3</guid>
+      <itunes:duration>233</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-27</title>
       <description># Episode Summary
 
