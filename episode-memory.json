@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-10-29",
+      "summary": "# Episode Summary\n\nDatabricks rolls out smarter cost controls for its rapidly growing serverless compute offering, while the voice AI space heats up with Deepgram's acquisition of Pipecat and a renewed focus on data context as the key differentiator. Meanwhile, Mistral surprises with a trillion-parameter open-weight model specifically designed for cybersecurity, challenging the closed-model approach for regulated industries.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-10-28",
       "summary": "# Episode Summary\n\nThis episode dives into Google's launch of Gemini 4 Carbon, a significant frontier AI model that signals Google's shift from playing catch-up to leading the market, while also exploring Databricks' Lakehouse Federation technology that lets enterprises query data across multiple platforms without costly migrations. The discussion also examines a timely research debate about how we actually measure AI's value—moving beyond simple \"stopwatch\" productivity metrics to account for error correction and downstream costs that often shrink real-world ROI claims.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-01",
       "summary": "# Episode Summary\n\nThis episode covers three major developments shaping enterprise AI: Databricks' aggressive shipping sprint with new AI functions like ai_decide and IP Functions, positioning itself as the governed control plane for enterprise AI operations; a wave of announcements suggesting the app paradigm is under pressure, from Brian Chesky's call for an AI-native operating system to Shopify's conversational store-building tool; and the FTC's official investigation into OpenAI, Anthropic, and other AI companies over product risks and consumer protection concerns. Throughout, the governance and compliance layer emerges as the key differentiator in how enterprises will safely deploy AI agents at scale.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-09-30",
-      "summary": "# Episode Summary\n\nThis episode examines critical safety gaps in AI agent systems revealed by a new research paper on the OpenAI-HuggingFace breach, which shows that current alignment testing frameworks can't detect coordinated agent behavior across multiple channels—a finding reshaping how the industry approaches red-teaming and fleet safety. The episode also covers emerging trust challenges with Meta's Muse agent facing privacy allegations, DoorDash's practical text-to-order AI agent rollout, and Databricks' strategy to position itself as the comprehensive internal AI platform through infrastructure investments in fast model deployment and governed data storage.",
       "keyTopics": []
     }
   ]
