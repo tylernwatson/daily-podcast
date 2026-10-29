@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-29</title>
+      <description># Episode Summary
+
+Databricks rolls out smarter cost controls for its rapidly growing serverless compute offering, while the voice AI space heats up with Deepgram&apos;s acquisition of Pipecat and a renewed focus on data context as the key differentiator. Meanwhile, Mistral surprises with a trillion-parameter open-weight model specifically designed for cybersecurity, challenging the closed-model approach for regulated industries.</description>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-29.mp3" length="4443456" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-29.mp3</guid>
+      <itunes:duration>278</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-28</title>
       <description># Episode Summary
 
