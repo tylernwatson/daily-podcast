@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-10-30</title>
+      <description># Episode Summary
+
+This packed Friday episode tackles three major tech stories: Databricks&apos; Real-Time Mode for Spark Declarative Pipelines achieving general availability, enabling low-latency streaming workloads without separate tools; a critical security breach involving a backdoored Claude Code extension in the Cursor marketplace, highlighting supply chain vulnerabilities in the rapidly expanding AI developer tools ecosystem; and mounting market skepticism about AI&apos;s financial returns, with US tech stocks falling amid growing scrutiny from investors, Congress, and industry observers questioning whether companies have justified their massive AI infrastructure spending. The episode also touches on emerging infrastructure plays like prefabricated modular data centers and the early-stage state of agentic commerce.</description>
+      <pubDate>Fri, 30 Oct 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-30.mp3" length="3852096" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-10-30.mp3</guid>
+      <itunes:duration>241</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-29</title>
       <description># Episode Summary
 
