@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-02</title>
+      <description># Episode Summary
+
+This episode covers major moves across the AI and data infrastructure landscape, including Databricks&apos; expansion of Lakebase Postgres to Google Cloud and a new partnership with SAP to integrate enterprise data with AI capabilities. The show also digs into Anthropic&apos;s stunning IPO filing revealing $900 billion in AI spending commitments and the eye-opening fact that the company&apos;s internal AI inference costs now exceed its total employee payroll—a sign of both technological commitment and potential unit economics challenges. Additional coverage includes Oracle&apos;s $20 billion capital raise for AI infrastructure, Elon Musk throttling Grok Bot due to unsustainably high compute costs, and a new stealth startup claiming</description>
+      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-02.mp3" length="4479360" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-02.mp3</guid>
+      <itunes:duration>280</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-10-30</title>
       <description># Episode Summary
 
