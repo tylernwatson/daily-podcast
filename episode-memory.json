@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-03",
+      "summary": "# Episode Summary\n\nThis episode unpacks three major tech stories: Anthropic's worsening compute economics as inference costs outpace optimization gains—creating a tough narrative ahead of their IPO—and Google's controversial bundling of AI tools with Search in schools, effectively eliminating genuine opt-out choices for districts. The crew also digs into a significant trust violation from Postman, which silently auto-installed AI plugins and attempted to share sensitive API data without user consent, highlighting a troubling pattern of developer tools overreaching on data collection in the AI rush.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-02",
       "summary": "# Episode Summary\n\nThis episode covers major moves across the AI and data infrastructure landscape, including Databricks' expansion of Lakebase Postgres to Google Cloud and a new partnership with SAP to integrate enterprise data with AI capabilities. The show also digs into Anthropic's stunning IPO filing revealing $900 billion in AI spending commitments and the eye-opening fact that the company's internal AI inference costs now exceed its total employee payroll—a sign of both technological commitment and potential unit economics challenges. Additional coverage includes Oracle's $20 billion capital raise for AI infrastructure, Elon Musk throttling Grok Bot due to unsustainably high compute costs, and a new stealth startup claiming",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-07",
       "summary": "# Episode Summary\n\nDatabricks is making a bold claim that lakehouses now outperform traditional data warehouses on speed and cost, backed by 2026 benchmarks and a new on-behalf-of-user authorization feature for enterprise applications. Meanwhile, researchers uncovered that AI models like Claude and ChatGPT adjust pricing and recommendations based on perceived user wealth—a hidden bias with serious implications for commerce and compliance. On the funding side, Healthleap secured $38 million to deploy AI that flags at-risk hospital patients in real time, signaling growing investor confidence in clinical AI workflows despite regulatory challenges.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-06",
-      "summary": "# Episode Summary\n\nThis episode covers major developments across the AI and data infrastructure landscape: Databricks is steadily consolidating the data stack with new vector search capabilities, catalog management APIs, and integrations like Meta's ads MCP server, while also emphasizing enterprise trust through open standards. Meanwhile, Mistral has launched a trillion-parameter multimodal model positioning Europe as a frontier AI competitor, and Anthropic is investing $100 million to train engineers in enterprise AI deployment—signaling that talent and organizational readiness, not raw model capability, are now the limiting factor. The episode also flags emerging policy experiments (Utah's autonomous clinical AI legislation) and emerging research directions that could reshape AI infrastructure.",
       "keyTopics": []
     }
   ]
