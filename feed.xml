@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-03</title>
+      <description># Episode Summary
+
+This episode unpacks three major tech stories: Anthropic&apos;s worsening compute economics as inference costs outpace optimization gains—creating a tough narrative ahead of their IPO—and Google&apos;s controversial bundling of AI tools with Search in schools, effectively eliminating genuine opt-out choices for districts. The crew also digs into a significant trust violation from Postman, which silently auto-installed AI plugins and attempted to share sensitive API data without user consent, highlighting a troubling pattern of developer tools overreaching on data collection in the AI rush.</description>
+      <pubDate>Tue, 03 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-03.mp3" length="3849600" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-03.mp3</guid>
+      <itunes:duration>241</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-02</title>
       <description># Episode Summary
 
