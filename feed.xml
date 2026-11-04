@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-04</title>
+      <description># Episode Summary
+
+This episode covers major developments across AI infrastructure, policy, and data practices: Databricks releases new Postgres integration and UNIQUE constraints for data quality, while Anthropic introduces FlashProve—a cryptographic verification system to authenticate AI responses. On the regulatory front, Google faces escalating antitrust criticism from NYC&apos;s mayor and former FTC Chair Lina Khan over its school AI bundling strategy, which ties Search access to AI tools without real opt-out options. The episode also highlights the acute power constraints driving AI infrastructure, evidenced by data centers retrofitting decommissioned jet engines for power generation—a striking illustration of the physical limits straining the AI boom.</description>
+      <pubDate>Wed, 04 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-04.mp3" length="4201152" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-04.mp3</guid>
+      <itunes:duration>263</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-03</title>
       <description># Episode Summary
 
