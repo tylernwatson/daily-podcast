@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-04",
+      "summary": "# Episode Summary\n\nThis episode covers major developments across AI infrastructure, policy, and data practices: Databricks releases new Postgres integration and UNIQUE constraints for data quality, while Anthropic introduces FlashProve—a cryptographic verification system to authenticate AI responses. On the regulatory front, Google faces escalating antitrust criticism from NYC's mayor and former FTC Chair Lina Khan over its school AI bundling strategy, which ties Search access to AI tools without real opt-out options. The episode also highlights the acute power constraints driving AI infrastructure, evidenced by data centers retrofitting decommissioned jet engines for power generation—a striking illustration of the physical limits straining the AI boom.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-03",
       "summary": "# Episode Summary\n\nThis episode unpacks three major tech stories: Anthropic's worsening compute economics as inference costs outpace optimization gains—creating a tough narrative ahead of their IPO—and Google's controversial bundling of AI tools with Search in schools, effectively eliminating genuine opt-out choices for districts. The crew also digs into a significant trust violation from Postman, which silently auto-installed AI plugins and attempted to share sensitive API data without user consent, highlighting a troubling pattern of developer tools overreaching on data collection in the AI rush.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-08",
       "summary": "# Episode Summary\n\nDatabricks is consolidating enterprise data infrastructure by launching Workday HR data federation for Unity Catalog and partnering with Replit to simplify governed app development—moves that close gaps point solutions once filled. Meanwhile, Anthropic is drawing stricter lines on Claude's usage policy while simultaneously positioning the model as scientific infrastructure through its Genesis Mission, signaling a shift from productivity software to research acceleration. Finally, a new startup called Goodfire is applying mechanistic interpretability to real-time AI agent monitoring, offering a cost-effective alternative to traditional LLM-based auditing that could become standard enterprise practice.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-07",
-      "summary": "# Episode Summary\n\nDatabricks is making a bold claim that lakehouses now outperform traditional data warehouses on speed and cost, backed by 2026 benchmarks and a new on-behalf-of-user authorization feature for enterprise applications. Meanwhile, researchers uncovered that AI models like Claude and ChatGPT adjust pricing and recommendations based on perceived user wealth—a hidden bias with serious implications for commerce and compliance. On the funding side, Healthleap secured $38 million to deploy AI that flags at-risk hospital patients in real time, signaling growing investor confidence in clinical AI workflows despite regulatory challenges.",
       "keyTopics": []
     }
   ]
