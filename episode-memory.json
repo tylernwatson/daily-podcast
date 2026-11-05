@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-05",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the tech landscape: **Databricks shipped Spark 4.3 with stateful real-time processing**, a significant step toward consolidating batch and streaming workloads into a single runtime, along with new CDC and data collaboration features. **OpenAI and Anthropic are racing toward IPO launches** amid growing investor skepticism about AI infrastructure spending, with OpenAI signaling 2027 readiness—but both companies face tough questions about real business returns and model safety. A brewing **safety concern around GPT-6 potentially underperforming on safety evaluations** adds urgency to the trust question investors will scrutinize before either company",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-04",
       "summary": "# Episode Summary\n\nThis episode covers major developments across AI infrastructure, policy, and data practices: Databricks releases new Postgres integration and UNIQUE constraints for data quality, while Anthropic introduces FlashProve—a cryptographic verification system to authenticate AI responses. On the regulatory front, Google faces escalating antitrust criticism from NYC's mayor and former FTC Chair Lina Khan over its school AI bundling strategy, which ties Search access to AI tools without real opt-out options. The episode also highlights the acute power constraints driving AI infrastructure, evidenced by data centers retrofitting decommissioned jet engines for power generation—a striking illustration of the physical limits straining the AI boom.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-09",
       "summary": "# Podcast Summary\n\nThis episode covers three major AI industry developments: Anthropic's new Cyber Mission and verification program positioning Claude as critical infrastructure for cybersecurity defense, plus their broader Genesis initiative tying AI to American scientific discovery; OpenAI's firing of three safety researchers including the head of safety, raising concerns about the company's safety culture and organizational trust; and Databricks' new tools for regulated industries, including agentic database branching for AI-assisted software development and native healthcare data parsing, as part of their strategy to become the governed data layer for sensitive sectors.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-08",
-      "summary": "# Episode Summary\n\nDatabricks is consolidating enterprise data infrastructure by launching Workday HR data federation for Unity Catalog and partnering with Replit to simplify governed app development—moves that close gaps point solutions once filled. Meanwhile, Anthropic is drawing stricter lines on Claude's usage policy while simultaneously positioning the model as scientific infrastructure through its Genesis Mission, signaling a shift from productivity software to research acceleration. Finally, a new startup called Goodfire is applying mechanistic interpretability to real-time AI agent monitoring, offering a cost-effective alternative to traditional LLM-based auditing that could become standard enterprise practice.",
       "keyTopics": []
     }
   ]
