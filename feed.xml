@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-05</title>
+      <description># Episode Summary
+
+This episode covers three major stories shaping the tech landscape: **Databricks shipped Spark 4.3 with stateful real-time processing**, a significant step toward consolidating batch and streaming workloads into a single runtime, along with new CDC and data collaboration features. **OpenAI and Anthropic are racing toward IPO launches** amid growing investor skepticism about AI infrastructure spending, with OpenAI signaling 2027 readiness—but both companies face tough questions about real business returns and model safety. A brewing **safety concern around GPT-6 potentially underperforming on safety evaluations** adds urgency to the trust question investors will scrutinize before either company</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-05.mp3" length="3917568" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-05.mp3</guid>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-04</title>
       <description># Episode Summary
 
