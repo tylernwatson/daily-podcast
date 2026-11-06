@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-06",
+      "summary": "# Episode Summary\n\nElection results are reshaping AI regulation, with voters across the country approving 40 of 41 ballot measures to restrict data center construction—a significant constraint on AI infrastructure expansion that could lengthen permitting timelines and complicate capacity planning. Meanwhile, Anthropic's IPO valuation has dropped to $1.3 trillion amid signs that enterprise AI spending has plateaued despite rising usage, while fresh privacy concerns with Claude Code are adding trust issues at a critical moment for the company. The episode also highlights practical wins from Databricks on real-time fraud detection and data collaboration frameworks, plus notable releases from Google DeepMind across frontier models, efficiency improvements, and agentic chemistry",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-05",
       "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the tech landscape: **Databricks shipped Spark 4.3 with stateful real-time processing**, a significant step toward consolidating batch and streaming workloads into a single runtime, along with new CDC and data collaboration features. **OpenAI and Anthropic are racing toward IPO launches** amid growing investor skepticism about AI infrastructure spending, with OpenAI signaling 2027 readiness—but both companies face tough questions about real business returns and model safety. A brewing **safety concern around GPT-6 potentially underperforming on safety evaluations** adds urgency to the trust question investors will scrutinize before either company",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-20",
       "summary": "# Episode Summary\n\nDatabricks launches CustomerLake, an agentic customer data platform entering beta with Campaign Agents that bring AI intelligence directly to enterprise data, positioning the lakehouse as a direct competitor to traditional CDP vendors like Salesforce and Adobe. The episode also covers Google's release of Gemini 4 Argon as a frontier reasoning model with robotics applications, the rising momentum in physical AI with startups like Eka Robotics, and critical concerns including the US government's ban on DeepSeek in federal agencies and research showing how fake statistics can propagate through large language models as authoritative sources.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-09",
-      "summary": "# Podcast Summary\n\nThis episode covers three major AI industry developments: Anthropic's new Cyber Mission and verification program positioning Claude as critical infrastructure for cybersecurity defense, plus their broader Genesis initiative tying AI to American scientific discovery; OpenAI's firing of three safety researchers including the head of safety, raising concerns about the company's safety culture and organizational trust; and Databricks' new tools for regulated industries, including agentic database branching for AI-assisted software development and native healthcare data parsing, as part of their strategy to become the governed data layer for sensitive sectors.",
       "keyTopics": []
     }
   ]
