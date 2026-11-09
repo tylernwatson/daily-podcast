@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-09</title>
+      <description># Episode Summary
+
+This episode covers major AI developments including Anthropic&apos;s new Fable 5.2 and Mythos 5.2 models—which set benchmark records—alongside the company&apos;s $3.4 billion investment in natural gas turbines to power data centers. Meta&apos;s new Muse Ember model offers ultra-cheap agent execution at 10 cents per million tokens, positioning itself as infrastructure-layer competition in the AI stack. Databricks releases GPU training improvements and reaffirms European data sovereignty commitments, while privacy concerns emerge around Google Gemini routing personal files to human annotators.</description>
+      <pubDate>Mon, 09 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-09.mp3" length="4248384" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-09.mp3</guid>
+      <itunes:duration>266</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-06</title>
       <description># Episode Summary
 
