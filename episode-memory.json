@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-09",
+      "summary": "# Episode Summary\n\nThis episode covers major AI developments including Anthropic's new Fable 5.2 and Mythos 5.2 models—which set benchmark records—alongside the company's $3.4 billion investment in natural gas turbines to power data centers. Meta's new Muse Ember model offers ultra-cheap agent execution at 10 cents per million tokens, positioning itself as infrastructure-layer competition in the AI stack. Databricks releases GPU training improvements and reaffirms European data sovereignty commitments, while privacy concerns emerge around Google Gemini routing personal files to human annotators.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-06",
       "summary": "# Episode Summary\n\nElection results are reshaping AI regulation, with voters across the country approving 40 of 41 ballot measures to restrict data center construction—a significant constraint on AI infrastructure expansion that could lengthen permitting timelines and complicate capacity planning. Meanwhile, Anthropic's IPO valuation has dropped to $1.3 trillion amid signs that enterprise AI spending has plateaued despite rising usage, while fresh privacy concerns with Claude Code are adding trust issues at a critical moment for the company. The episode also highlights practical wins from Databricks on real-time fraud detection and data collaboration frameworks, plus notable releases from Google DeepMind across frontier models, efficiency improvements, and agentic chemistry",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-21",
       "summary": "# Today's Episode: Databricks' AI Platform Expansion and Anthropic's Mounting Challenges\n\nDatabricks just launched AI Runtime to general availability—a purpose-built environment that lets you train and fine-tune AI models directly within your data lakehouse, complete with GPU orchestration and a new NVIDIA partnership aimed at enterprise model customization. They also unveiled Agent Memory, a production-grade persistence layer for enterprise agents that lives in the lakehouse itself, signaling their push toward a complete end-to-end AI development platform. Meanwhile, Anthropic is facing structural headwinds as cloud providers—their own infrastructure partners—become competitors, while a proposed AI safety bill they're backing raises questions about enforcement versus",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-20",
-      "summary": "# Episode Summary\n\nDatabricks launches CustomerLake, an agentic customer data platform entering beta with Campaign Agents that bring AI intelligence directly to enterprise data, positioning the lakehouse as a direct competitor to traditional CDP vendors like Salesforce and Adobe. The episode also covers Google's release of Gemini 4 Argon as a frontier reasoning model with robotics applications, the rising momentum in physical AI with startups like Eka Robotics, and critical concerns including the US government's ban on DeepSeek in federal agencies and research showing how fake statistics can propagate through large language models as authoritative sources.",
       "keyTopics": []
     }
   ]
