@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-10</title>
+      <description># Episode Summary
+
+This episode covers four major AI industry stories: Anthropic&apos;s launch of Claude Meetings, a new enterprise productivity tool that embeds Claude directly into workplace workflows to take notes, draft plans, and pull real-time data; a reported affair involving Nvidia CEO Jensen Huang and alleged Chinese spy with significant national security implications for GPU supply chains; Google&apos;s multi-release Tuesday featuring Gemini 4 Carbon, Gemini 2 Flash, AlphaProof Code for software verification, and new confidential training TPUs; and Databricks&apos; UCDataset feature that accelerates GPU training directly on Unity Catalog data, plus agentic AI integrations for sales and marketing teams. The</description>
+      <pubDate>Tue, 10 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-10.mp3" length="4063488" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-10.mp3</guid>
+      <itunes:duration>254</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-09</title>
       <description># Episode Summary
 
