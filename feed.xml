@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-11</title>
+      <description># Episode Summary
+
+Databricks launches a significantly upgraded version of Genie, its enterprise AI agent, adding autonomous workflow management and semantic business understanding through Genie Ontology—a major step toward practical AI agents in production environments. OpenAI crosses a historic $10 billion in quarterly revenue (a 50% jump from Q2), signaling that enterprise AI spending is scaling beyond pilots, while Google DeepMind continues its aggressive release pace with breakthroughs in genomics, robotics dexterity, and AI agents discovering an unmapped Maya pyramid in satellite data.</description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-11.mp3" length="4236480" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-11.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-10</title>
       <description># Episode Summary
 
