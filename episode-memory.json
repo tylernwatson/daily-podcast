@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-11",
+      "summary": "# Episode Summary\n\nDatabricks launches a significantly upgraded version of Genie, its enterprise AI agent, adding autonomous workflow management and semantic business understanding through Genie Ontology—a major step toward practical AI agents in production environments. OpenAI crosses a historic $10 billion in quarterly revenue (a 50% jump from Q2), signaling that enterprise AI spending is scaling beyond pilots, while Google DeepMind continues its aggressive release pace with breakthroughs in genomics, robotics dexterity, and AI agents discovering an unmapped Maya pyramid in satellite data.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-10",
       "summary": "# Episode Summary\n\nThis episode covers four major AI industry stories: Anthropic's launch of Claude Meetings, a new enterprise productivity tool that embeds Claude directly into workplace workflows to take notes, draft plans, and pull real-time data; a reported affair involving Nvidia CEO Jensen Huang and alleged Chinese spy with significant national security implications for GPU supply chains; Google's multi-release Tuesday featuring Gemini 4 Carbon, Gemini 2 Flash, AlphaProof Code for software verification, and new confidential training TPUs; and Databricks' UCDataset feature that accelerates GPU training directly on Unity Catalog data, plus agentic AI integrations for sales and marketing teams. The",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-23",
       "summary": "# Episode Summary\n\nThis week in AI brings three major stories: OpenAI's staggering $30 billion fundraise at a $1.25 trillion valuation—potentially the most highly valued private company ever—amid an intensifying global AI arms race with DeepSeek and others. MIT researchers discovered that AI agents left to play freely on a virtual island actually improved their performance on real tasks, suggesting unstructured exploration may be as valuable for machine learning as it is for human creativity. Finally, enterprises are shifting from AI experimentation to production, and Databricks is leading a conversation about the real costs of AI inference at scale—making smaller, specialized models and on-premises deployment increasingly attractive as organizations face serious budget",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-22",
-      "summary": "# Today's AI News Summary\n\nThis episode covers three major AI industry developments: Anthropic's launch of Claude Duet, a consumer-facing agent app designed to compete directly with cloud providers who are building their own AI models; DeepSeek's stunning $15 billion funding round just days after a U.S. federal ban, signaling major geopolitical stakes in the AI competition between the U.S. and China; and Spotify's strategic pivot to position itself as the music service of choice for AI agents in an agent-mediated discovery landscape. The episode also briefly covers Nirva's $33 million raise for a directional-audio AI wearable pendant launching by year-end.",
       "keyTopics": []
     }
   ]
