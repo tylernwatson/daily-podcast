@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-12",
+      "summary": "# Data and AI Daily: November 12th, 2026\n\nDatabricks launches Genie in Slack as a fully governed AI coworker that carries enterprise data permissions and security controls into workplace conversations, marking a significant step toward production agentic AI in enterprise workflows. Jensen Huang's exit from Nvidia is raising concerns about the company's future commitment to open-source AI and the fate of its $12.9B Hugging Face acquisition. Meanwhile, United Airlines draws a hard line against AI agents booking flights, citing cybersecurity risks—a move that could spark broader enterprise pushback against autonomous AI in high-stakes transactions.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-11",
       "summary": "# Episode Summary\n\nDatabricks launches a significantly upgraded version of Genie, its enterprise AI agent, adding autonomous workflow management and semantic business understanding through Genie Ontology—a major step toward practical AI agents in production environments. OpenAI crosses a historic $10 billion in quarterly revenue (a 50% jump from Q2), signaling that enterprise AI spending is scaling beyond pilots, while Google DeepMind continues its aggressive release pace with breakthroughs in genomics, robotics dexterity, and AI agents discovering an unmapped Maya pyramid in satellite data.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-26",
       "summary": "# Episode Summary\n\nAnthropic just filed for its IPO with a promising enterprise cross-sell strategy, while SpaceX locked in a jaw-dropping $40 billion GPU financing deal—signaling that the AI infrastructure race has expanded far beyond traditional tech companies. Meanwhile, an economist's claim that AI has delivered zero financial payoff to corporate America outside tech is sparking urgent conversations about whether enterprises are actually seeing ROI from their AI investments, not just productivity gains.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-23",
-      "summary": "# Episode Summary\n\nThis week in AI brings three major stories: OpenAI's staggering $30 billion fundraise at a $1.25 trillion valuation—potentially the most highly valued private company ever—amid an intensifying global AI arms race with DeepSeek and others. MIT researchers discovered that AI agents left to play freely on a virtual island actually improved their performance on real tasks, suggesting unstructured exploration may be as valuable for machine learning as it is for human creativity. Finally, enterprises are shifting from AI experimentation to production, and Databricks is leading a conversation about the real costs of AI inference at scale—making smaller, specialized models and on-premises deployment increasingly attractive as organizations face serious budget",
       "keyTopics": []
     }
   ]
