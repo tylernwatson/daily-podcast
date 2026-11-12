@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-12</title>
+      <description># Data and AI Daily: November 12th, 2026
+
+Databricks launches Genie in Slack as a fully governed AI coworker that carries enterprise data permissions and security controls into workplace conversations, marking a significant step toward production agentic AI in enterprise workflows. Jensen Huang&apos;s exit from Nvidia is raising concerns about the company&apos;s future commitment to open-source AI and the fate of its $12.9B Hugging Face acquisition. Meanwhile, United Airlines draws a hard line against AI agents booking flights, citing cybersecurity risks—a move that could spark broader enterprise pushback against autonomous AI in high-stakes transactions.</description>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-12.mp3" length="4412544" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-12.mp3</guid>
+      <itunes:duration>276</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-11</title>
       <description># Episode Summary
 
