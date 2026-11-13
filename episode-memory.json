@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-13",
+      "summary": "# Episode Summary\n\nThis episode covers four major developments in enterprise AI and tech leadership: OpenAI and Databricks announce a formal partnership enabling AI models to run directly on governed enterprise data; Jensen Huang faces mounting pressure following revelations about his successor's confidence crisis at Nvidia; ChatGPT launches a new Wallet feature for autonomous shopping agents, even as United Airlines blocks AI agents from booking flights; and Google DeepMind releases multiple innovations including AlphaGenome 2 for disease research and newly discovered theorems from Kurt Gödel's notebooks. The overarching theme is the tension between rapid AI capability deployment and the governance, security, and institutional trust infrastructure needed to make it work at scale.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-12",
       "summary": "# Data and AI Daily: November 12th, 2026\n\nDatabricks launches Genie in Slack as a fully governed AI coworker that carries enterprise data permissions and security controls into workplace conversations, marking a significant step toward production agentic AI in enterprise workflows. Jensen Huang's exit from Nvidia is raising concerns about the company's future commitment to open-source AI and the fate of its $12.9B Hugging Face acquisition. Meanwhile, United Airlines draws a hard line against AI agents booking flights, citing cybersecurity risks—a move that could spark broader enterprise pushback against autonomous AI in high-stakes transactions.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-27",
       "summary": "# Episode Summary\n\nThis episode covers four major AI industry developments: Google DeepMind's Genie 4 world model, which adds real-time audio and mid-simulation prompting for training embodied AI agents; General Compute's $100M Series A bet on non-Nvidia inference chips as enterprises prioritize production costs; Anthropic's training data controversy involving allegedly illegally obtained academic content, complicating their IPO timeline; and Databricks' AI Search expansion to support streaming data and new Lakeflow Connect integrations for seamless data connectivity. The episode also highlights emerging competition in productivity software as ex-Meta talent launches Ndoc to challenge Microsoft Office and Google Workspace with AI-",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-26",
-      "summary": "# Episode Summary\n\nAnthropic just filed for its IPO with a promising enterprise cross-sell strategy, while SpaceX locked in a jaw-dropping $40 billion GPU financing deal—signaling that the AI infrastructure race has expanded far beyond traditional tech companies. Meanwhile, an economist's claim that AI has delivered zero financial payoff to corporate America outside tech is sparking urgent conversations about whether enterprises are actually seeing ROI from their AI investments, not just productivity gains.",
       "keyTopics": []
     }
   ]
