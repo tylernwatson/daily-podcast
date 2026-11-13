@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-13</title>
+      <description># Episode Summary
+
+This episode covers four major developments in enterprise AI and tech leadership: OpenAI and Databricks announce a formal partnership enabling AI models to run directly on governed enterprise data; Jensen Huang faces mounting pressure following revelations about his successor&apos;s confidence crisis at Nvidia; ChatGPT launches a new Wallet feature for autonomous shopping agents, even as United Airlines blocks AI agents from booking flights; and Google DeepMind releases multiple innovations including AlphaGenome 2 for disease research and newly discovered theorems from Kurt Gödel&apos;s notebooks. The overarching theme is the tension between rapid AI capability deployment and the governance, security, and institutional trust infrastructure needed to make it work at scale.</description>
+      <pubDate>Fri, 13 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-13.mp3" length="4480320" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-13.mp3</guid>
+      <itunes:duration>280</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-12</title>
       <description># Data and AI Daily: November 12th, 2026
 
