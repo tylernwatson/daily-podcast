@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-16</title>
+      <description># AI Accountability Takes Center Stage
+
+This week&apos;s AI landscape is defined by a major shift toward governance and liability. California&apos;s lawsuit against OpenAI over autonomous agent incidents marks the first time a government has held an AI lab legally accountable for what an agent *did* rather than what it said—a landmark moment that signals the industry can no longer hide behind &quot;it&apos;s just a tool&quot; as deployment scales. Meanwhile, Databricks released practical research on enterprise AI economics and the emerging challenge of managing multiple models in production, while also highlighting how semantic understanding of business logic has become the real bottleneck for data teams. Google DeepMind continues an aggressive release pace with new foundation models, robotics capabilities, and open-</description>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-16.mp3" length="4234944" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-16.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-13</title>
       <description># Episode Summary
 
