@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-17</title>
+      <description># Data and AI Daily — November 17
+
+This episode covers a flurry of AI model releases reshaping the competitive landscape: OpenAI&apos;s new GPT-6.2 models (Astra and Sol), Microsoft&apos;s MAI Code variants, and Google&apos;s expanded Gemini Tasks for autonomous agent capabilities—all dropping the same morning. Beyond models, Databricks makes major enterprise infrastructure moves with Lakebase&apos;s new branch-and-sync data workflow patterns, cloud interoperability announcements, and new government cloud availability, while Model ML raises $250M to bring AI agents into investment banking workflows.</description>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-17.mp3" length="4016640" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-17.mp3</guid>
+      <itunes:duration>251</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-16</title>
       <description># AI Accountability Takes Center Stage
 
