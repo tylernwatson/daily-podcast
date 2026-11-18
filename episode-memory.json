@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-18",
+      "summary": "# Data and AI Daily — November 18th\n\nDatabricks is making aggressive moves into the Microsoft ecosystem with Genie, its AI assistant, now available across Copilot, Teams, and Excel while respecting enterprise data permissions—plus introducing Unity Gateway Insights to help teams manage and optimize AI costs across their infrastructure. Meanwhile, Google DeepMind continues shipping at a relentless pace with new Gemini variants and agent frameworks, banks are drawing hard lines by disclaiming liability for AI agent-initiated transactions, and OpenAI's Sam Altman is weighing in on the tension between building autonomous AI systems and maintaining meaningful human control.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-17",
       "summary": "# Data and AI Daily — November 17\n\nThis episode covers a flurry of AI model releases reshaping the competitive landscape: OpenAI's new GPT-6.2 models (Astra and Sol), Microsoft's MAI Code variants, and Google's expanded Gemini Tasks for autonomous agent capabilities—all dropping the same morning. Beyond models, Databricks makes major enterprise infrastructure moves with Lakebase's new branch-and-sync data workflow patterns, cloud interoperability announcements, and new government cloud availability, while Model ML raises $250M to bring AI agents into investment banking workflows.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-10-30",
       "summary": "# Episode Summary\n\nThis packed Friday episode tackles three major tech stories: Databricks' Real-Time Mode for Spark Declarative Pipelines achieving general availability, enabling low-latency streaming workloads without separate tools; a critical security breach involving a backdoored Claude Code extension in the Cursor marketplace, highlighting supply chain vulnerabilities in the rapidly expanding AI developer tools ecosystem; and mounting market skepticism about AI's financial returns, with US tech stocks falling amid growing scrutiny from investors, Congress, and industry observers questioning whether companies have justified their massive AI infrastructure spending. The episode also touches on emerging infrastructure plays like prefabricated modular data centers and the early-stage state of agentic commerce.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-29",
-      "summary": "# Episode Summary\n\nDatabricks rolls out smarter cost controls for its rapidly growing serverless compute offering, while the voice AI space heats up with Deepgram's acquisition of Pipecat and a renewed focus on data context as the key differentiator. Meanwhile, Mistral surprises with a trillion-parameter open-weight model specifically designed for cybersecurity, challenging the closed-model approach for regulated industries.",
       "keyTopics": []
     }
   ]
