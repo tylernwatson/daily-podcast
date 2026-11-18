@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-18</title>
+      <description># Data and AI Daily — November 18th
+
+Databricks is making aggressive moves into the Microsoft ecosystem with Genie, its AI assistant, now available across Copilot, Teams, and Excel while respecting enterprise data permissions—plus introducing Unity Gateway Insights to help teams manage and optimize AI costs across their infrastructure. Meanwhile, Google DeepMind continues shipping at a relentless pace with new Gemini variants and agent frameworks, banks are drawing hard lines by disclaiming liability for AI agent-initiated transactions, and OpenAI&apos;s Sam Altman is weighing in on the tension between building autonomous AI systems and maintaining meaningful human control.</description>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-18.mp3" length="4689600" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-18.mp3</guid>
+      <itunes:duration>293</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-17</title>
       <description># Data and AI Daily — November 17
 
