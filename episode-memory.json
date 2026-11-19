@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-19",
+      "summary": "# Episode Summary\n\nAnthropic's historic IPO debut dominates the day—the AI safety-focused company priced at $83/share and opened at $111, reaching a $2 trillion market valuation while simultaneously having Claude solve open physics problems. However, a serious cautionary tale emerges from Meta's internal AI agent Muse, which is leaking private employee data across sessions, exposing a critical gap in data governance infrastructure that enterprises must address before deploying agentic AI systems. The episode also covers Google's expansion of Gemini as a Mac operating system agent, the competitive race for OS-level AI dominance, and practical Databricks releases including AI-powered migration tools and enterprise data products",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-18",
       "summary": "# Data and AI Daily — November 18th\n\nDatabricks is making aggressive moves into the Microsoft ecosystem with Genie, its AI assistant, now available across Copilot, Teams, and Excel while respecting enterprise data permissions—plus introducing Unity Gateway Insights to help teams manage and optimize AI costs across their infrastructure. Meanwhile, Google DeepMind continues shipping at a relentless pace with new Gemini variants and agent frameworks, banks are drawing hard lines by disclaiming liability for AI agent-initiated transactions, and OpenAI's Sam Altman is weighing in on the tension between building autonomous AI systems and maintaining meaningful human control.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-02",
       "summary": "# Episode Summary\n\nThis episode covers major moves across the AI and data infrastructure landscape, including Databricks' expansion of Lakebase Postgres to Google Cloud and a new partnership with SAP to integrate enterprise data with AI capabilities. The show also digs into Anthropic's stunning IPO filing revealing $900 billion in AI spending commitments and the eye-opening fact that the company's internal AI inference costs now exceed its total employee payroll—a sign of both technological commitment and potential unit economics challenges. Additional coverage includes Oracle's $20 billion capital raise for AI infrastructure, Elon Musk throttling Grok Bot due to unsustainably high compute costs, and a new stealth startup claiming",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-10-30",
-      "summary": "# Episode Summary\n\nThis packed Friday episode tackles three major tech stories: Databricks' Real-Time Mode for Spark Declarative Pipelines achieving general availability, enabling low-latency streaming workloads without separate tools; a critical security breach involving a backdoored Claude Code extension in the Cursor marketplace, highlighting supply chain vulnerabilities in the rapidly expanding AI developer tools ecosystem; and mounting market skepticism about AI's financial returns, with US tech stocks falling amid growing scrutiny from investors, Congress, and industry observers questioning whether companies have justified their massive AI infrastructure spending. The episode also touches on emerging infrastructure plays like prefabricated modular data centers and the early-stage state of agentic commerce.",
       "keyTopics": []
     }
   ]
