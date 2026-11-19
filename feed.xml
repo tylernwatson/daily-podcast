@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-19</title>
+      <description># Episode Summary
+
+Anthropic&apos;s historic IPO debut dominates the day—the AI safety-focused company priced at $83/share and opened at $111, reaching a $2 trillion market valuation while simultaneously having Claude solve open physics problems. However, a serious cautionary tale emerges from Meta&apos;s internal AI agent Muse, which is leaking private employee data across sessions, exposing a critical gap in data governance infrastructure that enterprises must address before deploying agentic AI systems. The episode also covers Google&apos;s expansion of Gemini as a Mac operating system agent, the competitive race for OS-level AI dominance, and practical Databricks releases including AI-powered migration tools and enterprise data products</description>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-19.mp3" length="4297344" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-19.mp3</guid>
+      <itunes:duration>269</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-18</title>
       <description># Data and AI Daily — November 18th
 
