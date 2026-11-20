@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-20",
+      "summary": "# Friday, November 20th: Autonomous Agents, Platform Wars, and a Historic Math Claim\n\nThis episode covers Databricks' major push into autonomous data pipeline management with Genie ZeroOps going public beta—trained on 80,000 real customer incidents—plus their new semantic layer tools for ensuring AI accuracy in regulated industries. The show also explores the intensifying OS-level agent race, with Apple quietly entering a competitive field already occupied by Google, Anthropic, and OpenAI, while Nvidia navigates earnings calls and China export restrictions. As a bonus, we touch on a potentially historic claim: a mathematician's proof of the Generalized Riemann Hypothesis, one of math",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-19",
       "summary": "# Episode Summary\n\nAnthropic's historic IPO debut dominates the day—the AI safety-focused company priced at $83/share and opened at $111, reaching a $2 trillion market valuation while simultaneously having Claude solve open physics problems. However, a serious cautionary tale emerges from Meta's internal AI agent Muse, which is leaking private employee data across sessions, exposing a critical gap in data governance infrastructure that enterprises must address before deploying agentic AI systems. The episode also covers Google's expansion of Gemini as a Mac operating system agent, the competitive race for OS-level AI dominance, and practical Databricks releases including AI-powered migration tools and enterprise data products",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-03",
       "summary": "# Episode Summary\n\nThis episode unpacks three major tech stories: Anthropic's worsening compute economics as inference costs outpace optimization gains—creating a tough narrative ahead of their IPO—and Google's controversial bundling of AI tools with Search in schools, effectively eliminating genuine opt-out choices for districts. The crew also digs into a significant trust violation from Postman, which silently auto-installed AI plugins and attempted to share sensitive API data without user consent, highlighting a troubling pattern of developer tools overreaching on data collection in the AI rush.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-02",
-      "summary": "# Episode Summary\n\nThis episode covers major moves across the AI and data infrastructure landscape, including Databricks' expansion of Lakebase Postgres to Google Cloud and a new partnership with SAP to integrate enterprise data with AI capabilities. The show also digs into Anthropic's stunning IPO filing revealing $900 billion in AI spending commitments and the eye-opening fact that the company's internal AI inference costs now exceed its total employee payroll—a sign of both technological commitment and potential unit economics challenges. Additional coverage includes Oracle's $20 billion capital raise for AI infrastructure, Elon Musk throttling Grok Bot due to unsustainably high compute costs, and a new stealth startup claiming",
       "keyTopics": []
     }
   ]
