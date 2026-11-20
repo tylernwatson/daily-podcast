@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-20</title>
+      <description># Friday, November 20th: Autonomous Agents, Platform Wars, and a Historic Math Claim
+
+This episode covers Databricks&apos; major push into autonomous data pipeline management with Genie ZeroOps going public beta—trained on 80,000 real customer incidents—plus their new semantic layer tools for ensuring AI accuracy in regulated industries. The show also explores the intensifying OS-level agent race, with Apple quietly entering a competitive field already occupied by Google, Anthropic, and OpenAI, while Nvidia navigates earnings calls and China export restrictions. As a bonus, we touch on a potentially historic claim: a mathematician&apos;s proof of the Generalized Riemann Hypothesis, one of math</description>
+      <pubDate>Fri, 20 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-20.mp3" length="3925440" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-20.mp3</guid>
+      <itunes:duration>245</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-19</title>
       <description># Episode Summary
 
