@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-23",
+      "summary": "# Episode Summary\n\nThis episode covers three major AI and infrastructure stories reshaping the tech landscape. First, Anthropic launches Claude Ship, a new agentic tooling platform that automates not just code generation but the entire code review and approval workflow—raising important questions about liability and trust in production environments. Second, Jensen Huang's dramatic return to Nvidia as CEO signals stability for the AI compute market amid geopolitical tensions, as the U.S. government moves to blacklist Megaspeed and tighten China export restrictions. Finally, Databricks releases two significant updates: native Postgres streaming for real-time data pipelines and reference architectures across seventy industries—practical moves that translate lakehouse strategy into",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-20",
       "summary": "# Friday, November 20th: Autonomous Agents, Platform Wars, and a Historic Math Claim\n\nThis episode covers Databricks' major push into autonomous data pipeline management with Genie ZeroOps going public beta—trained on 80,000 real customer incidents—plus their new semantic layer tools for ensuring AI accuracy in regulated industries. The show also explores the intensifying OS-level agent race, with Apple quietly entering a competitive field already occupied by Google, Anthropic, and OpenAI, while Nvidia navigates earnings calls and China export restrictions. As a bonus, we touch on a potentially historic claim: a mathematician's proof of the Generalized Riemann Hypothesis, one of math",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-04",
       "summary": "# Episode Summary\n\nThis episode covers major developments across AI infrastructure, policy, and data practices: Databricks releases new Postgres integration and UNIQUE constraints for data quality, while Anthropic introduces FlashProve—a cryptographic verification system to authenticate AI responses. On the regulatory front, Google faces escalating antitrust criticism from NYC's mayor and former FTC Chair Lina Khan over its school AI bundling strategy, which ties Search access to AI tools without real opt-out options. The episode also highlights the acute power constraints driving AI infrastructure, evidenced by data centers retrofitting decommissioned jet engines for power generation—a striking illustration of the physical limits straining the AI boom.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-03",
-      "summary": "# Episode Summary\n\nThis episode unpacks three major tech stories: Anthropic's worsening compute economics as inference costs outpace optimization gains—creating a tough narrative ahead of their IPO—and Google's controversial bundling of AI tools with Search in schools, effectively eliminating genuine opt-out choices for districts. The crew also digs into a significant trust violation from Postman, which silently auto-installed AI plugins and attempted to share sensitive API data without user consent, highlighting a troubling pattern of developer tools overreaching on data collection in the AI rush.",
       "keyTopics": []
     }
   ]
