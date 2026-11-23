@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-23</title>
+      <description># Episode Summary
+
+This episode covers three major AI and infrastructure stories reshaping the tech landscape. First, Anthropic launches Claude Ship, a new agentic tooling platform that automates not just code generation but the entire code review and approval workflow—raising important questions about liability and trust in production environments. Second, Jensen Huang&apos;s dramatic return to Nvidia as CEO signals stability for the AI compute market amid geopolitical tensions, as the U.S. government moves to blacklist Megaspeed and tighten China export restrictions. Finally, Databricks releases two significant updates: native Postgres streaming for real-time data pipelines and reference architectures across seventy industries—practical moves that translate lakehouse strategy into</description>
+      <pubDate>Mon, 23 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-23.mp3" length="3851712" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-23.mp3</guid>
+      <itunes:duration>241</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-20</title>
       <description># Friday, November 20th: Autonomous Agents, Platform Wars, and a Historic Math Claim
 
