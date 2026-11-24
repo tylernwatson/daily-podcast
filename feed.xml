@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-24</title>
+      <description># Episode Summary
+
+This episode breaks down major AI market movements, including Anthropic&apos;s stock stumble below its IPO price just one week after going public—a potential warning signal for AI startup valuations broadly. Google DeepMind meanwhile is shipping aggressively with four releases this week, including Gemini 4 variants and research on AI agents paired with formal verification for quantum algorithms. The team also highlights practical infrastructure work from Databricks on data modeling for agentic systems and cybersecurity warnings about AI-accelerated attacks exploiting unpatched vulnerabilities.</description>
+      <pubDate>Tue, 24 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-24.mp3" length="4105920" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-24.mp3</guid>
+      <itunes:duration>257</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-23</title>
       <description># Episode Summary
 
