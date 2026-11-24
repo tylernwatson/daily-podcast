@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-24",
+      "summary": "# Episode Summary\n\nThis episode breaks down major AI market movements, including Anthropic's stock stumble below its IPO price just one week after going public—a potential warning signal for AI startup valuations broadly. Google DeepMind meanwhile is shipping aggressively with four releases this week, including Gemini 4 variants and research on AI agents paired with formal verification for quantum algorithms. The team also highlights practical infrastructure work from Databricks on data modeling for agentic systems and cybersecurity warnings about AI-accelerated attacks exploiting unpatched vulnerabilities.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-23",
       "summary": "# Episode Summary\n\nThis episode covers three major AI and infrastructure stories reshaping the tech landscape. First, Anthropic launches Claude Ship, a new agentic tooling platform that automates not just code generation but the entire code review and approval workflow—raising important questions about liability and trust in production environments. Second, Jensen Huang's dramatic return to Nvidia as CEO signals stability for the AI compute market amid geopolitical tensions, as the U.S. government moves to blacklist Megaspeed and tighten China export restrictions. Finally, Databricks releases two significant updates: native Postgres streaming for real-time data pipelines and reference architectures across seventy industries—practical moves that translate lakehouse strategy into",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-05",
       "summary": "# Episode Summary\n\nThis episode covers three major stories shaping the tech landscape: **Databricks shipped Spark 4.3 with stateful real-time processing**, a significant step toward consolidating batch and streaming workloads into a single runtime, along with new CDC and data collaboration features. **OpenAI and Anthropic are racing toward IPO launches** amid growing investor skepticism about AI infrastructure spending, with OpenAI signaling 2027 readiness—but both companies face tough questions about real business returns and model safety. A brewing **safety concern around GPT-6 potentially underperforming on safety evaluations** adds urgency to the trust question investors will scrutinize before either company",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-04",
-      "summary": "# Episode Summary\n\nThis episode covers major developments across AI infrastructure, policy, and data practices: Databricks releases new Postgres integration and UNIQUE constraints for data quality, while Anthropic introduces FlashProve—a cryptographic verification system to authenticate AI responses. On the regulatory front, Google faces escalating antitrust criticism from NYC's mayor and former FTC Chair Lina Khan over its school AI bundling strategy, which ties Search access to AI tools without real opt-out options. The episode also highlights the acute power constraints driving AI infrastructure, evidenced by data centers retrofitting decommissioned jet engines for power generation—a striking illustration of the physical limits straining the AI boom.",
       "keyTopics": []
     }
   ]
