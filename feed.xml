@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-25</title>
+      <description># Episode Summary
+
+This episode covers a messy week in AI governance—from Anthropic CEO Dario Amodei defending the company&apos;s safety practices amid stock pressure to New York&apos;s new chatbot toy ban and state attorneys general challenging Character.AI&apos;s plan to auction off private user data from millions of accounts, including minors. On the infrastructure side, Google DeepMind continues its relentless shipping pace with four releases including Gemini 4 Neon and quantum algorithm research using AI agents paired with formal verification, while Databricks rolls out catalog metadata sharing and agentic data modeling guidance to help real-time systems operate reliably across multiple data platforms.</description>
+      <pubDate>Wed, 25 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-25.mp3" length="4506624" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-25.mp3</guid>
+      <itunes:duration>282</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-24</title>
       <description># Episode Summary
 
