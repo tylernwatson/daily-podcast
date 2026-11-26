@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-26",
+      "summary": "# Episode Summary\n\nThis episode covers Nvidia's dual crisis—government-mandated chip export restrictions to Southeast Asia and S&P's potential credit downgrade citing governance and \"key man\" risk around CEO Jensen Huang—alongside Google DeepMind's relentless shipping pace with five major releases this week, including advances in AI-verified quantum algorithms and open weather model datasets. The conversation also explores emerging tensions in agentic AI (like Gmail's read-only MCP server to prevent unreviewed actions), signs of cost discipline across frontier labs, and Databricks' infrastructure rethinking around read replicas and data modeling for AI-powered customer platforms.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-25",
       "summary": "# Episode Summary\n\nThis episode covers a messy week in AI governance—from Anthropic CEO Dario Amodei defending the company's safety practices amid stock pressure to New York's new chatbot toy ban and state attorneys general challenging Character.AI's plan to auction off private user data from millions of accounts, including minors. On the infrastructure side, Google DeepMind continues its relentless shipping pace with four releases including Gemini 4 Neon and quantum algorithm research using AI agents paired with formal verification, while Databricks rolls out catalog metadata sharing and agentic data modeling guidance to help real-time systems operate reliably across multiple data platforms.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-09",
       "summary": "# Episode Summary\n\nThis episode covers major AI developments including Anthropic's new Fable 5.2 and Mythos 5.2 models—which set benchmark records—alongside the company's $3.4 billion investment in natural gas turbines to power data centers. Meta's new Muse Ember model offers ultra-cheap agent execution at 10 cents per million tokens, positioning itself as infrastructure-layer competition in the AI stack. Databricks releases GPU training improvements and reaffirms European data sovereignty commitments, while privacy concerns emerge around Google Gemini routing personal files to human annotators.",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-06",
-      "summary": "# Episode Summary\n\nElection results are reshaping AI regulation, with voters across the country approving 40 of 41 ballot measures to restrict data center construction—a significant constraint on AI infrastructure expansion that could lengthen permitting timelines and complicate capacity planning. Meanwhile, Anthropic's IPO valuation has dropped to $1.3 trillion amid signs that enterprise AI spending has plateaued despite rising usage, while fresh privacy concerns with Claude Code are adding trust issues at a critical moment for the company. The episode also highlights practical wins from Databricks on real-time fraud detection and data collaboration frameworks, plus notable releases from Google DeepMind across frontier models, efficiency improvements, and agentic chemistry",
       "keyTopics": []
     }
   ]
