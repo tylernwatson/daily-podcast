@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-26</title>
+      <description># Episode Summary
+
+This episode covers Nvidia&apos;s dual crisis—government-mandated chip export restrictions to Southeast Asia and S&amp;P&apos;s potential credit downgrade citing governance and &quot;key man&quot; risk around CEO Jensen Huang—alongside Google DeepMind&apos;s relentless shipping pace with five major releases this week, including advances in AI-verified quantum algorithms and open weather model datasets. The conversation also explores emerging tensions in agentic AI (like Gmail&apos;s read-only MCP server to prevent unreviewed actions), signs of cost discipline across frontier labs, and Databricks&apos; infrastructure rethinking around read replicas and data modeling for AI-powered customer platforms.</description>
+      <pubDate>Thu, 26 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-26.mp3" length="4237824" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-26.mp3</guid>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-25</title>
       <description># Episode Summary
 
