@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Daily Databricks and AI Podcast — 2026-11-27</title>
+      <description># Episode Summary
+
+This episode covers three major stories reshaping AI infrastructure and governance: Nvidia faces mounting pressure from U.S. export restrictions on Southeast Asian chip shipments combined with S&amp;P&apos;s threat of a credit downgrade over governance concerns and &quot;key man&quot; risk around CEO Jensen Huang. OpenAI is quietly tightening access by merging its Chat and Work products with unified usage caps, signaling mounting pressure to manage compute costs even for paying customers. A new research paper on &quot;Context Scaling&quot; reframes AI failures not as model limitations but as state availability problems, suggesting that ensuring agents have the right information at decision time is the real frontier for deployed AI systems.</description>
+      <pubDate>Fri, 27 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-27.mp3" length="4298304" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://tylernwatson.github.io/daily-podcast/episodes/AI-Briefing-2026-11-27.mp3</guid>
+      <itunes:duration>269</itunes:duration>
+    </item>
+    <item>
       <title>Daily Databricks and AI Podcast — 2026-11-26</title>
       <description># Episode Summary
 
