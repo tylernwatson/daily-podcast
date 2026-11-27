@@ -1,6 +1,11 @@
 {
   "episodes": [
     {
+      "date": "2026-11-27",
+      "summary": "# Episode Summary\n\nThis episode covers three major stories reshaping AI infrastructure and governance: Nvidia faces mounting pressure from U.S. export restrictions on Southeast Asian chip shipments combined with S&P's threat of a credit downgrade over governance concerns and \"key man\" risk around CEO Jensen Huang. OpenAI is quietly tightening access by merging its Chat and Work products with unified usage caps, signaling mounting pressure to manage compute costs even for paying customers. A new research paper on \"Context Scaling\" reframes AI failures not as model limitations but as state availability problems, suggesting that ensuring agents have the right information at decision time is the real frontier for deployed AI systems.",
+      "keyTopics": []
+    },
+    {
       "date": "2026-11-26",
       "summary": "# Episode Summary\n\nThis episode covers Nvidia's dual crisis—government-mandated chip export restrictions to Southeast Asia and S&P's potential credit downgrade citing governance and \"key man\" risk around CEO Jensen Huang—alongside Google DeepMind's relentless shipping pace with five major releases this week, including advances in AI-verified quantum algorithms and open weather model datasets. The conversation also explores emerging tensions in agentic AI (like Gmail's read-only MCP server to prevent unreviewed actions), signs of cost discipline across frontier labs, and Databricks' infrastructure rethinking around read replicas and data modeling for AI-powered customer platforms.",
       "keyTopics": []
@@ -63,11 +68,6 @@
     {
       "date": "2026-11-10",
       "summary": "# Episode Summary\n\nThis episode covers four major AI industry stories: Anthropic's launch of Claude Meetings, a new enterprise productivity tool that embeds Claude directly into workplace workflows to take notes, draft plans, and pull real-time data; a reported affair involving Nvidia CEO Jensen Huang and alleged Chinese spy with significant national security implications for GPU supply chains; Google's multi-release Tuesday featuring Gemini 4 Carbon, Gemini 2 Flash, AlphaProof Code for software verification, and new confidential training TPUs; and Databricks' UCDataset feature that accelerates GPU training directly on Unity Catalog data, plus agentic AI integrations for sales and marketing teams. The",
-      "keyTopics": []
-    },
-    {
-      "date": "2026-11-09",
-      "summary": "# Episode Summary\n\nThis episode covers major AI developments including Anthropic's new Fable 5.2 and Mythos 5.2 models—which set benchmark records—alongside the company's $3.4 billion investment in natural gas turbines to power data centers. Meta's new Muse Ember model offers ultra-cheap agent execution at 10 cents per million tokens, positioning itself as infrastructure-layer competition in the AI stack. Databricks releases GPU training improvements and reaffirms European data sovereignty commitments, while privacy concerns emerge around Google Gemini routing personal files to human annotators.",
       "keyTopics": []
     }
   ]
